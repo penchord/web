@@ -53,7 +53,7 @@ Holly Maguire, Advanced Nurse Practitioner for stroke, Mid Cheshire Hospital Tru
 
 ## Use of work
 
-* SAMueL-1 is used in, and cited, by the most recent national clinical guidelines for stroke care (Royal College of Physicians 2023). [National Clinical Guideline for Stroke for the UK and Ireland](url{https://www.strokeguideline.org/)
+* SAMueL-1 is used in, and cited, by the most recent national clinical guidelines for stroke care (Royal College of Physicians 2023). [National Clinical Guideline for Stroke for the UK and Ireland](https://www.strokeguideline.org/)
 
 * SAMueL is forming part of an NHS-England led initiative to improve thrombolysis use in England. This is the TASC (Thrombolysis in Acute Stroke Collaboration) team and has launched in October 2023. Teams have access to analysis of their thrombolysis pathways and decision-making through the [SAMueL Web App](https://stroke-predictions.streamlit.app/) 
 
