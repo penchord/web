@@ -1,3 +1,0 @@
-# People
-
-Test people page
