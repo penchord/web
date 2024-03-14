@@ -6,7 +6,7 @@
 
 HSMA is just brilliant. 'Nuff said.
 
-![](https://youtu.be/fhbul3qKBxQ)
+Watch the [introductory video](https://youtu.be/fhbul3qKBxQ)
 
 ### Open Science Foundations
 
