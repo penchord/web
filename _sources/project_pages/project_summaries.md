@@ -44,7 +44,7 @@ When someone has a stroke, they are first taken to hospital for emergency treatm
 
 BHF Stroke Data Science Catalyst: https://bhfdatasciencecentre.org/areas/stroke-data-science-catalyst/
 
-## Project Archive
+## **Project Archive**
 
 ### Stroke
 
