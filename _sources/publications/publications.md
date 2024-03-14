@@ -1,6 +1,6 @@
 # PenCHORD publications
 
-## Stroke
+## Stroke (peer-reviewed)
 
 Abigail Alton, Darren Flynn, David Burgess, Gary A Ford, Chris Price, Martin James, Peter McMeekin, Michael Allen, Lisa Shaw, Phil White (2024) Stroke Survivor Views on Ambulance Redirection as a Strategy to Increase Access to Thrombectomy in England. British Paramedic Journal (in press).
 
