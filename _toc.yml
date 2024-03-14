@@ -6,8 +6,4 @@ parts:
   - file: people_pages/people
 - caption: Projects
   chapters:
-  - file: project_pages/projects
   - file: project_pages/project_summaries
-  
-  
-
