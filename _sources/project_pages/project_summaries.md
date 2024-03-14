@@ -8,9 +8,9 @@ The Health Service Modelling Associates (HSMA) Programme is a training and mento
 
 Watch the [introductory video](https://youtu.be/fhbul3qKBxQ)
 
-HSMA resources website: https://sites.google.com/nihr.ac.uk/hsma
+HSMA resources website: [link](https://sites.google.com/nihr.ac.uk/hsma)
 
-HSMA GitHub organisation: https://github.com/hsma-programme
+HSMA GitHub organisation: [link](https://github.com/hsma-programme)
 
 ### Open Science Foundations
 
@@ -24,7 +24,7 @@ Simulation models play a vital role in health and medical research, aiding in pr
 
 Stroke is a common cause of adult disability. Expert opinion is that about one in five patients should receive clot-busting drugs to break up the blood clot that is causing their stroke. At the moment only about one in nine patients actually receive this treatment in the UK. There is a lot of variation between hospitals, which means that the same patient might receive different treatment in different hospitals. In SAMueL-1 we developed the methods for understanding what are the main causes of variation between hospitals: How much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. In SAMueL-2 we extend this work to understand which patients different hospitals would treat differently, and we predict the effect these differences have on patient outcomes (death and/or disability on discharge).
 
-What do teams do differently? : https://samuel-book.github.io/samuel_shap_paper_1/introduction/intro.html
+What do teams do differently? : [link](https://samuel-book.github.io/samuel_shap_paper_1/introduction/intro.html)
 
 #### OPTIMIST (OPTimising IMplementation of Ischaemic Stroke Thrombectomy)
 
@@ -42,7 +42,7 @@ Strokes are a major health problem in the UK, with many preventable cases. The a
 
 When someone has a stroke, they are first taken to hospital for emergency treatment and rehabilitation care. We wish to understand the longer-term consequences of stroke on the patient and to the NHS (especially the length of time patients spend in different hospitals in the year after their stroke). We wish to understand how that length of time varies for different patient characteristics (such as age, stroke severity, the wealth of their home area, COVID history) and what emergency treatments they received. This project will address those questions by accessing broad patient-level data through the new British Heart Foundation Stroke Data Science Catalyst which gives us access to a broad range of patient data from hospitals, GPs, and pharmacies.
 
-BHF Stroke Data Science Catalyst: https://bhfdatasciencecentre.org/areas/stroke-data-science-catalyst/
+BHF Stroke Data Science Catalyst: [link](https://bhfdatasciencecentre.org/areas/stroke-data-science-catalyst/)
 
 ## **Project Archive**
 
@@ -54,4 +54,4 @@ Stroke is a common cause of adult disability. Expert opinion is that about one i
 
 In SAMueL-1 we developed the methods for understanding what are the main causes of variation between hospitals: How much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. By applying these methods we found that thrombolysis rates could reasonable be doubled, but that each hospital should have its own target, taking into account the characteristics of the local population.
 
-Project WebSite: https://samuel-book.github.io/samuel-1/introduction/intro.html
+Project WebSite: [link](https://samuel-book.github.io/samuel-1/introduction/intro.html)
