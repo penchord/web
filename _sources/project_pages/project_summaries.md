@@ -1,6 +1,6 @@
 # Project summaries
 
-## Active
+## **Active**
 
 ### HSMA
 
