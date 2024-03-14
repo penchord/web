@@ -7,3 +7,6 @@ parts:
 - caption: Projects
   chapters:
   - file: project_pages/project_summaries
+- caption: Publications
+  chapters:
+  - file: publications/publications
