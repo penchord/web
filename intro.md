@@ -1,7 +1,7 @@
 # PenCHORD
 
 ## Vision
-> We develop, use, share and teach and share, innovative applied open data science and modelling methods to help NHS healthcare providers deliver higher quality healthcare to more patients.
+> We develop, use, share, and teach innovative applied open data science and modelling methods to help NHS healthcare providers deliver higher quality healthcare to more patients.
 
 ## Strategy
 
@@ -9,7 +9,7 @@ We do this by:
 
 * Focussing our work on that which helps NHS healthcare providers deliver higher quality healthcare to more patients.
 * Disseminating innovative, and published, research into open data science and modelling methods.
-* Developing our Open Science processes and infrastructure (including a secure research environment).
+* Developing our Open Science processes and infrastructure.
 * Making our models available to NHS users as Web Apps, and teaching and supporting those in the NHS to do the same.
 * Developing capacity within the NHS to use open data science and modelling methods.
 * Training the next generation of scientists to apply open data science and modelling methods to help NHS healthcare providers.
