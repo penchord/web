@@ -13,7 +13,7 @@ We do this by:
 * Making our models available to NHS users as Web Apps, and teaching and supporting those in the NHS to do the same.
 * Developing capacity within the NHS to use open data science and modelling methods.
 * Training the next generation of scientists to apply open data science and modelling methods to help NHS healthcare providers.
-* Collaboratingon with others committed to, or with a desire to learn, open data science and modelling methods.
+* Collaborating with others committed to, or with a desire to learn, open data science and modelling methods.
 * Attracting people wishing to develop open data science and modelling methods to help NHS healthcare providers.
 * Promoting the adoption of open modelling and data science in both health services research and healthcare providers.
 * Working closely with patient representatives, and promoting involvement of patients in research via our teaching activities.
