@@ -40,7 +40,7 @@ Dr. Jehath Syed, Clinical Pharmacist and Researcher, JSS Academy of Higher Educa
 
 Holly Maguire, Advanced Nurse Practitioner for stroke, Mid Cheshire Hospital Trust:
 
-'I co-ordinate acute stroke training locally, and believe that some of these results will influence practice nationally. Simulation training is becoming more widely used with positive results across healthcare learning. Applying this learning to acute stroke treatment is an excellent advance. Providing robust training for emergency service provision is notoriously difficult. Prompt diagnosis and treatment is paramount and it can be difficult to provide services alongside training. The need to wait for someone to present with a particular condition can also make training a lengthy process. Simulation training could allow  standardised and robust training to be provided nationally, which would reduce intra-hospital variation.'
+> 'I co-ordinate acute stroke training locally, and believe that some of these results will influence practice nationally. Simulation training is becoming more widely used with positive results across healthcare learning. Applying this learning to acute stroke treatment is an excellent advance. Providing robust training for emergency service provision is notoriously difficult. Prompt diagnosis and treatment is paramount and it can be difficult to provide services alongside training. The need to wait for someone to present with a particular condition can also make training a lengthy process. Simulation training could allow  standardised and robust training to be provided nationally, which would reduce intra-hospital variation.'
 
 
 ## NIHR highlighting of project
