@@ -130,7 +130,7 @@ def get_publications(orcid_id):
     # Convert into a markdown string
     md = []
     for year, items in df.groupby("year", sort=False):
-        md.append(f"## {year}")
+        md.append(f"### {year}")
         for _, item in items.iterrows():
             md.append(item["reference"])
             md.append("")
@@ -159,7 +159,7 @@ def get_publications(orcid_id):
 # ORCID ID unknown
 
 # Mike Allen
-get_publications("0000-0002-8746-9957")
+# get_publications("0000-0002-8746-9957")
 
 # Tom Monks
 # get_publications("0000-0003-2631-4481")
