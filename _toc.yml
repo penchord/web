@@ -1,9 +1,6 @@
 format: jb-book
 root: intro
 parts:
-- caption: People
-  chapters:
-  - file: people_pages/people
 - caption: Projects
   chapters:
   - file: project_pages/project_summaries
