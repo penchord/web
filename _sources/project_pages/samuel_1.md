@@ -8,7 +8,7 @@ In SAMueL-1 we developed the methods for understanding what are the main causes 
 
 ## Project WebSite
 
-https://samuel-book.github.io/samuel-1/introduction/intro.html
+[SAMueL-1 online book of all work](https://samuel-book.github.io/samuel-1/introduction/intro.html)
 
 ## Publications
 
