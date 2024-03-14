@@ -1,0 +1,531 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>SAMueL-1: Stroke Audit Machine Learning &#8212; PenCHORD</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b76e3c8a" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="../_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'project_pages/samuel_1';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="PenCHORD publications" href="../publications/publications.html" />
+    <link rel="prev" title="Project summaries" href="project_summaries.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/nihr_logo.png" class="logo__image only-light" alt="PenCHORD - Home"/>
+    <script>document.write(`<img src="../_static/nihr_logo.png" class="logo__image only-dark" alt="PenCHORD - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    PenCHORD
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Projects</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="project_summaries.html">Project summaries</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Publications</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../publications/publications.html">PenCHORD publications</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/project_pages/samuel_1.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>SAMueL-1: Stroke Audit Machine Learning</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#project-website">Project WebSite</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#publications">Publications</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#quotes">Quotes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nihr-highlighting-of-project">NIHR highlighting of project</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#use-of-work">Use of work</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="samuel-1-stroke-audit-machine-learning">
+<h1>SAMueL-1: Stroke Audit Machine Learning<a class="headerlink" href="#samuel-1-stroke-audit-machine-learning" title="Link to this heading">#</a></h1>
+<section id="summary">
+<h2>Summary<a class="headerlink" href="#summary" title="Link to this heading">#</a></h2>
+<p>Stroke is a common cause of adult disability. Expert opinion is that about one in five patients should receive clot-busting drugs (‘thrombolysis’) to break up the blood clot that is causing their stroke. At the moment only about one in nine patients actually receive this treatment in the UK. There is a lot of variation between hospitals, which means that the same patient might receive different treatment in different hospitals.</p>
+<p>In SAMueL-1 we developed the methods for understanding what are the main causes of variation between hospitals: How much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. By applying these methods we found that thrombolysis rates could reasonable be doubled, but that each hospital should have its own target, taking into account the characteristics of the local population.</p>
+</section>
+<section id="project-website">
+<h2>Project WebSite<a class="headerlink" href="#project-website" title="Link to this heading">#</a></h2>
+<p>https://samuel-book.github.io/samuel-1/introduction/intro.html</p>
+</section>
+<section id="publications">
+<h2>Publications<a class="headerlink" href="#publications" title="Link to this heading">#</a></h2>
+<p>James, C., Allen, M,. James, M., Everson, R. (2023) Using machine learning and clinical registry data to uncover variation in clinical decision making. Intelligence-Based Medicine. 7, 100098. doi: https://doi.org/10.1016/j.ibmed.2023.100098.</p>
+<p>Allen, M. James, C., Frost,J., Liabo, K., Pearn, K., Monks, T., Everson, R., Stein, K. and James, M.  (2022). Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke.  Stroke. 2022;53:2758–2767 DOI 10.1161/STROKEAHA.121.038454 (https://www.ahajournals.org/doi/10.1161/STROKEAHA.121.038454).</p>
+<p>Allen, M., James, C., Frost, J. Liabo, K., Pearn, K., Monks, T., Zhelev, Z., Logan, S., Everson, R., James, M., Stein, K. (2022). Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study. Health and Social Care Delivery Research. 2022 Oct 21;10(31):1–148. DOI: 10.3310/GVZL5699 https://pubmed.ncbi.nlm.nih.gov/36302070/ Accompanying online book: Available online at: https://samuel-book.github.io/samuel-1/. DOI: 10.5281/zenodo.5078131</p>
+<p>Stroke editorial on SAMueL-1 work at https://www.ahajournals.org/doi/10.1161/STROKEAHA.122.039954</p>
+</section>
+<section id="quotes">
+<h2>Quotes<a class="headerlink" href="#quotes" title="Link to this heading">#</a></h2>
+<p>Noreen Kamal, editor of <em>Stroke</em>:</p>
+<blockquote>
+<div><p>‘Both machine learning and simulation modeling provide an exciting new frontier for acute stroke research. These SAMueL approaches can provide insight for process improvements that will result in better patient outcomes’</p>
+</div></blockquote>
+<p>Dr. Richard Francis, Head of Research, Stroke Association:</p>
+<blockquote>
+<div><p>‘We are very concerned by thrombolysis rates in England. Thrombolysis rates stagnated at around 11-12% since 2013, and recently fell below 11% for the first time in a decade. There is also considerable variation across the country. These figures are unacceptable. Big data and machine learning approaches like those used in this study give us hope. They offer exciting possibilities for improving stroke services. We are also pleased to see the researchers looking at what might be helpful for individual hospitals.’</p>
+</div></blockquote>
+<p>Prof. Chris Price, Professor of Stroke and Applied Research, Newcastle University:</p>
+<blockquote>
+<div><p>‘These results are relevant both to individual clinicians and to systems. For instance, clinicians may focus more on establishing stroke onset time to make better treatment decisions. Services could set the target rate for thrombolysis at a level based upon evidence.The research could lead to changes in local service assessments and targets. It will also feed into other research I am supporting about emergency pathways of care for stroke.’</p>
+</div></blockquote>
+<p>Dr. Jehath Syed, Clinical Pharmacist and Researcher, JSS Academy of Higher Education &amp; Research, Mysuru:</p>
+<blockquote>
+<div><p>‘Congratulations to the authors for this exhaustive work. It is the first of its kind and definitely adds value to the literature and practice. These findings will lead to further improvements to the healthcare system.’</p>
+</div></blockquote>
+<p>Holly Maguire, Advanced Nurse Practitioner for stroke, Mid Cheshire Hospital Trust:</p>
+<p>‘I co-ordinate acute stroke training locally, and believe that some of these results will influence practice nationally. Simulation training is becoming more widely used with positive results across healthcare learning. Applying this learning to acute stroke treatment is an excellent advance. Providing robust training for emergency service provision is notoriously difficult. Prompt diagnosis and treatment is paramount and it can be difficult to provide services alongside training. The need to wait for someone to present with a particular condition can also make training a lengthy process. Simulation training could allow  standardised and robust training to be provided nationally, which would reduce intra-hospital variation.’</p>
+</section>
+<section id="nihr-highlighting-of-project">
+<h2>NIHR highlighting of project<a class="headerlink" href="#nihr-highlighting-of-project" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://evidence.nihr.ac.uk/alert/increasing-thrombolysis-use-after-stroke-lessons-from-machine-learning/">NIHR Highlight 1</a></p></li>
+<li><p><a class="reference external" href="https://evidence.nihr.ac.uk/collection/improving-stroke-services-lessons-from-research/">NIHR Highlight 2</a></p></li>
+<li><p><a class="reference external" href="https://www.youtube.com/watch?v=B2Q6ak4iELE">YouTube (Prof Martin James)</a></p></li>
+</ul>
+</section>
+<section id="use-of-work">
+<h2>Use of work<a class="headerlink" href="#use-of-work" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>SAMueL-1 is used in, and cited, by the most recent national clinical guidelines for stroke care (Royal College of Physicians 2023). <a class="reference internal" href="#url%7Bhttps://www.strokeguideline.org/"><span class="xref myst">National Clinical Guideline for Stroke for the UK and Ireland</span></a></p></li>
+<li><p>SAMueL is forming part of an NHS-England led initiative to improve thrombolysis use in England. This is the TASC (Thrombolysis in Acute Stroke Collaboration) team and has launched in October 2023. Teams have access to analysis of their thrombolysis pathways and decision-making through the <a class="reference external" href="https://stroke-predictions.streamlit.app/">SAMueL Web App</a></p></li>
+</ul>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./project_pages"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="project_summaries.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Project summaries</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../publications/publications.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">PenCHORD publications</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#project-website">Project WebSite</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#publications">Publications</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#quotes">Quotes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nihr-highlighting-of-project">NIHR highlighting of project</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#use-of-work">Use of work</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By PenCHORD
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
