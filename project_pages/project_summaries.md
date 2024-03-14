@@ -18,8 +18,6 @@ HSMA GitHub organisation: https://github.com/hsma-programme
 
 Simulation models play a vital role in health and medical research, aiding in predicting drug effectiveness and managing operational flow. However, challenges exist in sharing and reusing these models, hindering transparency and reproducibility. To address this, a framework called STARS is being developed to enhance the sharing of simulation models using Python and R. The project aims to identify barriers, create interactive training materials, and engage with the health data science community. By partnering with various organizations and journals, the initiative seeks to promote open science principles and improve model reproducibility.  The goal is to improve the way researchers share models within 2-5 years, fostering transparency and confidence in healthcare decision-making, ultimately benefiting patients.
 
-Project website: open_sceince_is_fabby.org
-
 ### Stroke 
 
 #### SAMueL-2 (Stroke Audit Machine Learning 2)
@@ -38,7 +36,7 @@ Mobile Stroke Units (MSUs) offer an innovative approach to emergency stroke care
 
 #### STROKE-PREDICT (Using Explainable Artificial Intelligence to predict future stroke using routine historical investigations)
 
-Strokes are a major health problem in the UK, with many preventable cases. This project of this project to use AI to analyze patient data like brain scans, monitoring of electrical activity of the heart, and other medical tests to predict risk of the person having a stroke. By analyzing data from 10,000 past stroke cases, we hope to develop a model that can identify people at high risk. The project will build different AI models for various tests and combine them to obtain the best accuracy. We will also check how reliable the predictions are and explain what factors the AI uses to make those predictions. Ultimately, this initiative aims to revolutionize stroke prevention by identifying both known and novel risk factors, potentially lengthening lives, avoiding disability, and reducing healthcare expenses.
+Strokes are a major health problem in the UK, with many preventable cases. The aim of this project to use AI to analyze patient data like brain scans, monitoring of electrical activity of the heart, and other medical tests to predict risk of the person having a stroke. By analyzing data from 10,000 past stroke cases, we hope to develop a model that can identify people at high risk. The project will build different AI models for various tests and combine them to obtain the best accuracy. We will also check how reliable the predictions are and explain what factors the AI uses to make those predictions. Ultimately, this initiative aims to revolutionize stroke prevention by identifying both known and novel risk factors, potentially lengthening lives, avoiding disability, and reducing healthcare expenses.
 
 #### HDR-UK BHF Stroke Catalyst
 
