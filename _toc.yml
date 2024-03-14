@@ -4,6 +4,7 @@ parts:
 - caption: Projects
   chapters:
   - file: project_pages/project_summaries
+  - file: project_pages/samuel_1.md
 - caption: Publications
   chapters:
   - file: publications/publications
