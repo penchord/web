@@ -309,7 +309,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -325,6 +327,15 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#vision">Vision</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#strategy">Strategy</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -336,7 +347,28 @@ document.write(`
                   
   <section id="penchord">
 <h1>PenCHORD<a class="headerlink" href="#penchord" title="Link to this heading">#</a></h1>
-<p>Test web site</p>
+<section id="vision">
+<h2>Vision<a class="headerlink" href="#vision" title="Link to this heading">#</a></h2>
+<blockquote>
+<div><p>We develop, use, share and teach and share, innovative applied open data science and modelling methods to help NHS healthcare providers deliver higher quality healthcare to more patients.</p>
+</div></blockquote>
+</section>
+<section id="strategy">
+<h2>Strategy<a class="headerlink" href="#strategy" title="Link to this heading">#</a></h2>
+<p>We do this by:</p>
+<ul class="simple">
+<li><p>Focussing our work on that which helps NHS healthcare providers deliver higher quality healthcare to more patients.</p></li>
+<li><p>Disseminating innovative, and published, research into open data science and modelling methods.</p></li>
+<li><p>Developing our Open Science processes and infrastructure (including a secure research environment).</p></li>
+<li><p>Making our models available to NHS users as Web Apps, and teaching and supporting those in the NHS to do the same.</p></li>
+<li><p>Developing capacity within the NHS to use open data science and modelling methods.</p></li>
+<li><p>Training the next generation of scientists to apply open data science and modelling methods to help NHS healthcare providers.</p></li>
+<li><p>Collaboratingon with others committed to, or with a desire to learn, open data science and modelling methods.</p></li>
+<li><p>Attracting people wishing to develop open data science and modelling methods to help NHS healthcare providers.</p></li>
+<li><p>Promoting the adoption of open modelling and data science in both health services research and healthcare providers.</p></li>
+<li><p>Working closely with patient representatives, and promoting involvement of patients in research via our teaching activities.</p></li>
+</ul>
+</section>
 <div class="toctree-wrapper compound">
 </div>
 <div class="toctree-wrapper compound">
@@ -389,7 +421,21 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#vision">Vision</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#strategy">Strategy</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
