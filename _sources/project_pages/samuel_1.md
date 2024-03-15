@@ -12,9 +12,9 @@ In SAMueL-1 we developed the methods for understanding what are the main causes 
 
 ## Publications
 
-James, C., Allen, M,. James, M., Everson, R. (2023) Using machine learning and clinical registry data to uncover variation in clinical decision making. Intelligence-Based Medicine. 7, 100098. doi: https://doi.org/10.1016/j.ibmed.2023.100098.
+James, C., Allen, M,. James, M., Everson, R. (2023) Using machine learning and clinical registry data to uncover variation in clinical decision making. Intelligence-Based Medicine. 7, 100098. doi: https://doi.org/10.1016/j.ibmed.2023.100098. [link](https://www.sciencedirect.com/science/article/pii/S2666521223000121)
 
-Allen, M. James, C., Frost,J., Liabo, K., Pearn, K., Monks, T., Everson, R., Stein, K. and James, M.  (2022). Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke.  Stroke. 2022;53:2758–2767 DOI 10.1161/STROKEAHA.121.038454 (https://www.ahajournals.org/doi/10.1161/STROKEAHA.121.038454). 
+Allen, M. James, C., Frost,J., Liabo, K., Pearn, K., Monks, T., Everson, R., Stein, K. and James, M.  (2022). Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke.  Stroke. 2022;53:2758–2767 DOI 10.1161/STROKEAHA.121.038454. [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.121.038454) 
 
 Allen, M., James, C., Frost, J. Liabo, K., Pearn, K., Monks, T., Zhelev, Z., Logan, S., Everson, R., James, M., Stein, K. (2022). Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study. Health and Social Care Delivery Research. 2022 Oct 21;10(31):1–148. DOI: 10.3310/GVZL5699 https://pubmed.ncbi.nlm.nih.gov/36302070/ Accompanying online book: Available online at: https://samuel-book.github.io/samuel-1/. DOI: 10.5281/zenodo.5078131
 
