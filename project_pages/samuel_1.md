@@ -38,7 +38,7 @@ Allen, M., James, C., Frost, J. Liabo, K., Pearn, K., Monks, T., Zhelev, Z., Log
 
 ### Conference presentations
 
-Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice. European Stroke Organisation Conference. Zenodo. [https://doi.org/10.5281/zenodo.7878306]([https://doi.org/10.5281/zenodo.7878306])
+Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice. European Stroke Organisation Conference. Zenodo. [https://doi.org/10.5281/zenodo.7878306](https://doi.org/10.5281/zenodo.7878306)
 
 Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). WHAT WOULD OTHER EMERGENCY STROKE TEAMS DO? Using explainable machine learning to understand variation in thrombolysis (clot-busting) practice. AI UK 2023 (Turing Institute), London, UK. Zenodo. [https://doi.org/10.5281/zenodo.7759059](https://doi.org/10.5281/zenodo.7759059)
 
