@@ -30,7 +30,7 @@ Allen, M., Pearn, K., Villeneuve, E., Monks, T. Stein, K. & James, M. (2017) Fea
 
 Monks, T., Van der Zee, D-J., Lahe, M., Allen, M., Pearn, M., James, M., Buskens, E., Luijckxc, G-J. (2017) A framework to accelerate simulation studies of hyperacute stroke systems. Operations Research For Health Care 15:57-67. [link](https://doi.org/10.1016/j.orhc.2017.09.002)
 
-Pitt, M., Monks, T., Crowe, S. and Vasilakis, C., 2016. Systems modelling and simulation in health service design, delivery and decision making. BMJ quality & safety, 25(1), pp.38-45. [link](https://qualitysafety.bmj.com/content/25/1/38.short]
+Pitt, M., Monks, T., Crowe, S. and Vasilakis, C., 2016. Systems modelling and simulation in health service design, delivery and decision making. BMJ quality & safety, 25(1), pp.38-45. [link](https://qualitysafety.bmj.com/content/25/1/38.short)
 
 Monks, T., Worthington, D., Allen, M., Pitt, M., Stein, K., & James, M. A. (2016). A modelling tool for capacity planning in acute and community stroke services. BMC health services research, 16, 1-8. [link](https://link.springer.com/article/10.1186/s12913-016-1789-4)
 
