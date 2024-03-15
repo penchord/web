@@ -5,6 +5,22 @@ parts:
   chapters:
   - file: project_pages/project_summaries
   - file: project_pages/samuel_1.md
+  - file: project_pages/kailo
 - caption: Publications
   chapters:
   - file: publications/publications
+- caption: People
+  chapters:
+  - file: people_pages/people
+  - file: people_pages/amy_heather
+  - file: people_pages/andy_mayne
+  - file: people_pages/anna_laws
+  - file: people_pages/ben_holdsworth
+  - file: people_pages/chrissie_walker
+  - file: people_pages/dan_chalk
+  - file: people_pages/kerry_pearn
+  - file: people_pages/martin_pitt
+  - file: people_pages/mike_allen
+  - file: people_pages/rob_challen
+  - file: people_pages/sammi_rosser
+  - file: people_pages/tom_monks

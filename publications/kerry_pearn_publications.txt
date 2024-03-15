@@ -1,0 +1,46 @@
+### 2023
+
+**Pearn, K.**, Allen, M., Laws, A., Monks, T., Everson, R., James, M. (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. SAGE Publications. [dx.doi.org/10.1177/23969873231189040](http://dx.doi.org/10.1177/23969873231189040)
+
+
+### 2021
+
+[Allen, M.](http://orcid.org/0000-0002-8746-9957), **Pearn, K.**, Ford, G., [White, P.](http://orcid.org/0000-0001-6007-6013), Rudd, A., [McMeekin, P.](http://orcid.org/0000-0003-0946-7224), Stein, K., James, M. (2021). **National implementation of reperfusion for acute ischaemic stroke in England: How should services be configured? A modelling study**. SAGE Publications. [dx.doi.org/10.1177/23969873211063323](http://dx.doi.org/10.1177/23969873211063323)
+
+
+[Allen, M.](http://orcid.org/0000-0002-8746-9957), **Pearn, K.**, Ford, G., White, P., Rudd, A., McMeekin, P., Stein, K., James, M. (2021). **Implementing the NHS England Long Term Plan for stroke: how should reperfusion services be configured? A modelling study**. Center for Open Science. [dx.doi.org/10.31219/osf.io/yg3x8](http://dx.doi.org/10.31219/osf.io/yg3x8)
+
+
+### 2022
+
+[Allen, M.](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [**Pearn, K.**](http://orcid.org/0000-0003-2786-4426), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Zhelev, Z.](http://orcid.org/0000-0002-0106-2401), [Logan, S.](http://orcid.org/0000-0002-9279-261X), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018), [Stein, K.](http://orcid.org/0000-0002-5842-9972) (2022). **Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study**. National Institute for Health and Care Research. [dx.doi.org/10.3310/gvzl5699](http://dx.doi.org/10.3310/gvzl5699)
+
+
+[Allen, M.](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [**Pearn, K.**](http://orcid.org/0000-0003-2786-4426), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [Stein, K.](http://orcid.org/0000-0002-5842-9972), [James, M.](http://orcid.org/0000-0001-6065-6018) (2022). **Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.121.038454](http://dx.doi.org/10.1161/strokeaha.121.038454)
+
+
+### 2019
+
+Allen, M., **Pearn, K.**, Monks, T., Bray, B., Everson, R., Salmon, A., James, M., Stein, K. (2019). **Can clinical audits be enhanced by pathway simulation and machine learning? An example from the acute stroke pathway**. BMJ. [dx.doi.org/10.1136/bmjopen-2018-028296](http://dx.doi.org/10.1136/bmjopen-2018-028296)
+
+
+Allen, M., **Pearn, K.**, Villeneuve, E., James, M., Stein, K. (2019). **Planning and Providing Acute Stroke Care in England: The Effect of Planning Footprint Size**. Frontiers Media SA. [dx.doi.org/10.3389/fneur.2019.00150](http://dx.doi.org/10.3389/fneur.2019.00150)
+
+
+### 2018
+
+[Allen, M.](http://orcid.org/0000-0002-8746-9957), **Pearn, K.**, James, M., Ford, G., White, P., Rudd, A., [McMeekin, P.](http://orcid.org/0000-0003-0946-7224), Stein, K. (2018). **Maximising access to thrombectomy services for stroke in England: A modelling study**. SAGE Publications. [dx.doi.org/10.1177/2396987318785421](http://dx.doi.org/10.1177/2396987318785421)
+
+
+### 2017
+
+[Monks, T.](http://orcid.org/0000-0003-2631-4481), van der Zee, D., Lahr, M., Allen, M., **Pearn, K.**, James, M., Buskens, E., Luijckx, G. (2017). **A framework to accelerate simulation studies of hyperacute stroke systems**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2017.09.002](http://dx.doi.org/10.1016/j.orhc.2017.09.002)
+
+
+[Monks, T.](http://orcid.org/0000-0003-2631-4481), van der Zee, D., Lahr, M., Allen, M., **Pearn, K.**, James, M., Buskens, E., Luijckx, G. (2017). **A framework to accelerate simulation studies of hyperacute stroke systems**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2017.09.002](http://dx.doi.org/10.1016/j.orhc.2017.09.002)
+
+
+### 2015
+
+Monks, T., **Pearn, K.**, Allen, M. (2015). **Simulation of stroke care systems**. IEEE. [dx.doi.org/10.1109/WSC.2015.7408262](http://dx.doi.org/10.1109/WSC.2015.7408262)
+
