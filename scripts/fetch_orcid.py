@@ -1,8 +1,8 @@
-'''
+"""
 Fetch publications from ORCID
 Based on code from Chris Holdgraf, 19 Nov 2022:
 https://chrisholdgraf.com/blog/2022/orcid-auto-update/
-'''
+"""
 
 import pandas as pd
 import requests
