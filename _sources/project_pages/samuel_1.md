@@ -24,6 +24,8 @@ NIHR Health Services and Delivery Research Reference NIHR134326: £589K Stroke A
 
 ## Publications
 
+### Peer reviewed papers
+
 Pearn, K, Allen, M., Laws, A., Monks, T., Everson, R. and James, M. (2023). What Would Other Emergency Stroke Teams Do? Using Explainable Machine Learning to Understand Variation in Thrombolysis Practice. European Stroke Journal 8 (4): 956–65. [link](https://doi.org/10.1177/23969873231189040)
 
 James, C., Allen, M,. James, M., Everson, R. (2023) Using machine learning and clinical registry data to uncover variation in clinical decision making. Intelligence-Based Medicine. 7, 100098. doi: https://doi.org/10.1016/j.ibmed.2023.100098. [link](https://www.sciencedirect.com/science/article/pii/S2666521223000121)
@@ -33,6 +35,12 @@ Allen, M. James, C., Frost,J., Liabo, K., Pearn, K., Monks, T., Everson, R., Ste
 Allen, M., James, C., Frost, J. Liabo, K., Pearn, K., Monks, T., Zhelev, Z., Logan, S., Everson, R., James, M., Stein, K. (2022). Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study. Health and Social Care Delivery Research. 2022 Oct 21;10(31):1–148. DOI: 10.3310/GVZL5699 [link](https://pubmed.ncbi.nlm.nih.gov/36302070/) Accompanying online book: Available online at: [link](https://samuel-book.github.io/samuel-1/). DOI: 10.5281/zenodo.5078131.
 
 *Stroke* editorial on SAMueL-1 work: [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.122.039954)
+
+### Conference presentations
+
+Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice. European Stroke Organisation Conference. Zenodo. [https://doi.org/10.5281/zenodo.7878306]([https://doi.org/10.5281/zenodo.7878306])
+
+Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). WHAT WOULD OTHER EMERGENCY STROKE TEAMS DO? Using explainable machine learning to understand variation in thrombolysis (clot-busting) practice. AI UK 2023 (Turing Institute), London, UK. Zenodo. [https://doi.org/10.5281/zenodo.7759059](https://doi.org/10.5281/zenodo.7759059)
 
 ## Quotes
 
