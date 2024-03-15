@@ -42,6 +42,6 @@ Monks, T., Pitt, M., Stein, K. and James, M.A., 2014. Hyperacute stroke care and
 
 Monks, T., Pitt, M., Stein, K., & James, M. (2012). Maximizing the population benefit from thrombolysis in acute ischemic stroke: a modeling study of in-hospital delays. Stroke, 43(10), 2706-2711. [link](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.112.663187)
 
-Pitt, M., Monks, T., Agarwal, P., Worthington, D., Ford, G. A., Lees, K. R., ... & James, M. A. (2012). Will delays in treatment jeopardize the population benefit from extending the time window for stroke thrombolysis?. Stroke, 43(11), 2992-2997. [link](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.111.638650)
+Pitt, M., Monks, T., Agarwal, P., Worthington, D., Ford, G. A., Lees, K. R., Stein, K. & James, M. A. (2012). Will delays in treatment jeopardize the population benefit from extending the time window for stroke thrombolysis?. Stroke, 43(11), 2992-2997. [link](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.111.638650)
 
 
