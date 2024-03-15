@@ -30,6 +30,10 @@ Allen, M., Pearn, K., Villeneuve, E., Monks, T. Stein, K. & James, M. (2017) Fea
 
 Monks, T., Van der Zee, D-J., Lahe, M., Allen, M., Pearn, M., James, M., Buskens, E., Luijckxc, G-J. (2017) A framework to accelerate simulation studies of hyperacute stroke systems. Operations Research For Health Care 15:57-67. [link](https://doi.org/10.1016/j.orhc.2017.09.002)
 
+Pitt, M., Monks, T., Crowe, S. and Vasilakis, C., 2016. Systems modelling and simulation in health service design, delivery and decision making. BMJ quality & safety, 25(1), pp.38-45. [link](https://qualitysafety.bmj.com/content/25/1/38.short]
+
+Monks, T., Worthington, D., Allen, M., Pitt, M., Stein, K., & James, M. A. (2016). A modelling tool for capacity planning in acute and community stroke services. BMC health services research, 16, 1-8. [link](https://link.springer.com/article/10.1186/s12913-016-1789-4)
+
 Monks, T. Pearn, K. & Allen, M. (2015) Simulation of Stroke Care Systems. Proceedings of the 2015 Winter Simulation Conference. L. Yilmaz, W. K. V. Chan, I. Moon, T. M. K. Roeder, C. Macal, and M. D. Rossetti, eds. [link](https://eprints.soton.ac.uk/391246/)
 
 Monks, T., Pearson, M., Pitt, M., Stein, K. and James, M.A., 2015. Evaluating the impact of a simulation study in emergency stroke care. Operations Research for Health Care, 6, pp.40-49. [link](https://www.sciencedirect.com/science/article/pii/S2211692314200348)
