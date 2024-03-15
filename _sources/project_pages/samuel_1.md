@@ -66,7 +66,7 @@ Holly Maguire, Advanced Nurse Practitioner for stroke, Mid Cheshire Hospital Tru
 
 * [NIHR Highlight 2](https://evidence.nihr.ac.uk/collection/improving-stroke-services-lessons-from-research/)
 
-* [YouTube (Prof Martin James)](https://www.youtube.com/watch?v=B2Q6ak4iELE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2Q6ak4iELE?si=vYcXTF71rD8hW9Yw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## HDR-UK Award
 
