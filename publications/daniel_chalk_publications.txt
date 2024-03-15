@@ -1,0 +1,25 @@
+### 2023
+
+[Pilbery, R.](http://orcid.org/0000-0002-5797-9788), Smith, M., Green, J., [**Chalk, D.**](http://orcid.org/0000-0002-4165-4364), O'Keeffe, C. (2023). **Modelling NHS England 111 demand for primary care services: a discrete event simulation**. BMJ. [dx.doi.org/10.1136/bmjopen-2023-076203](http://dx.doi.org/10.1136/bmjopen-2023-076203)
+
+
+[Pilbery, R.](http://orcid.org/0000-0002-5797-9788), Smith, M., [Green, J.](http://orcid.org/0000-0001-5738-7515), [**Chalk, D.**](http://orcid.org/0000-0002-4165-4364), [O’Keeffe, C.](http://orcid.org/0000-0002-4484-7401) (2023). **Modelling NHS 111 demand for primary care services: a discrete event simulation**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.05.22.23290330](http://dx.doi.org/10.1101/2023.05.22.23290330)
+
+
+[Pilbery, R.](http://orcid.org/0000-0002-5797-9788), Smith, M., [Green, J.](http://orcid.org/0000-0001-5738-7515), [**Chalk, D.**](http://orcid.org/0000-0002-4165-4364) (2023). **An analysis of NHS 111 demand for primary care services**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.03.20.23287449](http://dx.doi.org/10.1101/2023.03.20.23287449)
+
+
+### 2021
+
+[**Chalk, D.**](http://orcid.org/0000-0002-4165-4364), Robbins, S., Kandasamy, R., Rush, K., Aggarwal, A., Sullivan, R., Chamberlain, C. (2021). **Modelling palliative and end-of-life resource requirements during COVID-19: implications for quality care**. BMJ. [dx.doi.org/10.1136/bmjopen-2020-043795](http://dx.doi.org/10.1136/bmjopen-2020-043795)
+
+
+### 2020
+
+[**Chalk, D.**](http://orcid.org/0000-0002-4165-4364), Robbins, S., Kandasamy, R., Rush, K., Aggarwal, A., Sullivan, R., Chamberlain, C. (2020). **Modelling Palliative and End of Life resource requirements during COVID-19: implications for quality care**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.07.23.20160564](http://dx.doi.org/10.1101/2020.07.23.20160564)
+
+
+### 2018
+
+[**Chalk, D.**](http://orcid.org/0000-0002-4165-4364), Trent, N., Vennam, S., McGrane, J., Mantle, M. (2018). **Reducing delays in the diagnosis and treatment of muscle-invasive bladder cancer using simulation modelling**. SAGE Publications. [dx.doi.org/10.1177/2051415818794089](http://dx.doi.org/10.1177/2051415818794089)
+
