@@ -12,9 +12,11 @@ In SAMueL-2 we extended the methodology to include explainable machine learning 
 
 ## Funding
 
-NIHR HS&DR Project: 17/99/89: £330K Use of simulation and machine learning to identify key levers for maximising the disability benefit of intravenous thrombolysis in acute stroke pathways. Feb 2019 - August 2021 [link](https://fundingawards.nihr.ac.uk/award/17/99/89)
+HDR-UK British Heart Foundation Stroke Data Science Catalyst: BHF_SC001 £21k. What are the long-term consequences of stroke on the patient and to the NHS, and what contributes to variation? April - December 2024.
 
-NIHR Health Services and Delivery Research Reference NIHR134326: £589K Stroke Audit Machine Learning (SAMueL-2). April 2022 to March 2024. [link](https://fundingawards.nihr.ac.uk/award/NIHR134326)
+NIHR Health Services and Delivery Research Reference NIHR134326: £589K Stroke Audit Machine Learning (SAMueL-2). April 2022 to July 2024. [link](https://fundingawards.nihr.ac.uk/award/NIHR134326)
+
+NIHR HS&DR Project: 17/99/89: £330K Use of simulation and machine learning to identify key levers for maximising the disability benefit of intravenous thrombolysis in acute stroke pathways. Feb 2019 - August 2021 [link](https://fundingawards.nihr.ac.uk/award/17/99/89)
 
 ## Project web sites (with Python code)
 
