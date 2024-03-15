@@ -1,7 +1,7 @@
 # book settings
 title: PenCHORD
 author: PenCHORD
-logo: images/nihr_logo.png
+logo: images/penchord_logo.png
 
 #only build files specified in table of contents file
 only_build_toc_files: true

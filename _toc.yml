@@ -1,6 +1,13 @@
 format: jb-book
 root: intro
 parts:
+- caption: Projects
+  chapters:
+  - file: project_pages/project_summaries
+  - file: project_pages/samuel_1.md
+- caption: Publications
+  chapters:
+  - file: publications/publications
 - caption: People
   chapters:
   - file: people_pages/people
@@ -16,10 +23,3 @@ parts:
   - file: people_pages/rob_challen
   - file: people_pages/sammi_rosser
   - file: people_pages/tom_monks
-- caption: Projects
-  chapters:
-  - file: project_pages/projects
-  - file: project_pages/project_summaries
-  
-  
-
