@@ -1,149 +1,210 @@
 ### 2023
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Improving the usability of open health service delivery simulation models using Python and web apps**. National Institute for Health and Care Research. [dx.doi.org/10.3310/nihropenres.13467.2](http://dx.doi.org/10.3310/nihropenres.13467.2)
 
-[Harper, A.](http://orcid.org/0000-0001-5274-5037), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Wilson, R.](http://orcid.org/0000-0003-4709-7260), [Redaniel, M.](http://orcid.org/0000-0002-0668-0874), [Eyles, E.](http://orcid.org/0000-0002-2695-7172), [Jones, T.](http://orcid.org/0000-0002-1199-8668), [Penfold, C.](http://orcid.org/0000-0001-8654-353X), Elliott, A., [Keen, T.](http://orcid.org/0009-0005-6230-2455), [Pitt, M.](http://orcid.org/0000-0003-4026-8346), [Blom, A.](http://orcid.org/0000-0002-9940-1095), [Whitehouse, M.](http://orcid.org/0000-0003-2436-9024), [Judge, A.](http://orcid.org/0000-0003-3015-0432) (2023). **Development and application of simulation modelling for orthopaedic elective resource planning in England**. BMJ. [dx.doi.org/10.1136/bmjopen-2023-076221](http://dx.doi.org/10.1136/bmjopen-2023-076221)
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Improving the usability of open health service delivery simulation models using Python and web apps**. National Institute for Health and Care Research. [dx.doi.org/10.3310/nihropenres.13467.2](http://dx.doi.org/10.3310/nihropenres.13467.2)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037), Mustafee, N. (2023). **Towards Sharing Tools and Artefacts for Reusable Simulations in Healthcare**. Center for Open Science. [dx.doi.org/10.31219/osf.io/zrqve](http://dx.doi.org/10.31219/osf.io/zrqve)
 
-[Harper, A.](http://orcid.org/0000-0001-5274-5037), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Manzi, S.](http://orcid.org/0000-0002-3226-2254) (2023). **Deploying Healthcare Simulation Models Using Containerization and Continuous Integration**. Center for Open Science. [dx.doi.org/10.31219/osf.io/qez45](http://dx.doi.org/10.31219/osf.io/qez45)
+[Harper, A.](http://orcid.org/0000-0001-5274-5037), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Wilson, R.](http://orcid.org/0000-0003-4709-7260), [Redaniel, M.](http://orcid.org/0000-0002-0668-0874), [Eyles, E.](http://orcid.org/0000-0002-2695-7172), [Jones, T.](http://orcid.org/0000-0002-1199-8668), [Penfold, C.](http://orcid.org/0000-0001-8654-353X), Elliott, A., [Keen, T.](http://orcid.org/0009-0005-6230-2455), [Pitt, M.](http://orcid.org/0000-0003-4026-8346), [Blom, A.](http://orcid.org/0000-0002-9940-1095), [Whitehouse, M.](http://orcid.org/0000-0003-2436-9024), [Judge, A.](http://orcid.org/0000-0003-3015-0432) (2023). **Development and application of simulation modelling for orthopaedic elective resource planning in England**. BMJ. [dx.doi.org/10.1136/bmjopen-2023-076221](http://dx.doi.org/10.1136/bmjopen-2023-076221)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Improving the usability of open health service delivery simulation models using Python and web apps**. National Institute for Health and Care Research. [dx.doi.org/10.3310/nihropenres.13467.1](http://dx.doi.org/10.3310/nihropenres.13467.1)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2023.2260772](http://dx.doi.org/10.1080/17477778.2023.2260772)
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037), Mustafee, N. (2023). **Towards Sharing Tools and Artefacts for Reusable Simulations in Healthcare**. Center for Open Science. [dx.doi.org/10.31219/osf.io/zrqve](http://dx.doi.org/10.31219/osf.io/zrqve)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review**. Center for Open Science. [dx.doi.org/10.31219/osf.io/c4ytf](http://dx.doi.org/10.31219/osf.io/c4ytf)
 
-[Harper, A.](http://orcid.org/0000-0001-5274-5037), [Monks, T.](http://orcid.org/0000-0003-2631-4481), Wilson, R., [Redaniel, M.](http://orcid.org/0000-0002-0668-0874), Eyles, E., Jones, T., Penfold, C., Elliott, A., Keen, T., Pitt, M., [Blom, A.](http://orcid.org/0000-0002-9940-1095), [Whitehouse, M.](http://orcid.org/0000-0003-2436-9024), [Judge, A.](http://orcid.org/0000-0003-3015-0432) (2023). **POST-COVID ORTHOPAEDIC ELECTIVE RESOURCE PLANNING USING SIMULATION MODELLING**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.05.31.23290774](http://dx.doi.org/10.1101/2023.05.31.23290774)
+[Harper, A.](http://orcid.org/0000-0001-5274-5037), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Manzi, S.](http://orcid.org/0000-0002-3226-2254) (2023). **Deploying Healthcare Simulation Models Using Containerization and Continuous Integration**. Center for Open Science. [dx.doi.org/10.31219/osf.io/qez45](http://dx.doi.org/10.31219/osf.io/qez45)
 
-[Pearn, K.](http://orcid.org/0000-0003-2786-4426), [Allen, M.](http://orcid.org/0000-0002-8746-9957), [Laws, A.](http://orcid.org/0000-0002-2145-0487), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018) (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
 
-[Crowe, S.](http://orcid.org/0000-0003-1882-5476), [Grieco, L.](http://orcid.org/0000-0002-8733-6062), [Monks, T.](http://orcid.org/0000-0003-2631-4481), Keogh, B., [Penn, M.](http://orcid.org/0000-0002-7269-7981), Clancy, M., Elkhodair, S., [Vindrola-Padros, C.](http://orcid.org/0000-0001-7859-1646), [Fulop, N.](http://orcid.org/0000-0001-5306-6140), [Utley, M.](http://orcid.org/0000-0001-9928-1516) (2023). **Here’s something we prepared earlier: Development, use and reuse of a configurable, inter-disciplinary approach for tackling overcrowding in NHS hospitals**. Informa UK Limited. [dx.doi.org/10.1080/01605682.2023.2199094](http://dx.doi.org/10.1080/01605682.2023.2199094)
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Improving the usability of open health service delivery simulation models using Python and web apps**. National Institute for Health and Care Research. [dx.doi.org/10.3310/nihropenres.13467.1](http://dx.doi.org/10.3310/nihropenres.13467.1)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2023.2260772](http://dx.doi.org/10.1080/17477778.2023.2260772)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037) (2023). **Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review**. Center for Open Science. [dx.doi.org/10.31219/osf.io/c4ytf](http://dx.doi.org/10.31219/osf.io/c4ytf)
+
+
+[Harper, A.](http://orcid.org/0000-0001-5274-5037), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Wilson, R., [Redaniel, M.](http://orcid.org/0000-0002-0668-0874), Eyles, E., Jones, T., Penfold, C., Elliott, A., Keen, T., Pitt, M., [Blom, A.](http://orcid.org/0000-0002-9940-1095), [Whitehouse, M.](http://orcid.org/0000-0003-2436-9024), [Judge, A.](http://orcid.org/0000-0003-3015-0432) (2023). **POST-COVID ORTHOPAEDIC ELECTIVE RESOURCE PLANNING USING SIMULATION MODELLING**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.05.31.23290774](http://dx.doi.org/10.1101/2023.05.31.23290774)
+
+
+[Pearn, K.](http://orcid.org/0000-0003-2786-4426), [Allen, M.](http://orcid.org/0000-0002-8746-9957), [Laws, A.](http://orcid.org/0000-0002-2145-0487), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018) (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
+
+
+[Crowe, S.](http://orcid.org/0000-0003-1882-5476), [Grieco, L.](http://orcid.org/0000-0002-8733-6062), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Keogh, B., [Penn, M.](http://orcid.org/0000-0002-7269-7981), Clancy, M., Elkhodair, S., [Vindrola-Padros, C.](http://orcid.org/0000-0001-7859-1646), [Fulop, N.](http://orcid.org/0000-0001-5306-6140), [Utley, M.](http://orcid.org/0000-0001-9928-1516) (2023). **Here’s something we prepared earlier: Development, use and reuse of a configurable, inter-disciplinary approach for tackling overcrowding in NHS hospitals**. Informa UK Limited. [dx.doi.org/10.1080/01605682.2023.2199094](http://dx.doi.org/10.1080/01605682.2023.2199094)
 
 
 ### 2022
-[Allen, M.](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [Pearn, K.](http://orcid.org/0000-0003-2786-4426), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Zhelev, Z.](http://orcid.org/0000-0002-0106-2401), [Logan, S.](http://orcid.org/0000-0002-9279-261X), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018), [Stein, K.](http://orcid.org/0000-0002-5842-9972) (2022). **Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study**. National Institute for Health and Care Research. [dx.doi.org/10.3310/GVZL5699](http://dx.doi.org/10.3310/GVZL5699)
 
-[Allen, M.](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [Pearn, K.](http://orcid.org/0000-0003-2786-4426), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [Stein, K.](http://orcid.org/0000-0002-5842-9972), [James, M.](http://orcid.org/0000-0001-6065-6018) (2022). **Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/STROKEAHA.121.038454](http://dx.doi.org/10.1161/STROKEAHA.121.038454)
+[Allen, M.](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [Pearn, K.](http://orcid.org/0000-0003-2786-4426), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Zhelev, Z.](http://orcid.org/0000-0002-0106-2401), [Logan, S.](http://orcid.org/0000-0002-9279-261X), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018), [Stein, K.](http://orcid.org/0000-0002-5842-9972) (2022). **Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study**. National Institute for Health and Care Research. [dx.doi.org/10.3310/GVZL5699](http://dx.doi.org/10.3310/GVZL5699)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037), Anagnostou, A., Taylor, S. (2022). **Open Science for Computer Simulation**. Center for Open Science. [dx.doi.org/10.31219/osf.io/zpxtm](http://dx.doi.org/10.31219/osf.io/zpxtm)
+
+[Allen, M.](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [Pearn, K.](http://orcid.org/0000-0003-2786-4426), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [Stein, K.](http://orcid.org/0000-0002-5842-9972), [James, M.](http://orcid.org/0000-0001-6065-6018) (2022). **Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/STROKEAHA.121.038454](http://dx.doi.org/10.1161/STROKEAHA.121.038454)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Harper, A.](http://orcid.org/0000-0001-5274-5037), Anagnostou, A., Taylor, S. (2022). **Open Science for Computer Simulation**. Center for Open Science. [dx.doi.org/10.31219/osf.io/zpxtm](http://dx.doi.org/10.31219/osf.io/zpxtm)
 
 
 ### 2021
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Allen, M., [Harper, A.](http://orcid.org/0000-0001-5274-5037), Mayne, A., Collins, L. (2021). **Forecasting the daily demand for emergency medical ambulances in England and Wales:  A benchmark model and external validation**. Center for Open Science. [dx.doi.org/10.31219/osf.io/a6nu5](http://dx.doi.org/10.31219/osf.io/a6nu5)
 
-[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), Saville, C., Ball, J., Jones, J., [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2021). **Beyond ratios - flexible and resilient nurse staffing options to deliver cost-effective hospital care and address staff shortages: A simulation and economic modelling study**. Elsevier BV. [dx.doi.org/10.1016/j.ijnurstu.2021.103901](http://dx.doi.org/10.1016/j.ijnurstu.2021.103901)
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Allen, M., [Harper, A.](http://orcid.org/0000-0001-5274-5037), Mayne, A., Collins, L. (2021). **Forecasting the daily demand for emergency medical ambulances in England and Wales:  A benchmark model and external validation**. Center for Open Science. [dx.doi.org/10.31219/osf.io/a6nu5](http://dx.doi.org/10.31219/osf.io/a6nu5)
+
+
+[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), Saville, C., Ball, J., Jones, J., [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2021). **Beyond ratios - flexible and resilient nurse staffing options to deliver cost-effective hospital care and address staff shortages: A simulation and economic modelling study**. Elsevier BV. [dx.doi.org/10.1016/j.ijnurstu.2021.103901](http://dx.doi.org/10.1016/j.ijnurstu.2021.103901)
 
 
 ### 2020
-[Onggo, B.](http://orcid.org/0000-0001-5899-304X), [Corlu, C.](http://orcid.org/0000-0001-8305-5741), [Juan, A.](http://orcid.org/0000-0003-1392-1776), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [de la Torre, R.](http://orcid.org/0000-0002-8662-8901) (2020). **Combining symbiotic simulation systems with enterprise data storage systems for real-time decision-making**. Informa UK Limited. [dx.doi.org/10.1080/17517575.2020.1777587](http://dx.doi.org/10.1080/17517575.2020.1777587)
 
-[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Saville, C.](http://orcid.org/0000-0001-7718-5689), [Ball, J.](http://orcid.org/0000-0002-8655-2994), [Jones, J.](http://orcid.org/0000-0002-2725-0937), [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2020). **Beyond ratios - flexible and resilient nurse staffing options to deliver cost-effective hospital care and address staff shortages: a simulation and economic modelling study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.11.30.20240945](http://dx.doi.org/10.1101/2020.11.30.20240945)
+[Onggo, B.](http://orcid.org/0000-0001-5899-304X), [Corlu, C.](http://orcid.org/0000-0001-8305-5741), [Juan, A.](http://orcid.org/0000-0003-1392-1776), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [de la Torre, R.](http://orcid.org/0000-0002-8662-8901) (2020). **Combining symbiotic simulation systems with enterprise data storage systems for real-time decision-making**. Informa UK Limited. [dx.doi.org/10.1080/17517575.2020.1777587](http://dx.doi.org/10.1080/17517575.2020.1777587)
 
-Allen, M., Bhanji, A., Willemsen, J., Dudfield, S., Logan, S., [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2020). **A simulation modelling toolkit for organising outpatient dialysis services during the COVID-19 pandemic**. Public Library of Science (PLoS). [dx.doi.org/10.1371/journal.pone.0237628](http://dx.doi.org/10.1371/journal.pone.0237628)
 
-Allen, M., Bhanji, A., Willemsen, J., Dudfield, S., Logan, S., [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2020). **Organising outpatient dialysis services during the COVID-19 pandemic. A simulation and mathematical modelling study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.04.22.20075457](http://dx.doi.org/10.1101/2020.04.22.20075457)
+[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Saville, C.](http://orcid.org/0000-0001-7718-5689), [Ball, J.](http://orcid.org/0000-0002-8655-2994), [Jones, J.](http://orcid.org/0000-0002-2725-0937), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2020). **Beyond ratios - flexible and resilient nurse staffing options to deliver cost-effective hospital care and address staff shortages: a simulation and economic modelling study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.11.30.20240945](http://dx.doi.org/10.1101/2020.11.30.20240945)
 
-[Currie, C.](http://orcid.org/0000-0002-7016-3652), [Fowler, J.](http://orcid.org/0000-0002-7112-8031), [Kotiadis, K.](http://orcid.org/0000-0001-8004-5708), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Onggo, B.](http://orcid.org/0000-0001-5899-304X), [Robertson, D.](http://orcid.org/0000-0002-7801-5451), [Tako, A.](http://orcid.org/0000-0003-3585-3620) (2020). **How simulation modelling can help reduce the impact of COVID-19**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2020.1751570](http://dx.doi.org/10.1080/17477778.2020.1751570)
 
-[Saville, C.](http://orcid.org/0000-0001-7718-5689), Monks, T., Griffiths, P., Ball, J. (2020). **Costs and consequences of using average demand to plan baseline nurse staffing levels: a computer simulation study**. BMJ. [dx.doi.org/10.1136/bmjqs-2019-010569](http://dx.doi.org/10.1136/bmjqs-2019-010569)
+Allen, M., Bhanji, A., Willemsen, J., Dudfield, S., Logan, S., [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2020). **A simulation modelling toolkit for organising outpatient dialysis services during the COVID-19 pandemic**. Public Library of Science (PLoS). [dx.doi.org/10.1371/journal.pone.0237628](http://dx.doi.org/10.1371/journal.pone.0237628)
 
-[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Saville, C.](http://orcid.org/0000-0001-7718-5689), [Ball, J.](http://orcid.org/0000-0002-8655-2994), Jones, J., Pattison, N., [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2020). **Nursing workload, nurse staffing methodologies and tools: A systematic scoping review and discussion**. Elsevier BV. [dx.doi.org/10.1016/j.ijnurstu.2019.103487](http://dx.doi.org/10.1016/j.ijnurstu.2019.103487)
+
+Allen, M., Bhanji, A., Willemsen, J., Dudfield, S., Logan, S., [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2020). **Organising outpatient dialysis services during the COVID-19 pandemic. A simulation and mathematical modelling study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.04.22.20075457](http://dx.doi.org/10.1101/2020.04.22.20075457)
+
+
+[Currie, C.](http://orcid.org/0000-0002-7016-3652), [Fowler, J.](http://orcid.org/0000-0002-7112-8031), [Kotiadis, K.](http://orcid.org/0000-0001-8004-5708), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Onggo, B.](http://orcid.org/0000-0001-5899-304X), [Robertson, D.](http://orcid.org/0000-0002-7801-5451), [Tako, A.](http://orcid.org/0000-0003-3585-3620) (2020). **How simulation modelling can help reduce the impact of COVID-19**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2020.1751570](http://dx.doi.org/10.1080/17477778.2020.1751570)
+
+
+[Saville, C.](http://orcid.org/0000-0001-7718-5689), **Monks, T.**, Griffiths, P., Ball, J. (2020). **Costs and consequences of using average demand to plan baseline nurse staffing levels: a computer simulation study**. BMJ. [dx.doi.org/10.1136/bmjqs-2019-010569](http://dx.doi.org/10.1136/bmjqs-2019-010569)
+
+
+[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Saville, C.](http://orcid.org/0000-0001-7718-5689), [Ball, J.](http://orcid.org/0000-0002-8655-2994), Jones, J., Pattison, N., [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2020). **Nursing workload, nurse staffing methodologies and tools: A systematic scoping review and discussion**. Elsevier BV. [dx.doi.org/10.1016/j.ijnurstu.2019.103487](http://dx.doi.org/10.1016/j.ijnurstu.2019.103487)
 
 
 ### 2019
-[Penn, M.](http://orcid.org/0000-0002-7269-7981), [Monks, T.](http://orcid.org/0000-0003-2631-4481), Kazmierska, A., Alkoheji, M. (2019). **Towards generic modelling of hospital wards: Reuse and redevelopment of simple models**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2019.1664264](http://dx.doi.org/10.1080/17477778.2019.1664264)
 
-[Keogh, B.](http://orcid.org/0000-0003-2960-0918), [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2019). **The impact of delayed transfers of care on emergency departments: common sense arguments, evidence and confounding**. BMJ. [dx.doi.org/10.1136/emermed-2018-207917](http://dx.doi.org/10.1136/emermed-2018-207917)
+[Penn, M.](http://orcid.org/0000-0002-7269-7981), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Kazmierska, A., Alkoheji, M. (2019). **Towards generic modelling of hospital wards: Reuse and redevelopment of simple models**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2019.1664264](http://dx.doi.org/10.1080/17477778.2019.1664264)
 
-[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Saville, C.](http://orcid.org/0000-0001-7718-5689), [Ball, J.](http://orcid.org/0000-0002-8655-2994), Culliford, D., [Pattison, N.](http://orcid.org/0000-0002-6771-8733), [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2019). **Performance of the Safer Nursing Care Tool to measure nurse staffing requirements in acute hospitals: a multi-centre observational study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/19011320](http://dx.doi.org/10.1101/19011320)
 
-[Saville, C.](http://orcid.org/0000-0001-7718-5689), [Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Ball, J.](http://orcid.org/0000-0002-8655-2994), [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2019). **How many nurses do we need? A review and discussion of operational research techniques applied to nurse staffing**. Elsevier BV. [dx.doi.org/10.1016/j.ijnurstu.2019.04.015](http://dx.doi.org/10.1016/j.ijnurstu.2019.04.015)
+[Keogh, B.](http://orcid.org/0000-0003-2960-0918), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2019). **The impact of delayed transfers of care on emergency departments: common sense arguments, evidence and confounding**. BMJ. [dx.doi.org/10.1136/emermed-2018-207917](http://dx.doi.org/10.1136/emermed-2018-207917)
+
+
+[Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Saville, C.](http://orcid.org/0000-0001-7718-5689), [Ball, J.](http://orcid.org/0000-0002-8655-2994), Culliford, D., [Pattison, N.](http://orcid.org/0000-0002-6771-8733), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2019). **Performance of the Safer Nursing Care Tool to measure nurse staffing requirements in acute hospitals: a multi-centre observational study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/19011320](http://dx.doi.org/10.1101/19011320)
+
+
+[Saville, C.](http://orcid.org/0000-0001-7718-5689), [Griffiths, P.](http://orcid.org/0000-0003-2439-2857), [Ball, J.](http://orcid.org/0000-0002-8655-2994), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2019). **How many nurses do we need? A review and discussion of operational research techniques applied to nurse staffing**. Elsevier BV. [dx.doi.org/10.1016/j.ijnurstu.2019.04.015](http://dx.doi.org/10.1016/j.ijnurstu.2019.04.015)
 
 
 ### 2018
-Penn, M., [Monks, T.](http://orcid.org/0000-0003-2631-4481), Pope, C., Clancy, M. (2018). **A mixed methods study of the impact of consultant overnight working in an English Emergency Department**. BMJ. [dx.doi.org/10.1136/emermed-2018-207571](http://dx.doi.org/10.1136/emermed-2018-207571)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Currie, C.](http://orcid.org/0000-0002-7016-3652), [Onggo, B.](http://orcid.org/0000-0001-5899-304X), [Robinson, S.](http://orcid.org/0000-0002-6016-0167), Kunc, M., [Taylor, S.](http://orcid.org/0000-0001-8252-0189) (2018). **Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2018.1442155](http://dx.doi.org/10.1080/17477778.2018.1442155)
+Penn, M., [**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Pope, C., Clancy, M. (2018). **A mixed methods study of the impact of consultant overnight working in an English Emergency Department**. BMJ. [dx.doi.org/10.1136/emermed-2018-207571](http://dx.doi.org/10.1136/emermed-2018-207571)
 
-[Johnson, M.](http://orcid.org/0000-0001-5597-6615), Cross, L., Sandison, N., Stevenson, J., Monks, T., Moore, M. (2018). **Funding and policy incentives to encourage implementation of point-of-care C-reactive protein testing for lower respiratory tract infection in NHS primary care: a mixed-methods evaluation**. BMJ. [dx.doi.org/10.1136/bmjopen-2018-024558](http://dx.doi.org/10.1136/bmjopen-2018-024558)
 
-[Keogh, B.](http://orcid.org/0000-0003-2960-0918), Culliford, D., [Guerrero-Ludueña, R.](http://orcid.org/0000-0002-1217-015X), [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2018). **Exploring emergency department 4-hour target performance and cancelled elective operations: a regression analysis of routinely collected and openly reported NHS trust data**. BMJ. [dx.doi.org/10.1136/bmjopen-2017-020296](http://dx.doi.org/10.1136/bmjopen-2017-020296)
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Currie, C.](http://orcid.org/0000-0002-7016-3652), [Onggo, B.](http://orcid.org/0000-0001-5899-304X), [Robinson, S.](http://orcid.org/0000-0002-6016-0167), Kunc, M., [Taylor, S.](http://orcid.org/0000-0001-8252-0189) (2018). **Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines**. Informa UK Limited. [dx.doi.org/10.1080/17477778.2018.1442155](http://dx.doi.org/10.1080/17477778.2018.1442155)
+
+
+[Johnson, M.](http://orcid.org/0000-0001-5597-6615), Cross, L., Sandison, N., Stevenson, J., **Monks, T.**, Moore, M. (2018). **Funding and policy incentives to encourage implementation of point-of-care C-reactive protein testing for lower respiratory tract infection in NHS primary care: a mixed-methods evaluation**. BMJ. [dx.doi.org/10.1136/bmjopen-2018-024558](http://dx.doi.org/10.1136/bmjopen-2018-024558)
+
+
+[Keogh, B.](http://orcid.org/0000-0003-2960-0918), Culliford, D., [Guerrero-Ludueña, R.](http://orcid.org/0000-0002-1217-015X), [**Monks, T.**](http://orcid.org/0000-0003-2631-4481) (2018). **Exploring emergency department 4-hour target performance and cancelled elective operations: a regression analysis of routinely collected and openly reported NHS trust data**. BMJ. [dx.doi.org/10.1136/bmjopen-2017-020296](http://dx.doi.org/10.1136/bmjopen-2017-020296)
 
 
 ### 2017
-Penn, M., Meskarian, R., Monks, T. (2017). **Using Health Systems Analytics to Help the NHS**. Informa UK Limited. [dx.doi.org/10.1080/2058802X.2017.11969258](http://dx.doi.org/10.1080/2058802X.2017.11969258)
 
-Allen, M., Pearn, K., Villeneuve, E., Monks, T., Stein, K., James, M. (2017). **Feasibility of a hyper-acute stroke unit model of care across England: a modelling analysis**. BMJ. [dx.doi.org/10.1136/bmjopen-2017-018143](http://dx.doi.org/10.1136/bmjopen-2017-018143)
+Penn, M., Meskarian, R., **Monks, T.** (2017). **Using Health Systems Analytics to Help the NHS**. Informa UK Limited. [dx.doi.org/10.1080/2058802X.2017.11969258](http://dx.doi.org/10.1080/2058802X.2017.11969258)
 
-Taylor, S., Anagnostou, A., Fabiyi, A., Currie, C., Monks, T., Barbera, R., Becker, B. (2017). **Open science: Approaches and benefits for modeling &amp; simulation**. IEEE. [dx.doi.org/10.1109/WSC.2017.8247813](http://dx.doi.org/10.1109/WSC.2017.8247813)
 
-Monks, T., Meskarian, R. (2017). **Using simulation to help hospitals reduce emergency department waiting times: Examples and impact**. IEEE. [dx.doi.org/10.1109/WSC.2017.8248000](http://dx.doi.org/10.1109/WSC.2017.8248000)
+Allen, M., Pearn, K., Villeneuve, E., **Monks, T.**, Stein, K., James, M. (2017). **Feasibility of a hyper-acute stroke unit model of care across England: a modelling analysis**. BMJ. [dx.doi.org/10.1136/bmjopen-2017-018143](http://dx.doi.org/10.1136/bmjopen-2017-018143)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), van der Zee, D., Lahr, M., Allen, M., Pearn, K., James, M., Buskens, E., Luijckx, G. (2017). **A framework to accelerate simulation studies of hyperacute stroke systems**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2017.09.002](http://dx.doi.org/10.1016/j.orhc.2017.09.002)
 
-Meskarian, R., Penn, M., Williams, S., Monks, T. (2017). **A facility location model for analysis of current and future demand for sexual health services**. Public Library of Science (PLoS). [dx.doi.org/10.1371/journal.pone.0183942](http://dx.doi.org/10.1371/journal.pone.0183942)
+Taylor, S., Anagnostou, A., Fabiyi, A., Currie, C., **Monks, T.**, Barbera, R., Becker, B. (2017). **Open science: Approaches and benefits for modeling &amp; simulation**. IEEE. [dx.doi.org/10.1109/WSC.2017.8247813](http://dx.doi.org/10.1109/WSC.2017.8247813)
 
-Meskarian, R., Penn, M., Williams, S., Monks, T. (2017). **A facility location model for analysis of current and future demand for sexual health services**. Public Library of Science (PLoS). [dx.doi.org/10.1371/journal.pone.0183942](http://dx.doi.org/10.1371/journal.pone.0183942)
+
+**Monks, T.**, Meskarian, R. (2017). **Using simulation to help hospitals reduce emergency department waiting times: Examples and impact**. IEEE. [dx.doi.org/10.1109/WSC.2017.8248000](http://dx.doi.org/10.1109/WSC.2017.8248000)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), van der Zee, D., Lahr, M., Allen, M., Pearn, K., James, M., Buskens, E., Luijckx, G. (2017). **A framework to accelerate simulation studies of hyperacute stroke systems**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2017.09.002](http://dx.doi.org/10.1016/j.orhc.2017.09.002)
+
+
+Meskarian, R., Penn, M., Williams, S., **Monks, T.** (2017). **A facility location model for analysis of current and future demand for sexual health services**. Public Library of Science (PLoS). [dx.doi.org/10.1371/journal.pone.0183942](http://dx.doi.org/10.1371/journal.pone.0183942)
+
+
+Meskarian, R., Penn, M., Williams, S., **Monks, T.** (2017). **A facility location model for analysis of current and future demand for sexual health services**. Public Library of Science (PLoS). [dx.doi.org/10.1371/journal.pone.0183942](http://dx.doi.org/10.1371/journal.pone.0183942)
 
 
 ### 2016
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Worthington, D., Allen, M., Pitt, M., Stein, K., James, M. (2016). **A modelling tool for capacity planning in acute and community stroke services**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1789-4](http://dx.doi.org/10.1186/s12913-016-1789-4)
 
-Craig, P., Rahm-Hallberg, I., Britten, N., Borglin, G., Meyer, G., Köpke, S., Noyes, J., Chandler, J., Levati, S., Sales, A., Thabane, L., Giangregorio, L., Feeley, N., Cossette, S., Taylor, R., Hill, J., Richards, D., Kuyken, W., von Essen, L., Williams, A., Hemming, K., Lilford, R., Girling, A., Taljaard, M., Dimairo, M., Petticrew, M., Baird, J., Moore, G., Odendaal, W., Atkins, S., Lutge, E., Leon, N., Lewin, S., Payne, K., van Achterberg, T., Sermeus, W., Pitt, M., Monks, T. (2016). **Researching Complex Interventions in Health: The State of the Art**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1274-0](http://dx.doi.org/10.1186/s12913-016-1274-0)
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Worthington, D., Allen, M., Pitt, M., Stein, K., James, M. (2016). **A modelling tool for capacity planning in acute and community stroke services**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1789-4](http://dx.doi.org/10.1186/s12913-016-1789-4)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
+Craig, P., Rahm-Hallberg, I., Britten, N., Borglin, G., Meyer, G., Köpke, S., Noyes, J., Chandler, J., Levati, S., Sales, A., Thabane, L., Giangregorio, L., Feeley, N., Cossette, S., Taylor, R., Hill, J., Richards, D., Kuyken, W., von Essen, L., Williams, A., Hemming, K., Lilford, R., Girling, A., Taljaard, M., Dimairo, M., Petticrew, M., Baird, J., Moore, G., Odendaal, W., Atkins, S., Lutge, E., Leon, N., Lewin, S., Payne, K., van Achterberg, T., Sermeus, W., Pitt, M., **Monks, T.** (2016). **Researching Complex Interventions in Health: The State of the Art**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1274-0](http://dx.doi.org/10.1186/s12913-016-1274-0)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), Robinson, S., Kotiadis, K. (2016). **Can involving clients in simulation studies help them solve their future problems? A transfer of learning experiment**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2015.08.037](http://dx.doi.org/10.1016/j.ejor.2015.08.037)
 
 
 ### 2015
-Monks, T. (2015). **Operational research as implementation science: definitions, challenges and research priorities**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/S13012-016-0444-0](http://dx.doi.org/10.1186/S13012-016-0444-0)
 
-Monks, T., Pearn, K., Allen, M. (2015). **Simulation of stroke care systems**. IEEE. [dx.doi.org/10.1109/WSC.2015.7408262](http://dx.doi.org/10.1109/WSC.2015.7408262)
+**Monks, T.** (2015). **Operational research as implementation science: definitions, challenges and research priorities**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/S13012-016-0444-0](http://dx.doi.org/10.1186/S13012-016-0444-0)
 
-Pitt, M., Monks, T., Crowe, S., Vasilakis, C. (2015). **Systems modelling and simulation in health service design, delivery and decision making**. BMJ. [dx.doi.org/10.1136/bmjqs-2015-004430](http://dx.doi.org/10.1136/bmjqs-2015-004430)
 
-Pitt, M., Monks, T., Crowe, S., Vasilakis, C. (2015). **Systems modelling and simulation in health service design, delivery and decision making**. BMJ. [dx.doi.org/10.1136/bmjqs-2015-004430](http://dx.doi.org/10.1136/bmjqs-2015-004430)
+**Monks, T.**, Pearn, K., Allen, M. (2015). **Simulation of stroke care systems**. IEEE. [dx.doi.org/10.1109/WSC.2015.7408262](http://dx.doi.org/10.1109/WSC.2015.7408262)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Pearson, M.](http://orcid.org/0000-0001-7628-7421), Pitt, M., Stein, K., James, M. (2015). **Evaluating the impact of a simulation study in emergency stroke care**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2015.09.002](http://dx.doi.org/10.1016/j.orhc.2015.09.002)
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), [Pearson, M.](http://orcid.org/0000-0001-7628-7421), Pitt, M., Stein, K., James, M. (2015). **Evaluating the impact of a simulation study in emergency stroke care**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2015.09.002](http://dx.doi.org/10.1016/j.orhc.2015.09.002)
+Pitt, M., **Monks, T.**, Crowe, S., Vasilakis, C. (2015). **Systems modelling and simulation in health service design, delivery and decision making**. BMJ. [dx.doi.org/10.1136/bmjqs-2015-004430](http://dx.doi.org/10.1136/bmjqs-2015-004430)
 
-Penn, M., Kennedy, A., Vassilev, I., Chew-Graham, C., Protheroe, J., Rogers, A., Monks, T. (2015). **Modelling self-management pathways for people with diabetes in primary care**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12875-015-0325-7](http://dx.doi.org/10.1186/s12875-015-0325-7)
 
-Hoad, K., Monks, T., O'Brien, F. (2015). **The use of search experimentation in discrete-event simulation practice**. Informa UK Limited. [dx.doi.org/10.1057/jors.2014.79](http://dx.doi.org/10.1057/jors.2014.79)
+Pitt, M., **Monks, T.**, Crowe, S., Vasilakis, C. (2015). **Systems modelling and simulation in health service design, delivery and decision making**. BMJ. [dx.doi.org/10.1136/bmjqs-2015-004430](http://dx.doi.org/10.1136/bmjqs-2015-004430)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Pearson, M.](http://orcid.org/0000-0001-7628-7421), Pitt, M., Stein, K., James, M. (2015). **Evaluating the impact of a simulation study in emergency stroke care**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2015.09.002](http://dx.doi.org/10.1016/j.orhc.2015.09.002)
+
+
+[**Monks, T.**](http://orcid.org/0000-0003-2631-4481), [Pearson, M.](http://orcid.org/0000-0001-7628-7421), Pitt, M., Stein, K., James, M. (2015). **Evaluating the impact of a simulation study in emergency stroke care**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2015.09.002](http://dx.doi.org/10.1016/j.orhc.2015.09.002)
+
+
+Penn, M., Kennedy, A., Vassilev, I., Chew-Graham, C., Protheroe, J., Rogers, A., **Monks, T.** (2015). **Modelling self-management pathways for people with diabetes in primary care**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12875-015-0325-7](http://dx.doi.org/10.1186/s12875-015-0325-7)
+
+
+Hoad, K., **Monks, T.**, O'Brien, F. (2015). **The use of search experimentation in discrete-event simulation practice**. Informa UK Limited. [dx.doi.org/10.1057/jors.2014.79](http://dx.doi.org/10.1057/jors.2014.79)
 
 
 ### 2014
-Monks, T., Pitt, M., Stein, K., James, M. (2014). **Hyperacute stroke care and NHS England's business plan**. BMJ. [dx.doi.org/10.1136/bmj.g3049](http://dx.doi.org/10.1136/bmj.g3049)
 
-Monks, T., Robinson, S., Kotiadis, K. (2014). **Learning from discrete-event simulation: Exploring the high involvement hypothesis**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2013.10.003](http://dx.doi.org/10.1016/j.ejor.2013.10.003)
+**Monks, T.**, Pitt, M., Stein, K., James, M. (2014). **Hyperacute stroke care and NHS England's business plan**. BMJ. [dx.doi.org/10.1136/bmj.g3049](http://dx.doi.org/10.1136/bmj.g3049)
+
+
+**Monks, T.**, Robinson, S., Kotiadis, K. (2014). **Learning from discrete-event simulation: Exploring the high involvement hypothesis**. Elsevier BV. [dx.doi.org/10.1016/j.ejor.2013.10.003](http://dx.doi.org/10.1016/j.ejor.2013.10.003)
 
 
 ### 2013
-Pearson, M., Monks, T., Gibson, A., Allen, M., Komashie, A., Fordyce, A., Harris-Golesworthy, F., Pitt, M., Brailsford, S., Stein, K. (2013). **Involving patients and the public in healthcare operational research—The challenges and opportunities**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2013.09.001](http://dx.doi.org/10.1016/j.orhc.2013.09.001)
 
-Pearson, M., Monks, T., Gibson, A., Allen, M., Komashie, A., Fordyce, A., Harris-Golesworthy, F., Pitt, M., Brailsford, S., Stein, K. (2013). **Involving patients and the public in healthcare operational research—The challenges and opportunities**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2013.09.001](http://dx.doi.org/10.1016/j.orhc.2013.09.001)
+Pearson, M., **Monks, T.**, Gibson, A., Allen, M., Komashie, A., Fordyce, A., Harris-Golesworthy, F., Pitt, M., Brailsford, S., Stein, K. (2013). **Involving patients and the public in healthcare operational research—The challenges and opportunities**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2013.09.001](http://dx.doi.org/10.1016/j.orhc.2013.09.001)
+
+
+Pearson, M., **Monks, T.**, Gibson, A., Allen, M., Komashie, A., Fordyce, A., Harris-Golesworthy, F., Pitt, M., Brailsford, S., Stein, K. (2013). **Involving patients and the public in healthcare operational research—The challenges and opportunities**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2013.09.001](http://dx.doi.org/10.1016/j.orhc.2013.09.001)
 
 
 ### 2012
-Monks, T., Pitt, M., Stein, K., James, M. (2012). **Maximizing the Population Benefit From Thrombolysis in Acute Ischemic Stroke**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.112.663187](http://dx.doi.org/10.1161/strokeaha.112.663187)
 
-Pitt, M., Monks, T., Agarwal, P., Worthington, D., Ford, G., Lees, K., Stein, K., James, M. (2012). **Will Delays in Treatment Jeopardize the Population Benefit From Extending the Time Window for Stroke Thrombolysis?**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.111.638650](http://dx.doi.org/10.1161/strokeaha.111.638650)
+**Monks, T.**, Pitt, M., Stein, K., James, M. (2012). **Maximizing the Population Benefit From Thrombolysis in Acute Ischemic Stroke**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.112.663187](http://dx.doi.org/10.1161/strokeaha.112.663187)
 
-Pitt, M., Monks, T., Agarwal, P., Worthington, D., Ford, G., Lees, K., Stein, K., James, M. (2012). **Will Delays in Treatment Jeopardize the Population Benefit From Extending the Time Window for Stroke Thrombolysis?**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.111.638650](http://dx.doi.org/10.1161/strokeaha.111.638650)
 
-Pitt, M., Monks, T., Agarwal, P., Worthington, D., Ford, G., Lees, K., Stein, K., James, M. (2012). **Will Delays in Treatment Jeopardize the Population Benefit From Extending the Time Window for Stroke Thrombolysis?**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.111.638650](http://dx.doi.org/10.1161/strokeaha.111.638650)
+Pitt, M., **Monks, T.**, Agarwal, P., Worthington, D., Ford, G., Lees, K., Stein, K., James, M. (2012). **Will Delays in Treatment Jeopardize the Population Benefit From Extending the Time Window for Stroke Thrombolysis?**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.111.638650](http://dx.doi.org/10.1161/strokeaha.111.638650)
+
+
+Pitt, M., **Monks, T.**, Agarwal, P., Worthington, D., Ford, G., Lees, K., Stein, K., James, M. (2012). **Will Delays in Treatment Jeopardize the Population Benefit From Extending the Time Window for Stroke Thrombolysis?**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.111.638650](http://dx.doi.org/10.1161/strokeaha.111.638650)
+
+
+Pitt, M., **Monks, T.**, Agarwal, P., Worthington, D., Ford, G., Lees, K., Stein, K., James, M. (2012). **Will Delays in Treatment Jeopardize the Population Benefit From Extending the Time Window for Stroke Thrombolysis?**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/strokeaha.111.638650](http://dx.doi.org/10.1161/strokeaha.111.638650)
 
 
 ### 2011
-Hoad, K., Monks, T. (2011). **A note on the use of multiple comparison scenario techniques in education and practice**. IEEE. [dx.doi.org/10.1109/wsc.2011.6148081](http://dx.doi.org/10.1109/wsc.2011.6148081)
+
+Hoad, K., **Monks, T.** (2011). **A note on the use of multiple comparison scenario techniques in education and practice**. IEEE. [dx.doi.org/10.1109/wsc.2011.6148081](http://dx.doi.org/10.1109/wsc.2011.6148081)
 
 
 ### 2009
-Monks, T., Robinson, S., Kotiadis, K. (2009). **Model reuse versus model development: Effects on credibility and learning**. IEEE. [dx.doi.org/10.1109/wsc.2009.5429691](http://dx.doi.org/10.1109/wsc.2009.5429691)
+
+**Monks, T.**, Robinson, S., Kotiadis, K. (2009). **Model reuse versus model development: Effects on credibility and learning**. IEEE. [dx.doi.org/10.1109/wsc.2009.5429691](http://dx.doi.org/10.1109/wsc.2009.5429691)
 

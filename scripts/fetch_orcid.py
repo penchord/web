@@ -1,8 +1,8 @@
-'''
+"""
 Fetch publications from ORCID
 Based on code from Chris Holdgraf, 19 Nov 2022:
 https://chrisholdgraf.com/blog/2022/orcid-auto-update/
-'''
+"""
 
 import pandas as pd
 import requests
@@ -87,79 +87,131 @@ def get_publications(orcid_id):
     response.raise_for_status()
     orcid_record = response.json()
 
-    # Extract metadata for each entry
-    df = []
-    for iwork in progress.track(
-        orcid_record["activities-summary"]["works"]["group"],
-        "Fetching reference data..."
-    ):
-        isummary = iwork["work-summary"][0]
-
-        # Extract the DOI
-        for ii in isummary["external-ids"]["external-id"]:
-            if ii["external-id-type"] == "doi":
-                doi = ii["external-id-value"]
-                break
-
-        meta = fetch_meta(doi, fmt="dict")
-        title = meta["title"]
-        year = meta["issued"]["date-parts"][0][0]
-        url = meta["URL"]
-
-        # Create authors list with links to their ORCIDs
-        authors = meta["author"]
-        autht = []
-        for author in authors:
-            name = f"{author['family']}, {author['given'][0]}."
-            if "holdgraf" in author["family"].lower():
-                name = f"**{name}**"
-            if "ORCID" in author:
-                autht.append(f"[{name}]({author['ORCID']})")
-            else:
-                autht.append(name)
-        autht = ", ".join(autht)
-
-        journal = meta["publisher"]
-
-        url_doi = url.split("//", 1)[-1]
-        reference = (
-            f"{autht} ({year}). **{title}**. {journal}. [{url_doi}]({url})")
-        df.append({"year": year, "reference": reference})
-    df = pd.DataFrame(df)
-
-    # Convert into a markdown string
-    md = []
-    for year, items in df.groupby("year", sort=False):
-        md.append(f"### {year}")
-        for _, item in items.iterrows():
-            md.append(item["reference"])
-            md.append("")
-        md.append("")
-    mds = "\n".join(md)
-
-    # Write to text file
+    # Establish filename
     forename = orcid_record["person"]["name"]["given-names"]["value"]
     surname = orcid_record["person"]["name"]["family-name"]["value"]
     path = f"{Path(__file__).parent.parent}/publications"
     filename = (f"{forename}_{surname}_publications.txt").lower()
-    txt_file = open(os.path.join(path, filename), "w")
-    txt_file.write(mds)
-    txt_file.close()
+
+    # Check if any publications are listed for that ORCID ID
+    if len(orcid_record["activities-summary"]["works"]["group"]) == 0:
+        txt_file = open(os.path.join(path, filename), "w")
+        txt_file.write('No publications associated with ORCID ID')
+        txt_file.close()
+    else:
+        # Extract metadata for each entry
+        # Loop through each of the publications...
+        df = []
+        for iwork in progress.track(
+            orcid_record["activities-summary"]["works"]["group"],
+            "Fetching reference data..."
+        ):
+            isummary = iwork["work-summary"][0]
+
+            # Extract the DOI
+            for ii in isummary["external-ids"]["external-id"]:
+                if ii["external-id-type"] == "doi":
+                    doi = ii["external-id-value"]
+                    break
+
+            # Fetch meta data from DOI
+            meta = fetch_meta(doi, fmt="dict")
+
+            # If it was unable to retrive meta data, use ORCID info
+            if meta is None:
+                title = isummary["title"]["title"]["value"]
+                year = isummary["publication-date"]["year"]["value"]
+                url = isummary["url"]["value"]
+                autht = ""  # No author information available
+                journal = isummary["journal-title"]
+                # Replace with blank space if no journal was provided
+                if journal is None:
+                    journal = ""
+            else:
+                # Else, use the provided meta data
+                title = meta["title"]
+                year = meta["issued"]["date-parts"][0][0]
+                url = meta["URL"]
+
+                # Create authors list with links to their ORCIDs
+                authors = meta["author"]
+                autht = []
+                for author in authors:
+                    # Will be "given" and "family" for individual authors
+                    if "family" in author:
+                        name = f"""{author["family"]}, {author["given"][0]}."""
+                        # Bold the name of our chosen person
+                        if surname.lower() in author["family"].lower():
+                            name = f"**{name}**"
+                    # For a compancy/group, it will just be "name"
+                    else:
+                        name = author["name"]
+                    # If author has an ORCID ID, link to it
+                    if "ORCID" in author:
+                        autht.append(f"[{name}]({author['ORCID']})")
+                    else:
+                        autht.append(name)
+                autht = ", ".join(autht)
+
+                journal = meta["publisher"]
+
+            # Format
+            url_doi = url.split("//", 1)[-1]
+            reference = (f"""
+{autht} ({year}). **{title}**. {journal}. [{url_doi}]({url})""")
+            df.append({"year": year, "reference": reference})
+
+        # Convert into a markdown string
+        df = pd.DataFrame(df)
+        md = []
+        for year, items in df.groupby("year", sort=False):
+            md.append(f"### {year}")
+            for _, item in items.iterrows():
+                md.append(item["reference"])
+                md.append("")
+            md.append("")
+        mds = "\n".join(md)
+
+        # Write to text file
+        txt_file = open(os.path.join(path, filename), "w")
+        txt_file.write(mds)
+        txt_file.close()
 
 
 # Run for each team member...
 
 # Amy Heather
-# get_publications("0000-0002-6596-3479")
+get_publications("0000-0002-6596-3479")
 
-# Kerry Pearn
-# get_publications("0000-0003-2786-4426")
+# Andy Mayne
+get_publications("0000-0003-1263-2286")
 
-# Martin Pitt
+# Anna Laws
+get_publications("0000-0002-2145-0487")
+
+# Ben Holdsworth
 # ORCID ID unknown
 
+# Chrissie Walker
+get_publications("0000-0002-7933-1501")
+
+# Dan Chalk
+get_publications("0000-0002-4165-4364")
+
+# Kerry Pearn
+get_publications("0000-0003-2786-4426")
+
+# Martin Pitt
+get_publications("0000-0003-4026-8346")
+
 # Mike Allen
-# get_publications("0000-0002-8746-9957")
+get_publications("0000-0002-8746-9957")
+
+# Rob Challen
+get_publications("0000-0002-5504-7768")
+
+# Sammi Rosser
+# ORCID ID unknown
 
 # Tom Monks
-# get_publications("0000-0003-2631-4481")
+get_publications("0000-0003-2631-4481")

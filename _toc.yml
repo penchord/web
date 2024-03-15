@@ -5,6 +5,7 @@ parts:
   chapters:
   - file: project_pages/project_summaries
   - file: project_pages/samuel_1.md
+  - file: project_pages/kailo
 - caption: Publications
   chapters:
   - file: publications/publications
