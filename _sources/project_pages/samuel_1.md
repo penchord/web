@@ -36,6 +36,8 @@ Allen, M., James, C., Frost, J. Liabo, K., Pearn, K., Monks, T., Zhelev, Z., Log
 
 *Stroke* editorial on SAMueL-1 work: [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.122.039954)
 
+Allen, M., Pearn, K., Monks, T., Bray, B., Everson, R., Salmon, A., James, M. and Stein, K. (2019) Can clinical audits be enhanced by pathway simulation and machine learning? An example from the acute stroke pathway. BMJ Open 2019;9:e028296. doi:10.1136/bmjopen-2018-028296 [link](https://bmjopen.bmj.com/content/9/9/e028296)
+
 ### Conference presentations
 
 Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice. European Stroke Organisation Conference. Zenodo. [https://doi.org/10.5281/zenodo.7878306](https://doi.org/10.5281/zenodo.7878306)
