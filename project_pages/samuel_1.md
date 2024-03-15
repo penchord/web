@@ -1,4 +1,4 @@
-# SAMueL: Stroke Audit Machine Learning
+# Stroke Audit Machine Learning (SAMueL)
 
 > *“Your decision to treat or not treat … That’s the difficult part. That’s the grey area where everyone does a different thing.”* — Stroke Consultant during interviews for SAMueL-1
 
