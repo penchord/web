@@ -148,4 +148,4 @@ In 2024 the SAMueL team were given a [HDR-UK Reproducibility Award](https://www.
 
 **Patient and career involvement group**: Leon Farmer, Lauren Asare, Penny Thompson, John Williams, Ian and Nicky Hancock, David Burgess, Simon Douglas
 
-**Clinical/management** advice: Ken Stein, Stuart Logan
+**Clinical/management advice**: Ken Stein, Stuart Logan
