@@ -93,7 +93,16 @@ Ailsa Brotherton, Improvement Director, National Improvement Board
 
 ## Web App
 
-[SAMueL Web App](https://stroke-predictions.streamlit.app/)
+The [SAMueL Web App](https://stroke-predictions.streamlit.app/) allows individual hospitals to analyse their own emergency stroke system, and compare to other hospitals, including a number of different analyses:
+
+* Descriptive statistics of their stroke patient population and clinical pathway process speeds.
+* See how thrombolysis use and clinical benefit may be improved by:
+    1. Improving pathway speed
+    2. Improve the proportion of patients where stroke onset time is determined.
+    3. Adopting similar thrombolysis decision-making to *benchmark* hospitals.
+* Prediction of thrombolysis decision for any individual patient (the user sets the patient characteristics and see how like they are to give thrombolysis, and see what other hospitals would do).
+* See likely population outcomes depending on time to thrombolysis and thrombectomy
+* See a health economics model of patient life expectancy, quality of life years, and the NHS healthcare costs of stroke, depending on discharge disability, age, and gender.
 
 ## NIHR highlighting of project
 
