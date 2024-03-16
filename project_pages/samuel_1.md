@@ -18,6 +18,15 @@ NIHR Health Services and Delivery Research Reference NIHR134326: £589K Stroke A
 
 NIHR HS&DR Project: 17/99/89: £330K Use of simulation and machine learning to identify key levers for maximising the disability benefit of intravenous thrombolysis in acute stroke pathways. Feb 2019 - August 2021 [link](https://fundingawards.nihr.ac.uk/award/17/99/89)
 
+## Patient and carer involvement
+
+We have a very engaged patient and carer involvement group. They have helped shape our work in important ways:
+
+* They have constantly encouraged the project to focus on patient outcomes above thrombolysis use and thrombolysis targets.
+* They provide a critical audience for developing and testing ways to explain complex machine learning methods in easily understandable ways.
+* They help the project prioritise what to communicate from the project's extensive work.
+
+
 ## Project web sites (with Python code)
 
 [SAMueL-1 online book of all work](https://samuel-book.github.io/samuel-1/introduction/intro.html)
@@ -67,6 +76,10 @@ Dr. Jehath Syed, Clinical Pharmacist and Researcher, JSS Academy of Higher Educa
 Holly Maguire, Advanced Nurse Practitioner for stroke, Mid Cheshire Hospital Trust:
 
 > 'I co-ordinate acute stroke training locally, and believe that some of these results will influence practice nationally. Simulation training is becoming more widely used with positive results across healthcare learning. Applying this learning to acute stroke treatment is an excellent advance. Providing robust training for emergency service provision is notoriously difficult. Prompt diagnosis and treatment is paramount and it can be difficult to provide services alongside training. The need to wait for someone to present with a particular condition can also make training a lengthy process. Simulation training could allow  standardised and robust training to be provided nationally, which would reduce intra-hospital variation.'
+
+Ailsa Brotherton, Improvement Director, National Improvement Board
+
+> 'Dear Martin (James). I just wanted to drop you a *Thank You* email for visiting our Trust today (to present the SAMueL work) with your colleagues; your presentation was superb, so inspirational in terms of the difference we can make for the patients who are not currently receiving thrombolysis; a great illustration of how we compare in our decision making to the ‘premier’ hospitals.....I think this is amazing work with huge clinical benefit.' 
 
 ## Web App
 
