@@ -2,6 +2,8 @@
 
 PenCHORD (the Peninsula Collaboration for Health Operational Research and Data Science) are specialists in helping healthcare professionals, commissioners and patients make informed decisions about change in the NHS. The team uses advanced quantitative techniques to model healthcare services and predict the impact of change.
 
+![](./images/PenCHORD_team)
+
 ## Vision
 > We develop, use, share, and teach innovative applied open data science and modelling methods to help NHS healthcare providers deliver higher quality healthcare to more patients.
 
