@@ -338,6 +338,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hdr-uk-award">HDR-UK Award</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#use-of-work">Use of work</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#github-repositories">GitHub repositories</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#people">People</a></li>
 </ul>
             </nav>
         </div>
@@ -360,8 +361,8 @@ document.write(`
 <p>The key aim of the SAMueL work is to understand between-hospital variation in provision of thrombolysis and thrombectomy, the consequences of that variation on patient outcomes and use of NHS resources, and how variation may be reduced, patient outcomes improved, and NHS resource use optimised.</p>
 <p>The figure below shows the pathway we are looking at, and the questions we are are asking. We use <em>clinical pathway simulation</em> to model the flow of patients through the emergency stroke pathway, so we can ask questions about what improvement in outcomes could be achieved by improving patient flow. We use machine learning to understand variation in decisions-to-treat, so we can ask questions about what improvement in outcomes could be achieved by improving consistency around clinical decision-making.</p>
 <p><img alt="" src="../_images/samuel_pathway.png" /></p>
-<p>We tailor our modelling to process speeds and decisions-to-treat at each hospital, and also base the models on hospital’s own patient populations. This allows us to provide a realistic idea of what thrombolysis or thrombectomy use could be at each hospital, rather than providing a the same targets to all hospitals irregardless of local patient population demographics.</p>
-<p>In SAMueL-1 we developed the methods for understanding what are the main causes of variation in use of thrombolysis between hospitals: How much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. By applying these methods we found that the majority of between-hospital variation comes from hospital processes and decision-making, and not from differences in local populations. We also found that thrombolysis rates could reasonable be doubled, but that each hospital should have its own target, taking into account the characteristics of the local population.</p>
+<p>We tailor our modelling to process-speeds and decisions-to-treat at each hospital, and also base the models on hospital’s own patient populations. This allows us to provide a realistic idea of what thrombolysis or thrombectomy use could be at each hospital, rather than providing the same target to all hospitals regardless of local patient population demographics.</p>
+<p>In SAMueL-1 we developed the methods for understanding what are the main causes of variation in use of thrombolysis between hospitals: how much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. By applying these methods we found that the majority of between-hospital variation comes from hospital processes and decision-making, and not from differences in local populations. We also found that thrombolysis rates could reasonably be nearly doubled, but that each hospital should have its own target, taking into account the characteristics of the local population.</p>
 <p>In SAMueL-2 we extended the methodology to include explainable machine learning to understand how patient features and hospital ID affect choice to give thrombolysis. We found that the odds of the same patient receiving thrombolysis varied by more than 10 fold between hospitals. We also built explainable machine learning models to predict outcome with and without thrombolysis, and demonstrated that the benefit from thrombolysis in practice closely matches that found in the clinical trials.</p>
 <p>We are currently exploring developing this work to include use of thrombectomy as well as thrombolysis.</p>
 </section>
@@ -375,7 +376,7 @@ document.write(`
 <h2>Patient and carer involvement<a class="headerlink" href="#patient-and-carer-involvement" title="Permalink to this heading">#</a></h2>
 <p>We have a very engaged patient and carer involvement group. They have helped shape our work in important ways:</p>
 <ul class="simple">
-<li><p>They have constantly encouraged the project to focus on patient outcomes above thrombolysis use and thrombolysis targets.</p></li>
+<li><p>They have constantly encouraged the project to focus most on improving patient outcomes.</p></li>
 <li><p>They provide a critical audience for developing and testing ways to explain complex machine learning methods in easily understandable ways.</p></li>
 <li><p>They help the project prioritise what to communicate from the project’s extensive work.</p></li>
 </ul>
@@ -431,19 +432,19 @@ document.write(`
 </section>
 <section id="web-app">
 <h2>Web App<a class="headerlink" href="#web-app" title="Permalink to this heading">#</a></h2>
-<p>The <a class="reference external" href="https://stroke-predictions.streamlit.app/">SAMueL Web App</a> allows individual hospitals to analyse their own emergency stroke system, and compare to other hospitals, including a number of different analyses:</p>
+<p>The <a class="reference external" href="https://stroke-predictions.streamlit.app/">SAMueL Web App</a> allows individual hospitals to analyse their own emergency stroke system, and compare it to other hospitals by using a number of different analyses. Each hospital can see:</p>
 <ul class="simple">
 <li><p>Descriptive statistics of their stroke patient population and clinical pathway process speeds.</p></li>
-<li><p>See how thrombolysis use and clinical benefit may be improved by:</p>
+<li><p>How thrombolysis use and clinical benefit may be improved by:</p>
 <ol class="arabic simple">
-<li><p>Improving pathway speed</p></li>
-<li><p>Improve the proportion of patients where stroke onset time is determined.</p></li>
+<li><p>Increasing pathway speed</p></li>
+<li><p>Increasing the proportion of patients whose stroke onset time is determined.</p></li>
 <li><p>Adopting similar thrombolysis decision-making to <em>benchmark</em> hospitals.</p></li>
 </ol>
 </li>
-<li><p>Prediction of thrombolysis decision for any individual patient (the user sets the patient characteristics and see how like they are to give thrombolysis, and see what other hospitals would do).</p></li>
-<li><p>See likely population outcomes depending on time to thrombolysis and thrombectomy</p></li>
-<li><p>See a health economics model of patient life expectancy, quality of life years, and the NHS healthcare costs of stroke, depending on discharge disability, age, and gender.</p></li>
+<li><p>Predictions of thrombolysis decisions for individual patients (the user sets the patient characteristics and see how likely they are to give thrombolysis, and see what other hospitals would do).</p></li>
+<li><p>Likely population outcomes depending on time to thrombolysis and thrombectomy</p></li>
+<li><p>A health economics model of patient life expectancy, quality of life years, and the NHS healthcare costs of stroke, depending on discharge disability, age, and gender.</p></li>
 </ul>
 </section>
 <section id="nihr-highlighting-of-project">
@@ -473,6 +474,15 @@ document.write(`
 <p><a class="reference external" href="https://github.com/samuel-book/stroke_unit_demographics">Stroke unit demographics</a></p>
 <p><a class="reference external" href="https://github.com/samuel-book/streamlit_combo_stroke">Streamlit web application</a></p>
 <p><a class="reference external" href="https://github.com/samuel-book/samuel_examples">Machine learning examples with synthetic data</a></p>
+</section>
+<section id="people">
+<h2>People<a class="headerlink" href="#people" title="Permalink to this heading">#</a></h2>
+<p><strong>Modelling and machine learning</strong>: Michael Allen, Kerry Pearn, Anna Laws, Charlotte James, Tom Monks, Richard Everson</p>
+<p><strong>Clinical leadership</strong>: Martin James</p>
+<p><strong>Health economics</strong>: Peter McMeekin</p>
+<p><strong>Qualitative research</strong>: Julia Frost, Rachel Jarvis, Keira Pratt-Boyden, Iain Lang, Cathy Pope</p>
+<p><strong>Patient and career involvement group</strong>: Leon Farmer, Lauren Asare, Penny Thompson, John Williams, Ian and Nicky Hancock, David Burgess, Simon Douglas</p>
+<p><strong>Clinical/management</strong> advice: Ken Stein, Stuart Logan</p>
 </section>
 </section>
 
@@ -558,6 +568,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hdr-uk-award">HDR-UK Award</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#use-of-work">Use of work</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#github-repositories">GitHub repositories</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#people">People</a></li>
 </ul>
   </nav></div>
 

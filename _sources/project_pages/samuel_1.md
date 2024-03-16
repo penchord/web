@@ -12,9 +12,9 @@ The figure below shows the pathway we are looking at, and the questions we are a
 
 ![](./images/samuel_pathway.png)
 
-We tailor our modelling to process speeds and decisions-to-treat at each hospital, and also base the models on hospital's own patient populations. This allows us to provide a realistic idea of what thrombolysis or thrombectomy use could be at each hospital, rather than providing a the same targets to all hospitals irregardless of local patient population demographics.
+We tailor our modelling to process-speeds and decisions-to-treat at each hospital, and also base the models on hospital's own patient populations. This allows us to provide a realistic idea of what thrombolysis or thrombectomy use could be at each hospital, rather than providing the same target to all hospitals regardless of local patient population demographics.
 
-In SAMueL-1 we developed the methods for understanding what are the main causes of variation in use of thrombolysis between hospitals: How much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. By applying these methods we found that the majority of between-hospital variation comes from hospital processes and decision-making, and not from differences in local populations. We also found that thrombolysis rates could reasonable be doubled, but that each hospital should have its own target, taking into account the characteristics of the local population.
+In SAMueL-1 we developed the methods for understanding what are the main causes of variation in use of thrombolysis between hospitals: how much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. By applying these methods we found that the majority of between-hospital variation comes from hospital processes and decision-making, and not from differences in local populations. We also found that thrombolysis rates could reasonably be nearly doubled, but that each hospital should have its own target, taking into account the characteristics of the local population.
 
 In SAMueL-2 we extended the methodology to include explainable machine learning to understand how patient features and hospital ID affect choice to give thrombolysis. We found that the odds of the same patient receiving thrombolysis varied by more than 10 fold between hospitals. We also built explainable machine learning models to predict outcome with and without thrombolysis, and demonstrated that the benefit from thrombolysis in practice closely matches that found in the clinical trials.
 
@@ -32,7 +32,7 @@ NIHR HS&DR Project: 17/99/89: £330K Use of simulation and machine learning to i
 
 We have a very engaged patient and carer involvement group. They have helped shape our work in important ways:
 
-* They have constantly encouraged the project to focus on patient outcomes above thrombolysis use and thrombolysis targets.
+* They have constantly encouraged the project to focus most on improving patient outcomes.
 * They provide a critical audience for developing and testing ways to explain complex machine learning methods in easily understandable ways.
 * They help the project prioritise what to communicate from the project's extensive work.
 
@@ -93,16 +93,16 @@ Ailsa Brotherton, Improvement Director, National Improvement Board
 
 ## Web App
 
-The [SAMueL Web App](https://stroke-predictions.streamlit.app/) allows individual hospitals to analyse their own emergency stroke system, and compare to other hospitals, including a number of different analyses:
+The [SAMueL Web App](https://stroke-predictions.streamlit.app/) allows individual hospitals to analyse their own emergency stroke system, and compare it to other hospitals by using a number of different analyses. Each hospital can see:
 
 * Descriptive statistics of their stroke patient population and clinical pathway process speeds.
-* See how thrombolysis use and clinical benefit may be improved by:
-    1. Improving pathway speed
-    2. Improve the proportion of patients where stroke onset time is determined.
+* How thrombolysis use and clinical benefit may be improved by:
+    1. Increasing pathway speed
+    2. Increasing the proportion of patients whose stroke onset time is determined.
     3. Adopting similar thrombolysis decision-making to *benchmark* hospitals.
-* Prediction of thrombolysis decision for any individual patient (the user sets the patient characteristics and see how like they are to give thrombolysis, and see what other hospitals would do).
-* See likely population outcomes depending on time to thrombolysis and thrombectomy
-* See a health economics model of patient life expectancy, quality of life years, and the NHS healthcare costs of stroke, depending on discharge disability, age, and gender.
+* Predictions of thrombolysis decisions for individual patients (the user sets the patient characteristics and see how likely they are to give thrombolysis, and see what other hospitals would do).
+* Likely population outcomes depending on time to thrombolysis and thrombectomy
+* A health economics model of patient life expectancy, quality of life years, and the NHS healthcare costs of stroke, depending on discharge disability, age, and gender.
 
 ## NIHR highlighting of project
 
@@ -136,7 +136,16 @@ In 2024 the SAMueL team were given a [HDR-UK Reproducibility Award](https://www.
 
 [Machine learning examples with synthetic data](https://github.com/samuel-book/samuel_examples)
 
+## People
 
+**Modelling and machine learning**: Michael Allen, Kerry Pearn, Anna Laws, Charlotte James, Tom Monks, Richard Everson
 
+**Clinical leadership**: Martin James
 
+**Health economics**: Peter McMeekin
 
+**Qualitative research**: Julia Frost, Rachel Jarvis, Keira Pratt-Boyden, Iain Lang, Cathy Pope
+
+**Patient and career involvement group**: Leon Farmer, Lauren Asare, Penny Thompson, John Williams, Ian and Nicky Hancock, David Burgess, Simon Douglas
+
+**Clinical/management** advice: Ken Stein, Stuart Logan
