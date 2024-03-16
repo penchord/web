@@ -124,7 +124,7 @@ In 2024 the SAMueL team were given a [HDR-UK Reproducibility Award](https://www.
 
 * The [2024 National Stroke Audit review](https://www.strokeaudit.org/Documents/National/Clinical/Apr2022Mar2023/Apr2022Mar2023-AnnualReport.aspx) cites SAMueL work on potential to improve thrombolysis use.
 
-## GitHub repositories
+## Code repositories
 
 [SAMueL-1 Project (online code book)](https://samuel-book.github.io/samuel-1/introduction/intro.html)
 
