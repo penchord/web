@@ -8,7 +8,7 @@ Pearn, K, Allen, M., Laws, A., Monks, T., Everson, R. and James, M. (2023). What
 
 James, C., Allen, M,. James, M., Everson, R. (2023) Using machine learning and clinical registry data to uncover variation in clinical decision making. Intelligence-Based Medicine. 7, 100098.  [link](https://doi.org/10.1016/j.ibmed.2023.100098)
 
-Allen, M. James, C., Frost,J., Liabo, K., Pearn, K., Monks, T., Everson, R., Stein, K. and James, M.  (2022). Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke.  Stroke. 2022;53:2758–2767 DOI 10.1161/STROKEAHA.121.038454 [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.121.038454). Editorial at: [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.122.039954)
+Allen, M., James, C., Frost,J., Liabo, K., Pearn, K., Monks, T., Everson, R., Stein, K. and James, M.  (2022). Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke.  Stroke. 2022;53:2758–2767 DOI 10.1161/STROKEAHA.121.038454 [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.121.038454). Editorial at: [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.122.039954)
 
 Allen, M., Pearn, K., James, M., White, P. and Stein, K. (2022). How many comprehensive and acute stroke centres should the UK have? In: Mechanical thrombectomy for acute ischaemic stroke: an implementation guide for the UK. [link](https://www.oxfordahsn.org/wp-content/uploads/2022/02/Mechanical-Thrombectomy-for-Ischaemic-Stroke-February-2022.pdf)
 
