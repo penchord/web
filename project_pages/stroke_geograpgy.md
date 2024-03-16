@@ -51,16 +51,17 @@ Professor Tony Rudd, National Clinical Director for Stroke, NHS England:
 
 Martin Dennis, Stroke Specialty advisor to the Chief Medical Officer (NHS Scotland):
  
-> “The modelling of hyperacute stroke care in Scotland was an important part of the Scottish Government’s programme to plan and implement a Scotland wide thrombectomy service. The modelling was commissioned by the Thrombectomy Advisory Group (TAG) and was based on data from the Scottish Stroke Care Audit. It provided estimates of the likely thrombolysis and thrombectomy volumes, their distributions across centres, and the likely gains in patient outcomes. The results of the modelling were important to the decisions by TAG to
+> 'The modelling of hyperacute stroke care in Scotland was an important part of the Scottish Government’s programme to plan and implement a Scotland wide thrombectomy service. The modelling was commissioned by the Thrombectomy Advisory Group (TAG) and was based on data from the Scottish Stroke Care Audit. It provided estimates of the likely thrombolysis and thrombectomy volumes, their distributions across centres, and the likely gains in patient outcomes. The results of the modelling were important to the decisions by TAG to
 > 
 > 1. Emphasise the importance of optimising existing pathways for delivery of thrombolysis, to increase the numbers of patients treated and to reduce the door to needle times
 >
 > 2. To advise, at least until pre-hospital diagnostic accuracy can be improved, to adopt a model where patients are transported by the ambulance service to the nearest hospital which can provide thrombolysis (drip) and only after the eligibility for thrombectomy has been determined, transported (ship) to a Thrombectomy hub.
 >
-> 3.Plan for a three thrombectomy centre model based in Glasgow, Edinburgh and Dundee which would collaborate to sustainably deliver thrombectomy in the middle of the night”
-
-
-
+> 3.Plan for a three thrombectomy centre model based in Glasgow, Edinburgh and Dundee which would collaborate to sustainably deliver thrombectomy in the middle of the night'
+>
+>Professor Sir Roger Bolye, national clinical director for heart disease and stroke (on the Welsh stroke services modelling)
+>
+> 'In my opinion, the PenCHORD modelling team are the best that we have in this country. Well done.'
 
 
 ## Implementation
