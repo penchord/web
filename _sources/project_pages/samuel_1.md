@@ -12,6 +12,8 @@ The figure below shows the pathway we are looking at, and the questions we are a
 
 ![](./images/samuel_pathway.png)
 
+We tailor our modelling to process speeds and decisions-to-treat at each hospital, and also base the models on hospital's own patient populations. This allows us to provide a realistic idea of what thrombolysis or thrombectomy use could be at each hospital, rather than providing a the same targets to all hospitals irregardless of local patient population demographics.
+
 In SAMueL-1 we developed the methods for understanding what are the main causes of variation in use of thrombolysis between hospitals: How much difference is due to processes (like how quickly a patient is scanned), how much is due to differences in patient populations, and how much difference is due to different decision-making by doctors. By applying these methods we found that the majority of between-hospital variation comes from hospital processes and decision-making, and not from differences in local populations. We also found that thrombolysis rates could reasonable be doubled, but that each hospital should have its own target, taking into account the characteristics of the local population.
 
 In SAMueL-2 we extended the methodology to include explainable machine learning to understand how patient features and hospital ID affect choice to give thrombolysis. We found that the odds of the same patient receiving thrombolysis varied by more than 10 fold between hospitals. We also built explainable machine learning models to predict outcome with and without thrombolysis, and demonstrated that the benefit from thrombolysis in practice closely matches that found in the clinical trials.
