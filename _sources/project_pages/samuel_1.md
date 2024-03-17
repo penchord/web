@@ -118,6 +118,8 @@ In 2024 the SAMueL team were given a [HDR-UK Reproducibility Award](https://www.
 
 ## Use of work
 
+* Key output from SAMueL, such as bespoke thrombolysis targets for each hospital, will be introduced into national SSNAP audit reports from 3Q 2024.
+
 * SAMueL-1 is cited by the most recent national clinical guidelines for stroke care (Royal College of Physicians 2023), in support of the potential for improving thrombolysis rates: [National Clinical Guideline for Stroke for the UK and Ireland](https://www.strokeguideline.org/)
 
 * SAMueL is forming part of an NHS-England led initiative to improve thrombolysis use in England. This is the TASC (Thrombolysis in Acute Stroke Collaboration) team and has launched in October 2023. Teams have access to analysis of their thrombolysis pathways and decision-making through the [SAMueL Web App](https://stroke-predictions.streamlit.app/)
