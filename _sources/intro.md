@@ -1,8 +1,8 @@
 # PenCHORD
 
-PenCHORD (the Peninsula Collaboration for Health Operational Research and Data Science) are specialists in helping healthcare professionals, commissioners and patients make informed decisions about change in the NHS. The team uses advanced quantitative techniques to model healthcare services and predict the impact of change.
+PenCHORD (the Peninsula Collaboration for Health Operational Research and Data Science) are specialists in helping healthcare professionals, commissioners and patients make informed decisions about change in the NHS. The team uses open and advanced quantitative techniques to model healthcare services and predict the impact of change.
 
-PenCHORD was established in 2011 by Prof. Martin Pitt in order to bridge the implementation gap between academia and the NHS. Today, our focus is still the same.
+PenCHORD was established in 2011 by Prof. Martin Pitt in order to bridge the implementation gap between academia and the NHS. Today, our focus is still the same, with PenCHORD being co-led by Tom Monks, Dan Chalk, and Michael Allen.
 
 PenCHORD is supported by the National Institute for Health Research Applied Research Collaboration South West Peninsula ('PenARC').
 
