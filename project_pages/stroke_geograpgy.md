@@ -109,6 +109,8 @@ NIHR Programme Development Grant NIHR201692: £132K Enhancing and disseminating 
 
 Allen M, Pearn K, Ford GA, White P, Rudd AG, McMeekin P, Stein K, James M. (2022) National implementation of reperfusion for acute ischaemic stroke in England: How should services be configured? A modelling study. European Stroke Journal 7:28-40. doi:10.1177/23969873211063323 [link](https://journals.sagepub.com/doi/10.1177/23969873211063323)
 
+Allen, M., Pearn, K., Stein, K, and James, M. (2020) Estimation of stroke outcomes based on time to thrombolysis and thrombectomy. medRxiv doi:10.1101/2020.07.18.20156653 [link](https://www.medrxiv.org/content/10.1101/2020.07.18.20156653v1)
+
 McMeekin, P., Flynn, D., Allen, M., Coughlan, D., Ford, G.A., Lumley, H., Joyce, B.S., James, M.A., Stein, K., Burgess, B. and White, P. (2019) Estimating the effectiveness and cost-effectiveness of establishing additional endovascular Thrombectomy stroke Centres in England: a discrete event simulation. BMC Health Services Research 2019;19:821. doi:10.1186/s12913-019-4678-9 [link](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4678-9)
 
 Peulter, A, Redekop, K., Allen, M, Peters, J., Eker, O. & Severnes, J. (2019). Exploring the cost-effectiveness of mechanical thrombectomy beyond six hours following advanced imaging in the UK. Stroke 50(11):3220-3227. doi: 10.1161/STROKEAHA.119.026816 [link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.119.026816)
