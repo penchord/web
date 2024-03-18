@@ -6,9 +6,9 @@
 
 Stroke is a common cause of adult disability. Expert opinion is that about one in five patients should receive clot-busting drugs ('thrombolysis') to break up the blood clot that is causing their stroke. At the moment only about one in nine patients actually receive this treatment in the UK. There is a lot of variation between hospitals, which means that the same patient might receive different treatment in different hospitals. A new treatment is mechanical removal of larger clots ('thrombectomy'). At the moment only about 1 in 30 patients receive this treatment, when it is thought about 1 in 7 patients could be suitable. Though thrombectomy is suitable for fewer patients than thrombolysis, it generally has a larger beneficial effect.
 
-The key aim of the SAMueL work is to understand between-hospital variation in provision of thrombolysis and thrombectomy, the consequences of that variation on patient outcomes and use of NHS resources, and how variation may be reduced, patient outcomes improved, and NHS resource use optimised.
+The key aim of the SAMueL work is to understand between-hospital variation in provision of thrombolysis and thrombectomy, the consequences of that variation on patient outcomes and use of NHS resources, and how unwarranted variation may be reduced, patient outcomes improved, and NHS resource use optimised.
 
-The figure below shows the pathway we are looking at, and the questions we are are asking. We use *clinical pathway simulation* to model the flow of patients through the emergency stroke pathway, so we can ask questions about what improvement in outcomes could be achieved by improving patient flow. We use machine learning to understand variation in decisions-to-treat, so we can ask questions about what improvement in outcomes could be achieved by improving consistency around clinical decision-making.
+The figure below shows the pathway we are looking at, and the questions we are are asking. We use *clinical pathway simulation* to model the flow of patients through the emergency stroke pathway, so we can ask questions about what improvement in outcomes could be achieved by improving patient flow. We use machine learning to understand variation in decision to treat, so we can ask questions about what improvement in outcomes could be achieved by improving consistency around clinical decision-making.
 
 ![](./images/samuel_pathway.png)
 
@@ -118,7 +118,7 @@ In 2024 the SAMueL team were given a [HDR-UK Reproducibility Award](https://www.
 
 ## Use of work
 
-* Key output from SAMueL, such as bespoke thrombolysis targets for each hospital, will be introduced into national SSNAP audit reports from 3Q 2024.
+* Key output from SAMueL, such as bespoke thrombolysis targets for each hospital, will be introduced into national SSNAP audit reports later in 2024.
 
 * SAMueL-1 is cited by the most recent national clinical guidelines for stroke care (Royal College of Physicians 2023), in support of the potential for improving thrombolysis rates: [National Clinical Guideline for Stroke for the UK and Ireland](https://www.strokeguideline.org/)
 
@@ -148,6 +148,6 @@ In 2024 the SAMueL team were given a [HDR-UK Reproducibility Award](https://www.
 
 **Qualitative research**: Julia Frost, Rachel Jarvis, Keira Pratt-Boyden, Iain Lang, Cathy Pope
 
-**Patient and career involvement group**: Leon Farmer, Lauren Asare, Penny Thompson, John Williams, Ian and Nicky Hancock, David Burgess, Simon Douglas
+**Patient and carer involvement group**: Leon Farmer, Lauren Asare, Penny Thompson, John Williams, Ian and Nicky Hancock, David Burgess, Simon Douglas
 
 **Clinical/management advice**: Ken Stein, Stuart Logan
