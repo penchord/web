@@ -8,13 +8,13 @@ As soon as the clot forms or lodges in the brain, the brain tissue that is now n
 
 ### How many emergency stroke units?
 
-In an ideal world, both thrombolysis and thrombectomy could be provided in every acute hospital, ensuring rapid access for all patients. However both techniques, and especially thrombectomy, require access to some level of specialist experience and resources. Planning should maximise access to treatment, while also ensuring stroke teams have sufficient admissions to maintain expertise in the treatment they offer. This requires a delicate balancing act when considering number and locations of where emergency stroke services are provided. An additional challenge is that planning also has to avoid any single unit having too many admissions for either the emergency teams or the hospital bed capacity can cope with.
+In an ideal world, both thrombolysis and thrombectomy could be provided in every acute hospital, ensuring rapid access for all patients. However both techniques, and especially thrombectomy, require access to some level of specialist experience and resources. Planning should maximise access to treatment, while also ensuring stroke teams have sufficient admissions to maintain expertise in the treatment they offer. This requires a delicate balancing act when considering number and locations of where emergency stroke services are provided. An additional challenge is that planning also has to avoid any single unit having too many admissions for either the emergency teams or the hospital bed capacity to cope with.
 
 ### Drip-and-Ship vs Mothership
 
 Thrombectomy requires more specialist resources than thrombolysis. Thrombectomy requires a specialist team with access to a 'Cath Lab' where the procedure takes place. The number of locations that thrombectomy may be provided is limited by availability of specialist resources, and the need to ensure those resources perform enough thrombectomy procedures to maintain expertise. Thrombolysis, which requires experienced staff, but no need for very specialist equipment may be provided in more hospitals.
 
-This presents a new challenge. For the patient, would they be better off going to closer thrombolysis-only centre, which will speed access to thrombolysis, or would they be better off travelling further to a combined thrombolysis and thrombectomy centre which will delay thrombolysis but speed up access to thrombectomy? These two ways of providing care are known as *drip-and-ship* and *mothership*, and are shown in the figure below.
+This presents a new challenge. For patients who live closest to a thrombolysis-only unit (which is about 6 out of 10 of all patients), would they be better off going to a closer thrombolysis-only unit, which will speed access to thrombolysis, or would they be better off travelling further to a combined thrombolysis and thrombectomy centre which will delay thrombolysis but speed up access to thrombectomy? These two ways of providing care are known as *drip-and-ship* and *mothership*, and are shown in the figure below.
 
 ![](./images/drip_ship_mothership.png)
 
@@ -30,21 +30,21 @@ In addition to *drip-and-ship* and *mothership*, there are two other possible mo
 In order to help local, regional, or national planners design well-configured stroke services we have developed a number of approaches:
 
 1) **Stroke outcome modelling**: We have built [stroke outcome models](https://samuel-book.github.io/stroke_outcome/intro.html) that predict disability-level outcomes based on time to thrombolysis and thrombectomy. These models allow an evaluation of the trade-off between time to thrombolysis and time to thrombectomy.
-2) **Geographic analysis**: We have combined multiple sources of data to provide a [comprehensive data set for stroke unit geographical analysis](https://github.com/samuel-book/stroke_unit_demographics/tree/main) This includes demographic data, and travel times from to all stroke units from all small regions in the UK (Lower Super Output Areas, or *LSOAs*, each containing a population of about 1,500 people). Travel times were estimated using [Routino](https://www.routino.org/uk/) and [Open Street Map data](https://wiki.openstreetmap.org/wiki/Downloading_data) Travel times were calibrated against Google maps for clear road (2am) travel times. These data sets allow us to identify which thrombolysis and thrombectomy centres are closest to people, and to estimate travel times to those hospitals.
+2) **Geographic analysis**: We have combined multiple sources of data to provide a [comprehensive data set for stroke unit geographical analysis](https://github.com/samuel-book/stroke_unit_demographics/tree/main) This includes demographic data, and travel times from to all stroke units from all small regions in the UK (Lower Super Output Areas, or *LSOAs*, each containing a population of about 1,500 people). Travel times were estimated using [Routino](https://www.routino.org/uk/) and [Open Street Map data](https://wiki.openstreetmap.org/wiki/Downloading_data). Travel times were calibrated against Google maps for clear road (2am) travel times. These data sets allow us to identify which thrombolysis and thrombectomy centres are closest to people, and to estimate travel times to those hospitals.
 3) **Geographic optimisation**: An optimal system minimises travel times for patients, while ensuring all units receive  enough admissions to maintain expertise in emergency stroke care, but are not overwhelmed with admission numbers they could not cope with. We provide an analysis of patient outcomes and hospital admission numbers for different configurations of services. In order to provide solutions to this problem when there are too many possibilities to compute all possibilities we use multi-objective genetic algorithms.
 4) **Clinical pathway simulation**: A common question that may be raised is what bed capacity is required so that stroke patients are cared for in a specialist stroke ward. We provide simulation that takes into account the randomness of when strokes occur (creating peaks and troughs in admission numbers) and the varying length of stay of stroke patients. We help teams evaluate ways of coping with this variation without the need for large bed surpluses. 
 
 ### An example analysis
 
-The analysis below shows the benefit of thrombolysis/thrombectomy using either *drip-and-ship* (left) or *mothership (middle) organisation of care, with the advantage to the patient of *mothership* also being shown (right). The benefit in this analysis has been converted to *utility* which is a universal scale for patient health ranging from 0 (dead) to 1 (full health). We see that the *mothership* model of care provides most overall benefit across most of the country, though in some remote areas patients would benefit from earlier local thrombolysis. However, such a model of care would be unsustainable for the thrombectomy centres as they would be overwhelmed with emergency stroke admissions, so local thrombolysis-only units are required to manage the sustainability of the system
+The analysis below shows the benefit of thrombolysis/thrombectomy using either *drip-and-ship* (left) or *mothership* (middle) organisation of care, with the advantage to the patient of *mothership* (over *drip-and-ship*) also being shown (right). The patient benefit in this analysis has been converted from the modified Rankin Scale measure of disability to *utility* which is a universal scale for patient health ranging from 0 (dead) to 1 (full health). We see that the *mothership* model (blue) of care provides most overall benefit across most of the country, though in some remote areas patients would benefit from earlier local thrombolysis using *drip-and-ship* (red). However, such a model of care would be unsustainable for the thrombectomy centres as they would be overwhelmed with emergency stroke admissions, so local thrombolysis-only units are required to manage the sustainability of the system.
 
 
 ![](./images/added_utility.jpg)
-*Maps of benefit of thrombolysis/thrombectomy depending on location of stroke and model of care. Left: Overall patient benefit using drip-and-ship model of care. Middle: Overall patient benefit using mothership model of care. Right: Difference between mothership and drip-and-ship model of care (blue = mothership is better). Patient outcome is estimated on a utility scale of 0 (death) to 1 (full health). Thrombolysis-only centres are indicated by white circles, and combined thrombolysis/thrombectomy centres by red circles. Where a patient lives closest to a combined thrombolysis/thrombectomy centre drip-and-ship and mothership are equivalent.
+*Maps of benefit of thrombolysis/thrombectomy depending on location of stroke and model of care. Left: Overall patient benefit using drip-and-ship model of care. Middle: Overall patient benefit using mothership model of care. Right: Weighted advantage in utility of mothership over drip-and-ship (blue = mothership is better). Patient outcome is estimated on a utility scale of 0 (death) to 1 (full health). Thrombolysis-only unit are indicated by white circles, and combined thrombolysis/thrombectomy centres by red circles. Where a patient lives closest to a combined thrombolysis/thrombectomy centre drip-and-ship and mothership are equivalent.
 
 ## **Projects**
 
-We have undertaken a range of projects to assist regional or national providers in planning services, and also undertake more foundational research to be able to model these systems.
+We have undertaken a range of projects to assist regional or national providers in planning services, and also undertaken more foundational research to be able to model these systems.
 
 ### National planning
 
@@ -71,7 +71,7 @@ Modelling was used to advise on the number and location of thrombolysis-only and
 
 ### OPTIMIST (OPTimising IMplementation of Ischaemic Stroke Thrombectomy)
 
-The OPTIMIST project (running 2021-2026) combines a clinical trial and modelling to assess the benefit and feasibility of pre-hospital selection of patients for direct conveyance to a combined thrombolysis/thrombectomy centre (which provides more rapid thrombectomy, but as the cost of delayed thrombolysis).
+The OPTIMIST project (running 2021-2026) combines a clinical trial and modelling to assess the benefit and feasibility of pre-hospital selection of patients for direct conveyance to a combined thrombolysis/thrombectomy centre (which provides more rapid thrombectomy, but at the cost of delayed thrombolysis).
 
 ### MUSTER (Modelling mobile stroke Units for Stroke Treatment Equity and Resources)
 
@@ -93,15 +93,15 @@ Work has been contracted by the following national and regional organisations:
 
 * NHS East of England (number and location of thrombolysis and thrombectomy centres)
 
-* NHS London (Required bed capacity by location in stroke rehab care)
+* NHS London (required bed capacity by location in stroke rehab care)
 
 * NHS South West England (number and location of thrombolysis centres)
 
 ### Research funding
 
-NIHR Health Services and Delivery Research Reference NIHR153982 £539k: Modelling the resource requirements for implementation of mobile stroke units across the National Health Service, their cost-effectiveness, and their effect on equity of access to emergency stroke care. [Link](https://fundingawards.nihr.ac.uk/award/NIHR153982. April 2023 to September 2024)
+NIHR Health Services and Delivery Research Reference NIHR153982 £539k: Modelling the resource requirements for implementation of mobile stroke units across the National Health Service, their cost-effectiveness, and their effect on equity of access to emergency stroke care. [Link](https://fundingawards.nihr.ac.uk/award/NIHR153982)
 
-NIHR Health Services and Delivery Research Reference NIHR153982 £539k: Modelling the resource requirements for implementation of mobile stroke units across the National Health Service, their cost-effectiveness, and their effect on equity of access to emergency stroke care. [Link](https://fundingawards.nihr.ac.uk/award/NIHR153982. April 2023 to September 2024)
+NIHR Health Services and Delivery Research Reference NIHR153982 £539k: Modelling the resource requirements for implementation of mobile stroke units across the National Health Service, their cost-effectiveness, and their effect on equity of access to emergency stroke care. [Link](https://fundingawards.nihr.ac.uk/award/NIHR153982)
 
 NIHR Programme Development Grant NIHR201692: £132K Enhancing and disseminating the outputs of the Promoting Effective and Rapid Stroke Care (PEARS) NIHR PGfAR Programme Grant & facilitating thrombectomy implementation in England. Dec 2020 to Nov 2021. [Link](https://fundingawards.nihr.ac.uk/award/NIHR201692)
 
