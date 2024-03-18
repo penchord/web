@@ -89,7 +89,12 @@ Holly Maguire, Advanced Nurse Practitioner for stroke, Mid Cheshire Hospital Tru
 
 Ailsa Brotherton, Improvement Director, National Improvement Board
 
-> 'Dear Martin (James). I just wanted to drop you a *Thank You* email for visiting our Trust today (to present the SAMueL work) with your colleagues; your presentation was superb, so inspirational in terms of the difference we can make for the patients who are not currently receiving thrombolysis; a great illustration of how we compare in our decision making to the ‘premier’ hospitals.....I think this is amazing work with huge clinical benefit.' 
+> 'Dear Martin (James). I just wanted to drop you a *Thank You* email for visiting our Trust today (to present the SAMueL work) with your colleagues; your presentation was superb, so inspirational in terms of the difference we can make for the patients who are not currently receiving thrombolysis; a great illustration of how we compare in our decision making to the ‘premier’ hospitals.....I think this is amazing work with huge clinical benefit.'
+
+David Hargroves, National Clinical Director for Stroke Medicine – NHS England
+
+> 'Dear Martin, thank you so much for your excellent talk and contribution to the whole 'Thrombolysis in Acute Stroke Collaborate' (TASC) day yesterday.  We are delighted with the collaboration with you and your colleagues from the SAMuel research group. I have real hopes that we will be able to start to make significant inroads to improving thombolysis rates.'
+
 
 ## Web App
 
