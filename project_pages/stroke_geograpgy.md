@@ -6,7 +6,7 @@ Stroke is a common cause of adult death and disability. Most strokes are caused 
 
 As soon as the clot forms or lodges in the brain, the brain tissue that is now not receiving blood begins to deteriorate. Much of the beneficial effect of both thrombolysis and thrombectomy may be lost over the first few hours after stroke. Speed is therefore essential.
 
-### More or fewer emergency stroke hospitals?
+### How many emergency stroke units?
 
 In an ideal world, both thrombolysis and thrombectomy could be provided in every acute hospital, ensuring rapid access for all patients. However both techniques, and especially thrombectomy, require access to some level of specialist experience and resources. Planning should maximise access to treatment, while also ensuring stroke teams have sufficient admissions to maintain expertise in the treatment they offer. This requires a delicate balancing act when considering number and locations of where emergency stroke services are provided. An additional challenge is that planning also has to avoid any single unit having too many admissions for either the emergency teams or the hospital bed capacity can cope with.
 
@@ -25,7 +25,7 @@ In addition to *drip-and-ship* and *mothership*, there are two other possible mo
 1) **Pre-hospital selection of patients**. In this model of care diagnostic tests are performed at the location of stroke to determine whether a patient is most likely to benefit from being taken directly to a centre that provides thrombolysis and thrombectomy. These are patients with a clot in a large vessel. Currently there is no simple perfect test that may be performed on-scene, but increased investigation with the aid of telemedicine from a stroke specialist may help determine patients likely to benefit from direct transfer to a combined thrombolysis/thrombectomy centre, even at the cost of a delay in receiving thrombolysis (see **OPTIMIST** project below).
 2) **Mobile stroke units**. A mobile stroke unit is a specialist ambulance equipped with a head scanner (required to diagnose a stroke caused by a clot) and staffed by people with knowledge of how to administer thrombolysis on scene. The head scan may also determine on-scene which patients would benefit from thrombectomy, and take those patients directly to a thrombectomy-capable centre (see **MUSTER** project below).
 
-## Our approaches
+## **Our approaches**
 
 In order to help local, regional, or national planners design well-configured stroke services we have developed a number of approaches:
 
@@ -42,7 +42,7 @@ The analysis below shows the benefit of thrombolysis/thrombectomy using either *
 ![](./images/added_utility.jpg)
 *Maps of benefit of thrombolysis/thrombectomy depending on location of stroke and model of care. Left: Overall patient benefit using drip-and-ship model of care. Middle: Overall patient benefit using mothership model of care. Right: Difference between mothership and drip-and-ship model of care (blue = mothership is better). Patient outcome is estimated on a utility scale of 0 (death) to 1 (full health). Thrombolysis-only centres are indicated by white circles, and combined thrombolysis/thrombectomy centres by red circles. Where a patient lives closest to a combined thrombolysis/thrombectomy centre drip-and-ship and mothership are equivalent.
 
-## Projects
+## **Projects**
 
 We have undertaken a range of projects to assist regional or national providers in planning services, and also undertake more foundational research to be able to model these systems.
 
@@ -77,8 +77,7 @@ The OPTIMIST project (running 2021-2026) combines a clinical trial and modelling
 
 The MUSTER project (running 2024-2025) combines qualitative research and modelling to assess the benefit and feasibility of providing on-scene thrombolysis in mobile stroke units (a specialist ambulance equipped with head scanner, and staffed by by people with knowledge of how to administer thrombolysis on scene).
 
-
-## Funding
+## **Funding**
 
 ### National and regional contracted work
 
@@ -106,7 +105,7 @@ NIHR Health Services and Delivery Research Reference NIHR153982 £539k: Modellin
 
 NIHR Programme Development Grant NIHR201692: £132K Enhancing and disseminating the outputs of the Promoting Effective and Rapid Stroke Care (PEARS) NIHR PGfAR Programme Grant & facilitating thrombectomy implementation in England. Dec 2020 to Nov 2021. [Link](https://fundingawards.nihr.ac.uk/award/NIHR201692)
 
-## Publications
+## **Publications**
 
 Allen M, Pearn K, Ford GA, White P, Rudd AG, McMeekin P, Stein K, James M. (2022) National implementation of reperfusion for acute ischaemic stroke in England: How should services be configured? A modelling study. European Stroke Journal 7:28-40. doi:10.1177/23969873211063323 [link](https://journals.sagepub.com/doi/10.1177/23969873211063323)
 
@@ -120,7 +119,7 @@ Allen, M., Pearn, K., James, M., Ford, G.A., White, P. Rudd, A.G., McMeekin, P. 
 
 Allen, M., Pearn, K., Villeneuve, E., Monks, T. Stein, K. & James, M. (2017) Feasibility of a hyper-acute stroke unit model of care across England: a modelling analysis. BMJ Open. [link](http://dx.doi.org/10.1136/bmjopen-2017-018143)
 
-## Quotes on impact
+## **Quotes on impact**
 
 Professor Tony Rudd, National Clinical Director for Stroke, NHS England:
 
@@ -140,7 +139,7 @@ Professor Sir Roger Bolye, national clinical director for heart disease and stro
 
 > 'In my opinion, the PenCHORD modelling team are the best that we have in this country. Well done.'
 
-## Implementation
+## **Implementation**
 
 Contracted work has been performed for national and regional stroke services (see above). Additionally, modelling has formed part of the UK implementation guide for thrombectomy:
 
