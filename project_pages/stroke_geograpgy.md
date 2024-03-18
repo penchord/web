@@ -6,9 +6,7 @@ Stroke is a common cause of adult death and disability. Most strokes are caused 
 
 As soon as the clot forms or lodges in the brain, the brain tissue that is now not receiving blood begins to deteriorate. Much of the beneficial effect of both thrombolysis and thrombectomy may be lost over the first few hours after stroke. Speed is therefore essential.
 
-In an ideal world, both thrombolysis and thrombectomy could be provided in every acute hospital, ensuring rapid access for all patients. However both techniques, and especially thrombectomy, require access to some level of specialist experience and resources. 
-
-
+In an ideal world, both thrombolysis and thrombectomy could be provided in every acute hospital, ensuring rapid access for all patients. However both techniques, and especially thrombectomy, require access to some level of specialist experience and resources.
 
 ## Funding
 
@@ -68,7 +66,7 @@ Martin Dennis, Stroke Specialty advisor to the Chief Medical Officer (NHS Scotla
 > 2. To advise, at least until pre-hospital diagnostic accuracy can be improved, to adopt a model where patients are transported by the ambulance service to the nearest hospital which can provide thrombolysis (drip) and only after the eligibility for thrombectomy has been determined, transported (ship) to a Thrombectomy hub.
 >
 > 3.Plan for a three thrombectomy centre model based in Glasgow, Edinburgh and Dundee which would collaborate to sustainably deliver thrombectomy in the middle of the night'
->
+
 >Professor Sir Roger Bolye, national clinical director for heart disease and stroke (on the Welsh stroke services modelling)
 >
 > 'In my opinion, the PenCHORD modelling team are the best that we have in this country. Well done.'
