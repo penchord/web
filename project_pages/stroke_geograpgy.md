@@ -1,5 +1,15 @@
 # Stroke services organisation (geographic analysis and optimisation)
 
+## The problem
+
+Stroke is a common cause of adult death and disability. Most strokes are caused by a blood clot in the brain. It is possible to reduce the effects of stroke by use of clot-busting drugs ('thrombolysis') or mechanical removal of the clot ('thrombectomy'). Thrombolysis may be used in more patients, but thrombectomy is more beneficial in patients with clots in large vessels which are the types of stroke that usually cause most physical impairment or risk of death.
+
+As soon as the clot forms or lodges in the brain, the brain tissue that is now not receiving blood begins to deteriorate. Much of the beneficial effect of both thrombolysis and thrombectomy may be lost over the first few hours after stroke. Speed is therefore essential.
+
+In an ideal world, both thrombolysis and thrombectomy could be provided in every acute hospital, ensuring rapid access for all patients. However both techniques, and especially thrombectomy, require access to some level of specialist experience and resources. 
+
+
+
 ## Funding
 
 ### National and regional contracted work
