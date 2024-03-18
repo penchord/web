@@ -119,6 +119,8 @@ Allen, M., Pearn, K., James, M., Ford, G.A., White, P. Rudd, A.G., McMeekin, P. 
 
 Allen, M., Pearn, K., Villeneuve, E., Monks, T. Stein, K. & James, M. (2017) Feasibility of a hyper-acute stroke unit model of care across England: a modelling analysis. BMJ Open. [link](http://dx.doi.org/10.1136/bmjopen-2017-018143)
 
+Monks, T., Worthington, D., Allen, M., Pitt, M., Stein, K., & James, M. A. (2016). A modelling tool for capacity planning in acute and community stroke services. BMC health services research, 16, 1-8. [link](https://link.springer.com/article/10.1186/s12913-016-1789-4)
+
 ## **Quotes on impact**
 
 Professor Tony Rudd, National Clinical Director for Stroke, NHS England:
