@@ -1,6 +1,9 @@
 # Kerry Pearn
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2786--4426-brightgreen)](https://orcid.org/0000-0003-2786-4426)
+```{include} ../badges/kerry_pearn_badges.txt
+```
+
+> Research Fellow
 
 ## Publications
 

@@ -14,7 +14,7 @@
 ````
 ````{grid-item-card} October 2023 - April 2024
 
-Pilot work on birth outcomes
+**Pilot work on neonatal outcomes**, exploring causal inference methods, cardiotocography (CTG) data, and identification of hypoxic ischaemic encephalopathy (HIE)
 ````
 `````
 
@@ -23,7 +23,7 @@ Pilot work on birth outcomes
 `````{grid} 2
 ````{grid-item-card} May - October 2023
 
-SAMueL-2
+[SAMueL-2](../project_pages/samuel_1.md)
 ````
 ````{grid-item-card} Ad-hoc Spring 2023
 
