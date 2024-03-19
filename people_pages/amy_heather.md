@@ -1,20 +1,35 @@
 # Amy Heather
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy_Heather-0A66C2)](https://www.linkedin.com/in/amyheather/) [![GitHub](https://img.shields.io/badge/GitHub-amyheather-DCD0FF)](https://github.com/amyheather)
+```{include} ../badges/amy_heather_badges.txt
+```
 
 > Postdoctoral Research Associate at the University of Exeter
 
 ## Current projects
 
 `````{grid} 2
-````{grid-item-card} October 2022 - April 2024: Kailo
+````{grid-item-card} October 2022 - April 2024
 
 [![Kailo #BeeWell logo](../images/beewell_kailo_colour_logo.png)](../project_pages/kailo.md)
 ````
+````{grid-item-card} October 2023 - April 2024
+
+Pilot work on birth outcomes
+````
 `````
 
-
 ## Previous projects
+
+`````{grid} 2
+````{grid-item-card} May - October 2023
+
+SAMueL-2
+````
+````{grid-item-card} Ad-hoc Spring 2023
+
+IPACS
+````
+`````
 
 ## Publications
 
