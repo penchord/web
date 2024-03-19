@@ -4,7 +4,7 @@ PenCHORD (the Peninsula Collaboration for Health Operational Research and Data S
 
 PenCHORD was established in 2011 by Prof. Martin Pitt in order to bridge the implementation gap between academia and the NHS. Today, our focus is still the same, with PenCHORD being co-led by Tom Monks, Dan Chalk, and Michael Allen.
 
-PenCHORD works exclusively with open source tools (Python, R, Julia) and promotes Open Science. In 2024, PenCHORD won two HDR-UK Reproducibility Recognition awards for our open and accessible work, one for our [Health Service Modelling Associates (HSMA) programme](https://arc-swp.nihr.ac.uk/training-type/health-service-modelling-associates-programme-hsma/), and the other for our [Stroke Audit Machine Learning (SAMueL)](https://penchord.github.io/web/project_pages/samuel_1.html) work.
+PenCHORD works with, and teaches, exclusively open source tools (such as Python, R, Julia) and promotes Open Science. In 2024, PenCHORD won two HDR-UK Reproducibility Recognition awards for our open and accessible work, one for our [Health Service Modelling Associates (HSMA) programme](https://arc-swp.nihr.ac.uk/training-type/health-service-modelling-associates-programme-hsma/), and the other for our [Stroke Audit Machine Learning (SAMueL)](https://penchord.github.io/web/project_pages/samuel_1.html) work.
 
 PenCHORD is supported by the National Institute for Health Research Applied Research Collaboration South West Peninsula ('PenARC').
 
