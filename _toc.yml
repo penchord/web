@@ -23,3 +23,7 @@ parts:
   - file: people_pages/mike_allen
   - file: people_pages/sammi_rosser
   - file: people_pages/tom_monks
+  - file: people_pages/honorary
+    sections:
+    - file: people_pages/andy_mayne
+    - file: people_pages/rob_challen
