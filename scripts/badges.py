@@ -141,6 +141,7 @@ create_badges(
     github_username="MichaelAllen1966")
 
 create_badges(
+    orcid_id="0000-0002-9552-8988",
     full_name="Sammi Rosser",
     linkedin_link="https://www.linkedin.com/in/sammijaderosser/",
     github_username="Bergam0t")
