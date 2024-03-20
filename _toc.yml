@@ -1,6 +1,8 @@
 format: jb-book
 root: intro
 parts:
+- chapters:
+  - file: contact
 - caption: Projects
   chapters:
   - file: project_pages/project_summaries
