@@ -1,3 +1,6 @@
 # Martin Pitt
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4026--8346-brightgreen)](https://orcid.org/0000-0003-4026-8346)
+```{include} ../badges/martin_pitt_badges.txt
+```
+
+> Professor of Applied Healthcare Modelling and Data Science
