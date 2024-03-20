@@ -8,66 +8,66 @@
 Pearn, K., **Allen, M.**, Laws, A., Monks, T., Everson, R., James, M. (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. SAGE Publications. [dx.doi.org/10.1177/23969873231189040](http://dx.doi.org/10.1177/23969873231189040)
 
 
-[Pearn, K.](http://orcid.org/0000-0003-2786-4426), [**Allen, M.**](http://orcid.org/0000-0002-8746-9957), [Laws, A.](http://orcid.org/0000-0002-2145-0487), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018) (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
+Pearn, K., **Allen, M.**, Laws, A., Monks, T., Everson, R., James, M. (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
 
 
-[Pearn, K.](http://orcid.org/0000-0003-2786-4426), [**Allen, M.**](http://orcid.org/0000-0002-8746-9957), [Laws, A.](http://orcid.org/0000-0002-2145-0487), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018) (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
+Pearn, K., **Allen, M.**, Laws, A., Monks, T., Everson, R., James, M. (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
 
 
-[Pearn, K.](http://orcid.org/0000-0003-2786-4426), [**Allen, M.**](http://orcid.org/0000-0002-8746-9957), [Laws, A.](http://orcid.org/0000-0002-2145-0487), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018) (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
+Pearn, K., **Allen, M.**, Laws, A., Monks, T., Everson, R., James, M. (2023). **What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2023.04.24.23289017](http://dx.doi.org/10.1101/2023.04.24.23289017)
 
 
 ### 2022
 
-[James, C.](http://orcid.org/0000-0003-4850-5318), [**Allen, M.**](http://orcid.org/0000-0002-8746-9957), James, M., Everson, R. (2022). **Using machine learning and clinical registry data to uncover variation in clinical decision making**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2022.10.06.22280684](http://dx.doi.org/10.1101/2022.10.06.22280684)
+James, C., **Allen, M.**, James, M., Everson, R. (2022). **Using machine learning and clinical registry data to uncover variation in clinical decision making**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2022.10.06.22280684](http://dx.doi.org/10.1101/2022.10.06.22280684)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [Pearn, K.](http://orcid.org/0000-0003-2786-4426), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [Stein, K.](http://orcid.org/0000-0002-5842-9972), [James, M.](http://orcid.org/0000-0001-6065-6018) (2022). **Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/STROKEAHA.121.038454](http://dx.doi.org/10.1161/STROKEAHA.121.038454)
+**Allen, M.**, James, C., Frost, J., Liabo, K., Pearn, K., Monks, T., Everson, R., Stein, K., James, M. (2022). **Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/STROKEAHA.121.038454](http://dx.doi.org/10.1161/STROKEAHA.121.038454)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), [James, C.](http://orcid.org/0000-0003-4850-5318), [Frost, J.](http://orcid.org/0000-0002-3503-5911), [Liabo, K.](http://orcid.org/0000-0002-7052-1261), [Pearn, K.](http://orcid.org/0000-0003-2786-4426), [Monks, T.](http://orcid.org/0000-0003-2631-4481), [Zhelev, Z.](http://orcid.org/0000-0002-0106-2401), [Logan, S.](http://orcid.org/0000-0002-9279-261X), [Everson, R.](http://orcid.org/0000-0002-3964-1150), [James, M.](http://orcid.org/0000-0001-6065-6018), [Stein, K.](http://orcid.org/0000-0002-5842-9972) (2022). **Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study**. National Institute for Health and Care Research. [dx.doi.org/10.3310/GVZL5699](http://dx.doi.org/10.3310/GVZL5699)
+**Allen, M.**, James, C., Frost, J., Liabo, K., Pearn, K., Monks, T., Zhelev, Z., Logan, S., Everson, R., James, M., Stein, K. (2022). **Using simulation and machine learning to maximise the benefit of intravenous thrombolysis in acute stroke in England and Wales: the SAMueL modelling and qualitative study**. National Institute for Health and Care Research. [dx.doi.org/10.3310/GVZL5699](http://dx.doi.org/10.3310/GVZL5699)
 
 
 ### 2021
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Pearn, K., Ford, G., [White, P.](http://orcid.org/0000-0001-6007-6013), Rudd, A., [McMeekin, P.](http://orcid.org/0000-0003-0946-7224), Stein, K., James, M. (2021). **National implementation of reperfusion for acute ischaemic stroke in England: How should services be configured? A modelling study**. SAGE Publications. [dx.doi.org/10.1177/23969873211063323](http://dx.doi.org/10.1177/23969873211063323)
+**Allen, M.**, Pearn, K., Ford, G., White, P., Rudd, A., McMeekin, P., Stein, K., James, M. (2021). **National implementation of reperfusion for acute ischaemic stroke in England: How should services be configured? A modelling study**. SAGE Publications. [dx.doi.org/10.1177/23969873211063323](http://dx.doi.org/10.1177/23969873211063323)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Pearn, K., Ford, G., White, P., Rudd, A., McMeekin, P., Stein, K., James, M. (2021). **Implementing the NHS England Long Term Plan for stroke: how should reperfusion services be configured? A modelling study**. Center for Open Science. [dx.doi.org/10.31219/osf.io/yg3x8](http://dx.doi.org/10.31219/osf.io/yg3x8)
+**Allen, M.**, Pearn, K., Ford, G., White, P., Rudd, A., McMeekin, P., Stein, K., James, M. (2021). **Implementing the NHS England Long Term Plan for stroke: how should reperfusion services be configured? A modelling study**. Center for Open Science. [dx.doi.org/10.31219/osf.io/yg3x8](http://dx.doi.org/10.31219/osf.io/yg3x8)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Pearn, K., Ford, G., White, P., Rudd, A., McMeekin, P., Stein, K., James, M. (2021). **Implementing the NHS England Long Term Plan for stroke: how should reperfusion services be configured? A modelling study**. Center for Open Science. [dx.doi.org/10.31219/osf.io/yg3x8](http://dx.doi.org/10.31219/osf.io/yg3x8)
+**Allen, M.**, Pearn, K., Ford, G., White, P., Rudd, A., McMeekin, P., Stein, K., James, M. (2021). **Implementing the NHS England Long Term Plan for stroke: how should reperfusion services be configured? A modelling study**. Center for Open Science. [dx.doi.org/10.31219/osf.io/yg3x8](http://dx.doi.org/10.31219/osf.io/yg3x8)
 
 
 ### 2020
 
-[White, P.](http://orcid.org/0000-0001-6007-6013), Ford, G., James, M., [**Allen, M.**](http://orcid.org/0000-0002-8746-9957) (2020). **Regarding thrombectomy centre volumes and maximising access to thrombectomy services for stroke in England: A modelling study and mechanical thrombectomy for acute ischaemic stroke: An implementation guide for the UK**. SAGE Publications. [dx.doi.org/10.1177/2396987320971126](http://dx.doi.org/10.1177/2396987320971126)
+White, P., Ford, G., James, M., **Allen, M.** (2020). **Regarding thrombectomy centre volumes and maximising access to thrombectomy services for stroke in England: A modelling study and mechanical thrombectomy for acute ischaemic stroke: An implementation guide for the UK**. SAGE Publications. [dx.doi.org/10.1177/2396987320971126](http://dx.doi.org/10.1177/2396987320971126)
 
 
-[White, P.](http://orcid.org/0000-0001-6007-6013), Ford, G., James, M., [**Allen, M.**](http://orcid.org/0000-0002-8746-9957) (2020). **Regarding thrombectomy centre volumes and maximising access to thrombectomy services for stroke in England: A modelling study and mechanical thrombectomy for acute ischaemic stroke: An implementation guide for the UK**. SAGE Publications. [dx.doi.org/10.1177/2396987320971126](http://dx.doi.org/10.1177/2396987320971126)
+White, P., Ford, G., James, M., **Allen, M.** (2020). **Regarding thrombectomy centre volumes and maximising access to thrombectomy services for stroke in England: A modelling study and mechanical thrombectomy for acute ischaemic stroke: An implementation guide for the UK**. SAGE Publications. [dx.doi.org/10.1177/2396987320971126](http://dx.doi.org/10.1177/2396987320971126)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Pearn, K., Stein, K., James, M. (2020). **Estimation of stroke outcomes based on time to thrombolysis and thrombectomy**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.07.18.20156653](http://dx.doi.org/10.1101/2020.07.18.20156653)
+**Allen, M.**, Pearn, K., Stein, K., James, M. (2020). **Estimation of stroke outcomes based on time to thrombolysis and thrombectomy**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.07.18.20156653](http://dx.doi.org/10.1101/2020.07.18.20156653)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Villeneuve, E., Pitt, M., Thornton, S. (2020). **How can consultant-led childbirth care at time of delivery be maximised? A modelling study**. BMJ. [dx.doi.org/10.1136/bmjopen-2019-034830](http://dx.doi.org/10.1136/bmjopen-2019-034830)
+**Allen, M.**, Villeneuve, E., Pitt, M., Thornton, S. (2020). **How can consultant-led childbirth care at time of delivery be maximised? A modelling study**. BMJ. [dx.doi.org/10.1136/bmjopen-2019-034830](http://dx.doi.org/10.1136/bmjopen-2019-034830)
 
 
-**Allen, M.**, Bhanji, A., Willemsen, J., Dudfield, S., Logan, S., [Monks, T.](http://orcid.org/0000-0003-2631-4481) (2020). **Organising outpatient dialysis services during the COVID-19 pandemic. A simulation and mathematical modelling study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.04.22.20075457](http://dx.doi.org/10.1101/2020.04.22.20075457)
+**Allen, M.**, Bhanji, A., Willemsen, J., Dudfield, S., Logan, S., Monks, T. (2020). **Organising outpatient dialysis services during the COVID-19 pandemic. A simulation and mathematical modelling study**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.04.22.20075457](http://dx.doi.org/10.1101/2020.04.22.20075457)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Salmon, A. (2020). **Synthesising artificial patient-level data for Open Science - an evaluation of five methods**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.10.09.20210138](http://dx.doi.org/10.1101/2020.10.09.20210138)
+**Allen, M.**, Salmon, A. (2020). **Synthesising artificial patient-level data for Open Science - an evaluation of five methods**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.10.09.20210138](http://dx.doi.org/10.1101/2020.10.09.20210138)
 
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Salmon, A. (2020). **Synthesising artificial patient-level data for Open Science - an evaluation of five methods**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.10.09.20210138](http://dx.doi.org/10.1101/2020.10.09.20210138)
+**Allen, M.**, Salmon, A. (2020). **Synthesising artificial patient-level data for Open Science - an evaluation of five methods**. Cold Spring Harbor Laboratory. [dx.doi.org/10.1101/2020.10.09.20210138](http://dx.doi.org/10.1101/2020.10.09.20210138)
 
 
 ### 2019
 
-[Mújica‐Mota, R.](http://orcid.org/0000-0002-7430-2744), [Landa, P.](http://orcid.org/0000-0001-6532-6747), [Pitt, M.](http://orcid.org/0000-0003-4026-8346), [**Allen, M.**](http://orcid.org/0000-0002-8746-9957), [Spencer, A.](http://orcid.org/0000-0002-8163-3103) (2019). **The heterogeneous causal effects of neonatal care: a model of endogenous demand for multiple treatment options based on geographical access to care**. Wiley. [dx.doi.org/10.1002/hec.3970](http://dx.doi.org/10.1002/hec.3970)
+Mújica‐Mota, R., Landa, P., Pitt, M., **Allen, M.**, Spencer, A. (2019). **The heterogeneous causal effects of neonatal care: a model of endogenous demand for multiple treatment options based on geographical access to care**. Wiley. [dx.doi.org/10.1002/hec.3970](http://dx.doi.org/10.1002/hec.3970)
 
 
-McMeekin, P., Flynn, D., **Allen, M.**, Coughlan, D., Ford, G., Lumley, H., Balami, J., James, M., Stein, K., Burgess, D., [White, P.](http://orcid.org/0000-0001-6007-6013) (2019). **Estimating the effectiveness and cost-effectiveness of establishing additional endovascular Thrombectomy stroke Centres in England: a discrete event simulation**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-019-4678-9](http://dx.doi.org/10.1186/s12913-019-4678-9)
+McMeekin, P., Flynn, D., **Allen, M.**, Coughlan, D., Ford, G., Lumley, H., Balami, J., James, M., Stein, K., Burgess, D., White, P. (2019). **Estimating the effectiveness and cost-effectiveness of establishing additional endovascular Thrombectomy stroke Centres in England: a discrete event simulation**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-019-4678-9](http://dx.doi.org/10.1186/s12913-019-4678-9)
 
 
 Peultier, A., Redekop, W., **Allen, M.**, Peters, J., Eker, O., Severens, J. (2019). **Exploring the Cost-Effectiveness of Mechanical Thrombectomy Beyond 6 Hours Following Advanced Imaging in the United Kingdom**. Ovid Technologies (Wolters Kluwer Health). [dx.doi.org/10.1161/STROKEAHA.119.026816](http://dx.doi.org/10.1161/STROKEAHA.119.026816)
@@ -84,24 +84,24 @@ Peultier, A., Redekop, W., **Allen, M.**, Peters, J., Eker, O., Severens, J. (20
 
 ### 2018
 
-[**Allen, M.**](http://orcid.org/0000-0002-8746-9957), Pearn, K., James, M., Ford, G., White, P., Rudd, A., [McMeekin, P.](http://orcid.org/0000-0003-0946-7224), Stein, K. (2018). **Maximising access to thrombectomy services for stroke in England: A modelling study**. SAGE Publications. [dx.doi.org/10.1177/2396987318785421](http://dx.doi.org/10.1177/2396987318785421)
+**Allen, M.**, Pearn, K., James, M., Ford, G., White, P., Rudd, A., McMeekin, P., Stein, K. (2018). **Maximising access to thrombectomy services for stroke in England: A modelling study**. SAGE Publications. [dx.doi.org/10.1177/2396987318785421](http://dx.doi.org/10.1177/2396987318785421)
 
 
-[Villeneuve, E.](http://orcid.org/0000-0002-4611-0251), [Landa, P.](http://orcid.org/0000-0001-6532-6747), [**Allen, M.**](http://orcid.org/0000-0002-8746-9957), [Spencer, A.](http://orcid.org/0000-0002-8163-3103), [Prosser, S.](http://orcid.org/0000-0002-6928-8968), [Gibson, A.](http://orcid.org/0000-0002-9524-984X), [Kelsey, K.](http://orcid.org/0000-0001-8907-7191), [Mujica-Mota, R.](http://orcid.org/0000-0002-7430-2744), [Manktelow, B.](http://orcid.org/0000-0002-3264-0323), [Modi, N.](http://orcid.org/0000-0002-2093-0681), [Thornton, S.](http://orcid.org/0000-0001-7613-0408), [Pitt, M.](http://orcid.org/0000-0003-4026-8346) (2018). **A framework to address key issues of neonatal service configuration in England: the NeoNet multimethods study**. National Institute for Health and Care Research. [dx.doi.org/10.3310/hsdr06350](http://dx.doi.org/10.3310/hsdr06350)
+Villeneuve, E., Landa, P., **Allen, M.**, Spencer, A., Prosser, S., Gibson, A., Kelsey, K., Mujica-Mota, R., Manktelow, B., Modi, N., Thornton, S., Pitt, M. (2018). **A framework to address key issues of neonatal service configuration in England: the NeoNet multimethods study**. National Institute for Health and Care Research. [dx.doi.org/10.3310/hsdr06350](http://dx.doi.org/10.3310/hsdr06350)
 
 
 ### 2017
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), van der Zee, D., Lahr, M., **Allen, M.**, Pearn, K., James, M., Buskens, E., Luijckx, G. (2017). **A framework to accelerate simulation studies of hyperacute stroke systems**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2017.09.002](http://dx.doi.org/10.1016/j.orhc.2017.09.002)
+Monks, T., van der Zee, D., Lahr, M., **Allen, M.**, Pearn, K., James, M., Buskens, E., Luijckx, G. (2017). **A framework to accelerate simulation studies of hyperacute stroke systems**. Elsevier BV. [dx.doi.org/10.1016/j.orhc.2017.09.002](http://dx.doi.org/10.1016/j.orhc.2017.09.002)
 
 
-[Swancutt, D.](http://orcid.org/0000-0003-1477-9935), Joel-Edgar, S., **Allen, M.**, Thomas, D., Brant, H., Benger, J., Byng, R., Pinkney, J. (2017). **Not all waits are equal: an exploratory investigation of emergency care patient pathways**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-017-2349-2](http://dx.doi.org/10.1186/s12913-017-2349-2)
+Swancutt, D., Joel-Edgar, S., **Allen, M.**, Thomas, D., Brant, H., Benger, J., Byng, R., Pinkney, J. (2017). **Not all waits are equal: an exploratory investigation of emergency care patient pathways**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-017-2349-2](http://dx.doi.org/10.1186/s12913-017-2349-2)
 
 
-[Swancutt, D.](http://orcid.org/0000-0003-1477-9935), Joel-Edgar, S., **Allen, M.**, Thomas, D., Brant, H., Benger, J., Byng, R., Pinkney, J. (2017). **Not all waits are equal: an exploratory investigation of emergency care patient pathways**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-017-2349-2](http://dx.doi.org/10.1186/s12913-017-2349-2)
+Swancutt, D., Joel-Edgar, S., **Allen, M.**, Thomas, D., Brant, H., Benger, J., Byng, R., Pinkney, J. (2017). **Not all waits are equal: an exploratory investigation of emergency care patient pathways**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-017-2349-2](http://dx.doi.org/10.1186/s12913-017-2349-2)
 
 
-[Swancutt, D.](http://orcid.org/0000-0003-1477-9935), Joel-Edgar, S., **Allen, M.**, Thomas, D., Brant, H., Benger, J., Byng, R., Pinkney, J. (2017). **Not all waits are equal: an exploratory investigation of emergency care patient pathways**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-017-2349-2](http://dx.doi.org/10.1186/s12913-017-2349-2)
+Swancutt, D., Joel-Edgar, S., **Allen, M.**, Thomas, D., Brant, H., Benger, J., Byng, R., Pinkney, J. (2017). **Not all waits are equal: an exploratory investigation of emergency care patient pathways**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-017-2349-2](http://dx.doi.org/10.1186/s12913-017-2349-2)
 
 
 ### 2016
@@ -109,10 +109,10 @@ Peultier, A., Redekop, W., **Allen, M.**, Peters, J., Eker, O., Severens, J. (20
 Craig, P., Rahm-Hallberg, I., Britten, N., Borglin, G., Meyer, G., Köpke, S., Noyes, J., Chandler, J., Levati, S., Sales, A., Thabane, L., Giangregorio, L., Feeley, N., Cossette, S., Taylor, R., Hill, J., Richards, D., Kuyken, W., von Essen, L., Williams, A., Hemming, K., Lilford, R., Girling, A., Taljaard, M., Dimairo, M., Petticrew, M., Baird, J., Moore, G., Odendaal, W., Atkins, S., Lutge, E., Leon, N., Lewin, S., Payne, K., van Achterberg, T., Sermeus, W., Pitt, M., Monks, T. (2016). **Researching Complex Interventions in Health: The State of the Art**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1274-0](http://dx.doi.org/10.1186/s12913-016-1274-0)
 
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Worthington, D., **Allen, M.**, Pitt, M., Stein, K., James, M. (2016). **A modelling tool for capacity planning in acute and community stroke services**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1789-4](http://dx.doi.org/10.1186/s12913-016-1789-4)
+Monks, T., Worthington, D., **Allen, M.**, Pitt, M., Stein, K., James, M. (2016). **A modelling tool for capacity planning in acute and community stroke services**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1789-4](http://dx.doi.org/10.1186/s12913-016-1789-4)
 
 
-[Monks, T.](http://orcid.org/0000-0003-2631-4481), Worthington, D., **Allen, M.**, Pitt, M., Stein, K., James, M. (2016). **A modelling tool for capacity planning in acute and community stroke services**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1789-4](http://dx.doi.org/10.1186/s12913-016-1789-4)
+Monks, T., Worthington, D., **Allen, M.**, Pitt, M., Stein, K., James, M. (2016). **A modelling tool for capacity planning in acute and community stroke services**. Springer Science and Business Media LLC. [dx.doi.org/10.1186/s12913-016-1789-4](http://dx.doi.org/10.1186/s12913-016-1789-4)
 
 
 ### 2015

@@ -146,11 +146,13 @@ def get_publications(orcid_id):
                     # For a compancy/group, it will just be "name"
                     else:
                         name = author["name"]
+                    # Add author name
+                    autht.append(name)
                     # If author has an ORCID ID, link to it
-                    if "ORCID" in author:
-                        autht.append(f"[{name}]({author['ORCID']})")
-                    else:
-                        autht.append(name)
+                    # if "ORCID" in author:
+                    #     autht.append(f"[{name}]({author['ORCID']})")
+                    # else:
+                    #     autht.append(name)
                 autht = ", ".join(autht)
 
                 journal = meta["publisher"]
@@ -211,7 +213,7 @@ get_publications("0000-0002-8746-9957")
 get_publications("0000-0002-5504-7768")
 
 # Sammi Rosser
-# ORCID ID unknown
+get_publications("0000-0002-9552-8988")
 
 # Tom Monks
 get_publications("0000-0003-2631-4481")
