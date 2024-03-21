@@ -59,3 +59,13 @@ If you wish to contribute in any of the above ways, including responding to feed
 * Focusing on what is best not just for us as individuals, but for the overall community
 
 These guidelines are adapted from the [Contributor Covenant](https://www.contributor-covenant.org/)
+
+## GitHub flow
+
+[This guide](https://docs.github.com/en/get-started/using-github/github-flow) explains how to follow GitHub flow to collaborate on projects, which includes:
+* Creating a branch
+* Making changes
+* Creating a pull request
+* Addressing review comments
+* Merging a pull request
+* Deleting a branch
