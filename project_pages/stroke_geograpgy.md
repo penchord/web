@@ -16,7 +16,7 @@ Thrombectomy requires more specialist resources than thrombolysis. Thrombectomy 
 
 This presents a new challenge. For patients who live closest to a thrombolysis-only unit (which is about 6 out of 10 of all patients), would they be better off going to a closer thrombolysis-only unit, which will speed access to thrombolysis, or would they be better off travelling further to a combined thrombolysis and thrombectomy centre which will delay thrombolysis but speed up access to thrombectomy? These two ways of providing care are known as *drip-and-ship* and *mothership*, and are shown in the figure below.
 
-![](./images/drip_ship_mothership.png)
+![](../images/drip_ship_mothership.png)
 
 #### Alternative models of care
 
@@ -39,7 +39,7 @@ In order to help local, regional, or national planners design well-configured st
 The analysis below shows the benefit of thrombolysis/thrombectomy using either *drip-and-ship* (left) or *mothership* (middle) organisation of care, with the advantage to the patient of *mothership* (over *drip-and-ship*) also being shown (right). The patient benefit in this analysis has been converted from the modified Rankin Scale measure of disability to *utility* which is a universal scale for patient health ranging from 0 (dead) to 1 (full health). We see that the *mothership* model (blue) of care provides most overall benefit across most of the country, though in some remote areas patients would benefit from earlier local thrombolysis using *drip-and-ship* (red). However, such a model of care would be unsustainable for the thrombectomy centres as they would be overwhelmed with emergency stroke admissions, so local thrombolysis-only units are required to manage the sustainability of the system.
 
 
-![](./images/added_utility.jpg)
+![](../images/added_utility.jpg)
 *Maps of benefit of thrombolysis/thrombectomy depending on location of stroke and model of care. Left: Overall patient benefit using drip-and-ship model of care. Middle: Overall patient benefit using mothership model of care. Right: Weighted advantage in utility of mothership over drip-and-ship (blue = mothership is better). Patient outcome is estimated on a utility scale of 0 (death) to 1 (full health). Thrombolysis-only unit are indicated by white circles, and combined thrombolysis/thrombectomy centres by red circles. Where a patient lives closest to a combined thrombolysis/thrombectomy centre, drip-and-ship and mothership are equivalent.
 
 ## **Projects**
