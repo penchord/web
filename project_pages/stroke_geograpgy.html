@@ -1,13 +1,12 @@
 
-
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="../" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Stroke services organisation (geographic analysis and optimisation) &#8212; PenCHORD</title>
   
@@ -19,48 +18,45 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
 
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+  <link href="../_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
 
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="../_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'project_pages/stroke_geograpgy';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -75,7 +71,15 @@ const thebe_selector_output = ".output, .cell_output"
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
@@ -110,11 +114,14 @@ const thebe_selector_output = ".output, .cell_output"
 </form></div>
   </div>
   
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
-    </nav>
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
   
+
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
+      
+      
       
       <div class="bd-sidebar-primary bd-sidebar">
         
@@ -129,9 +136,11 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
   
 
 <a class="navbar-brand logo" href="../intro.html">
+  
   
   
   
@@ -141,12 +150,23 @@ const thebe_selector_output = ".output, .cell_output"
       
     
     
-    <img src="../_static/penchord_logo.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="../_static/penchord_logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+    <img src="../_static/penchord_logo.png" class="logo__image only-light" alt="PenCHORD - Home"/>
+    <script>document.write(`<img src="../_static/penchord_logo.png" class="logo__image only-dark" alt="PenCHORD - Home"/>`);</script>
   
   
 </a></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -156,7 +176,10 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Projects</span></p>
+        <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contact.html">Contact us</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Projects</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="project_summaries.html">Project summaries</a></li>
 <li class="toctree-l1"><a class="reference internal" href="samuel_1.html">Stroke Audit Machine Learning (SAMueL)</a></li>
@@ -178,6 +201,11 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../people_pages/mike_allen.html">Mike Allen</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../people_pages/sammi_rosser.html">Sammi Rosser</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../people_pages/tom_monks.html">Tom Monks</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../people_pages/honorary.html">Honorary associates</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../people_pages/andy_mayne.html">Andy Mayne</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../people_pages/rob_challen.html">Rob Challen</a></li>
+</ul>
+</li>
 </ul>
 
     </div>
@@ -284,20 +312,22 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
+
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script>
 
+
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
   </button>
 `);
 </script>
@@ -361,25 +391,25 @@ document.write(`
               
                 
 <div id="searchbox"></div>
-                <article class="bd-article" role="main">
+                <article class="bd-article">
                   
   <section id="stroke-services-organisation-geographic-analysis-and-optimisation">
-<h1>Stroke services organisation (geographic analysis and optimisation)<a class="headerlink" href="#stroke-services-organisation-geographic-analysis-and-optimisation" title="Permalink to this heading">#</a></h1>
+<h1>Stroke services organisation (geographic analysis and optimisation)<a class="headerlink" href="#stroke-services-organisation-geographic-analysis-and-optimisation" title="Link to this heading">#</a></h1>
 <section id="the-problem">
-<h2><strong>The problem</strong><a class="headerlink" href="#the-problem" title="Permalink to this heading">#</a></h2>
+<h2><strong>The problem</strong><a class="headerlink" href="#the-problem" title="Link to this heading">#</a></h2>
 <p>Stroke is a common cause of adult death and disability. Most strokes are caused by a blood clot in the brain. It is possible to reduce the effects of stroke by use of clot-busting drugs (‘thrombolysis’) or mechanical removal of the clot (‘thrombectomy’). Thrombolysis may be used in more patients, but thrombectomy is more beneficial in patients with clots in large vessels which are the types of stroke that usually cause most physical impairment or risk of death.</p>
 <p>As soon as the clot forms or lodges in the brain, the brain tissue that is now not receiving blood begins to deteriorate. Much of the beneficial effect of both thrombolysis and thrombectomy may be lost over the first few hours after stroke. Speed is therefore essential.</p>
 <section id="emergency-stroke-units-how-many-should-there-be-and-where">
-<h3>Emergency stroke units: how many should there be, and where?<a class="headerlink" href="#emergency-stroke-units-how-many-should-there-be-and-where" title="Permalink to this heading">#</a></h3>
+<h3>Emergency stroke units: how many should there be, and where?<a class="headerlink" href="#emergency-stroke-units-how-many-should-there-be-and-where" title="Link to this heading">#</a></h3>
 <p>In an ideal world, both thrombolysis and thrombectomy could be provided in every acute hospital, ensuring rapid access for all patients. However both techniques, and especially thrombectomy, require access to some level of specialist experience and resources. Planning should maximise access to treatment, while also ensuring stroke teams have sufficient admissions to maintain expertise in the treatment they offer. This requires a delicate balancing act when considering number and locations of where emergency stroke services are provided. An additional challenge is that planning also has to avoid any single unit having too many admissions for either the emergency teams or the hospital bed capacity to cope with.</p>
 </section>
 <section id="drip-and-ship-vs-mothership">
-<h3>Drip-and-Ship vs Mothership<a class="headerlink" href="#drip-and-ship-vs-mothership" title="Permalink to this heading">#</a></h3>
+<h3>Drip-and-Ship vs Mothership<a class="headerlink" href="#drip-and-ship-vs-mothership" title="Link to this heading">#</a></h3>
 <p>Thrombectomy requires more specialist resources than thrombolysis. Thrombectomy requires a specialist team with access to a ‘Cath Lab’ where the procedure takes place. The number of locations that thrombectomy may be provided is limited by availability of specialist resources, and the need to ensure those teams perform enough thrombectomy procedures to maintain expertise. Thrombolysis, which requires experienced staff, but no need for very specialist equipment may be provided in more hospitals.</p>
 <p>This presents a new challenge. For patients who live closest to a thrombolysis-only unit (which is about 6 out of 10 of all patients), would they be better off going to a closer thrombolysis-only unit, which will speed access to thrombolysis, or would they be better off travelling further to a combined thrombolysis and thrombectomy centre which will delay thrombolysis but speed up access to thrombectomy? These two ways of providing care are known as <em>drip-and-ship</em> and <em>mothership</em>, and are shown in the figure below.</p>
 <p><img alt="" src="../_images/drip_ship_mothership.png" /></p>
 <section id="alternative-models-of-care">
-<h4>Alternative models of care<a class="headerlink" href="#alternative-models-of-care" title="Permalink to this heading">#</a></h4>
+<h4>Alternative models of care<a class="headerlink" href="#alternative-models-of-care" title="Link to this heading">#</a></h4>
 <p>In addition to <em>drip-and-ship</em> and <em>mothership</em>, there are two other possible models of care:</p>
 <ol class="arabic simple">
 <li><p><strong>Pre-hospital selection of patients</strong>. In this model of care diagnostic tests are performed at the location of stroke patient to determine whether they are most likely to benefit from being taken directly to a centre that provides thrombolysis and thrombectomy. These are patients with a clot in a large vessel. Currently there is no simple, perfect test that may be performed on-scene, but increased investigation with the aid of telemedicine from a stroke specialist may help determine patients likely to benefit from direct transfer to a combined thrombolysis/thrombectomy centre, even at the cost of a delay in receiving thrombolysis (see <strong>OPTIMIST</strong> project below).</p></li>
@@ -389,7 +419,7 @@ document.write(`
 </section>
 </section>
 <section id="our-approaches">
-<h2><strong>Our approaches</strong><a class="headerlink" href="#our-approaches" title="Permalink to this heading">#</a></h2>
+<h2><strong>Our approaches</strong><a class="headerlink" href="#our-approaches" title="Link to this heading">#</a></h2>
 <p>In order to help local, regional, or national planners design well-configured stroke services we have developed a number of approaches:</p>
 <ol class="arabic simple">
 <li><p><strong>Stroke outcome modelling</strong>: We have built <a class="reference external" href="https://samuel-book.github.io/stroke_outcome/intro.html">stroke outcome models</a> that predict disability-level outcomes based on time to thrombolysis and thrombectomy. These models allow an evaluation of the trade-off between time to thrombolysis and time to thrombectomy.</p></li>
@@ -398,17 +428,17 @@ document.write(`
 <li><p><strong>Clinical pathway simulation</strong>: A common question that may be raised is what bed capacity is required so that stroke patients are cared for in a specialist stroke ward. We provide simulation that takes into account the randomness of when strokes occur (creating peaks and troughs in admission numbers) and the varying lengths of stay of stroke patients. We help teams evaluate ways of coping with this variation without the need for large bed surpluses.</p></li>
 </ol>
 <section id="an-example-analysis">
-<h3>An example analysis<a class="headerlink" href="#an-example-analysis" title="Permalink to this heading">#</a></h3>
+<h3>An example analysis<a class="headerlink" href="#an-example-analysis" title="Link to this heading">#</a></h3>
 <p>The analysis below shows the benefit of thrombolysis/thrombectomy using either <em>drip-and-ship</em> (left) or <em>mothership</em> (middle) organisation of care, with the advantage to the patient of <em>mothership</em> (over <em>drip-and-ship</em>) also being shown (right). The patient benefit in this analysis has been converted from the modified Rankin Scale measure of disability to <em>utility</em> which is a universal scale for patient health ranging from 0 (dead) to 1 (full health). We see that the <em>mothership</em> model (blue) of care provides most overall benefit across most of the country, though in some remote areas patients would benefit from earlier local thrombolysis using <em>drip-and-ship</em> (red). However, such a model of care would be unsustainable for the thrombectomy centres as they would be overwhelmed with emergency stroke admissions, so local thrombolysis-only units are required to manage the sustainability of the system.</p>
 <p><img alt="" src="../_images/added_utility.jpg" />
 *Maps of benefit of thrombolysis/thrombectomy depending on location of stroke and model of care. Left: Overall patient benefit using drip-and-ship model of care. Middle: Overall patient benefit using mothership model of care. Right: Weighted advantage in utility of mothership over drip-and-ship (blue = mothership is better). Patient outcome is estimated on a utility scale of 0 (death) to 1 (full health). Thrombolysis-only unit are indicated by white circles, and combined thrombolysis/thrombectomy centres by red circles. Where a patient lives closest to a combined thrombolysis/thrombectomy centre, drip-and-ship and mothership are equivalent.</p>
 </section>
 </section>
 <section id="projects">
-<h2><strong>Projects</strong><a class="headerlink" href="#projects" title="Permalink to this heading">#</a></h2>
+<h2><strong>Projects</strong><a class="headerlink" href="#projects" title="Link to this heading">#</a></h2>
 <p>We have undertaken a range of projects to assist regional or national providers in planning services, and also undertaken more basic research to be able to model these systems.</p>
 <section id="national-planning">
-<h3>National planning<a class="headerlink" href="#national-planning" title="Permalink to this heading">#</a></h3>
+<h3>National planning<a class="headerlink" href="#national-planning" title="Link to this heading">#</a></h3>
 <p>We have provided contracted modelling of number and location of thrombolysis and thrombectomy centres for all nations in the UK:</p>
 <ul class="simple">
 <li><p>England</p></li>
@@ -418,7 +448,7 @@ document.write(`
 </ul>
 </section>
 <section id="regional-planning">
-<h3>Regional planning<a class="headerlink" href="#regional-planning" title="Permalink to this heading">#</a></h3>
+<h3>Regional planning<a class="headerlink" href="#regional-planning" title="Link to this heading">#</a></h3>
 <p>We have provided modelling of number and location of thrombolysis and thrombectomy centres, and on bed capacities required for acute and rehab care. Regions modelled were:</p>
 <ul class="simple">
 <li><p>South West England (location of thrombolysis centres)</p></li>
@@ -427,22 +457,22 @@ document.write(`
 </ul>
 </section>
 <section id="implementation-of-thrombectomy-in-england">
-<h3>Implementation of thrombectomy in England<a class="headerlink" href="#implementation-of-thrombectomy-in-england" title="Permalink to this heading">#</a></h3>
+<h3>Implementation of thrombectomy in England<a class="headerlink" href="#implementation-of-thrombectomy-in-england" title="Link to this heading">#</a></h3>
 <p>Modelling was used to advise on the number and location of thrombolysis-only and combined thrombolysis/thrombectomy centres in England. This formed part of the <a class="reference external" href="https://www.oxfordahsn.org/wp-content/uploads/2022/02/Mechanical-Thrombectomy-for-Ischaemic-Stroke-February-2022.pdf">England Thrombectomy Implementation Guide</a></p>
 </section>
 <section id="optimist-optimising-implementation-of-ischaemic-stroke-thrombectomy">
-<h3>OPTIMIST (OPTimising IMplementation of Ischaemic Stroke Thrombectomy)<a class="headerlink" href="#optimist-optimising-implementation-of-ischaemic-stroke-thrombectomy" title="Permalink to this heading">#</a></h3>
+<h3>OPTIMIST (OPTimising IMplementation of Ischaemic Stroke Thrombectomy)<a class="headerlink" href="#optimist-optimising-implementation-of-ischaemic-stroke-thrombectomy" title="Link to this heading">#</a></h3>
 <p>The OPTIMIST project (running 2021-2026) combines a clinical trial and modelling to assess the benefit and feasibility of pre-hospital selection of patients for direct conveyance to a combined thrombolysis/thrombectomy centre (which provides more rapid thrombectomy, but at the cost of delayed thrombolysis).</p>
 </section>
 <section id="muster-modelling-mobile-stroke-units-for-stroke-treatment-equity-and-resources">
-<h3>MUSTER (Modelling mobile stroke Units for Stroke Treatment Equity and Resources)<a class="headerlink" href="#muster-modelling-mobile-stroke-units-for-stroke-treatment-equity-and-resources" title="Permalink to this heading">#</a></h3>
+<h3>MUSTER (Modelling mobile stroke Units for Stroke Treatment Equity and Resources)<a class="headerlink" href="#muster-modelling-mobile-stroke-units-for-stroke-treatment-equity-and-resources" title="Link to this heading">#</a></h3>
 <p>The MUSTER project (running 2024-2025) combines qualitative research and modelling to assess the benefit and feasibility of providing on-scene thrombolysis in mobile stroke units (a specialist ambulance equipped with head scanner, and staffed by by people with knowledge of how to administer thrombolysis on scene).</p>
 </section>
 </section>
 <section id="funding">
-<h2><strong>Funding</strong><a class="headerlink" href="#funding" title="Permalink to this heading">#</a></h2>
+<h2><strong>Funding</strong><a class="headerlink" href="#funding" title="Link to this heading">#</a></h2>
 <section id="national-and-regional-contracted-work">
-<h3>National and regional contracted work<a class="headerlink" href="#national-and-regional-contracted-work" title="Permalink to this heading">#</a></h3>
+<h3>National and regional contracted work<a class="headerlink" href="#national-and-regional-contracted-work" title="Link to this heading">#</a></h3>
 <p>Work has been contracted by the following national and regional organisations:</p>
 <ul class="simple">
 <li><p>NHS England (number and location of thrombolysis and thrombectomy centres, jointly funded by NHS England and the Stroke Association)</p></li>
@@ -455,14 +485,14 @@ document.write(`
 </ul>
 </section>
 <section id="research-funding">
-<h3>Research funding<a class="headerlink" href="#research-funding" title="Permalink to this heading">#</a></h3>
+<h3>Research funding<a class="headerlink" href="#research-funding" title="Link to this heading">#</a></h3>
 <p>NIHR Health Services and Delivery Research Reference NIHR153982 £539k: Modelling the resource requirements for implementation of mobile stroke units across the National Health Service, their cost-effectiveness, and their effect on equity of access to emergency stroke care. <a class="reference external" href="https://fundingawards.nihr.ac.uk/award/NIHR153982">Link</a></p>
 <p>NIHR Health Services and Delivery Research Reference NIHR153982 £539k: Modelling the resource requirements for implementation of mobile stroke units across the National Health Service, their cost-effectiveness, and their effect on equity of access to emergency stroke care. <a class="reference external" href="https://fundingawards.nihr.ac.uk/award/NIHR153982">Link</a></p>
 <p>NIHR Programme Development Grant NIHR201692: £132K Enhancing and disseminating the outputs of the Promoting Effective and Rapid Stroke Care (PEARS) NIHR PGfAR Programme Grant &amp; facilitating thrombectomy implementation in England. Dec 2020 to Nov 2021. <a class="reference external" href="https://fundingawards.nihr.ac.uk/award/NIHR201692">Link</a></p>
 </section>
 </section>
 <section id="publications">
-<h2><strong>Publications</strong><a class="headerlink" href="#publications" title="Permalink to this heading">#</a></h2>
+<h2><strong>Publications</strong><a class="headerlink" href="#publications" title="Link to this heading">#</a></h2>
 <p>Allen M, Pearn K, Ford GA, White P, Rudd AG, McMeekin P, Stein K, James M. (2022) National implementation of reperfusion for acute ischaemic stroke in England: How should services be configured? A modelling study. European Stroke Journal 7:28-40. doi:10.1177/23969873211063323 <a class="reference external" href="https://journals.sagepub.com/doi/10.1177/23969873211063323">link</a></p>
 <p>Allen, M., Pearn, K., Stein, K, and James, M. (2020) Estimation of stroke outcomes based on time to thrombolysis and thrombectomy. medRxiv doi:10.1101/2020.07.18.20156653 <a class="reference external" href="https://www.medrxiv.org/content/10.1101/2020.07.18.20156653v1">link</a></p>
 <p>McMeekin, P., Flynn, D., Allen, M., Coughlan, D., Ford, G.A., Lumley, H., Joyce, B.S., James, M.A., Stein, K., Burgess, B. and White, P. (2019) Estimating the effectiveness and cost-effectiveness of establishing additional endovascular Thrombectomy stroke Centres in England: a discrete event simulation. BMC Health Services Research 2019;19:821. doi:10.1186/s12913-019-4678-9 <a class="reference external" href="https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4678-9">link</a></p>
@@ -473,7 +503,7 @@ document.write(`
 <p>Monks, T., Worthington, D., Allen, M., Pitt, M., Stein, K., &amp; James, M. A. (2016). A modelling tool for capacity planning in acute and community stroke services. BMC health services research, 16, 1-8. <a class="reference external" href="https://link.springer.com/article/10.1186/s12913-016-1789-4">link</a></p>
 </section>
 <section id="quotes-on-impact">
-<h2><strong>Quotes on impact</strong><a class="headerlink" href="#quotes-on-impact" title="Permalink to this heading">#</a></h2>
+<h2><strong>Quotes on impact</strong><a class="headerlink" href="#quotes-on-impact" title="Link to this heading">#</a></h2>
 <p>Professor Tony Rudd, National Clinical Director for Stroke, NHS England:</p>
 <blockquote>
 <div><p>‘The modelling work undertaken by PenCHORD has been invaluable in helping the NHS decide how and where services for thrombectomy for stroke should be organised. It has also raised critical questions about the organisation of the whole of acute stroke care in way that will influence the new National Stroke Plan for England’</p>
@@ -493,7 +523,7 @@ document.write(`
 </div></blockquote>
 </section>
 <section id="implementation">
-<h2><strong>Implementation</strong><a class="headerlink" href="#implementation" title="Permalink to this heading">#</a></h2>
+<h2><strong>Implementation</strong><a class="headerlink" href="#implementation" title="Link to this heading">#</a></h2>
 <p>Contracted work has been performed for national and regional stroke services (see above). Additionally, modelling has formed part of the UK implementation guide for thrombectomy:</p>
 <p>Allen, M., Pearn, K., James, M., White, P. and Stein, K. (2022). How many comprehensive and acute stroke centres should the UK have? In: Mechanical thrombectomy for acute ischaemic stroke: an implementation guide for the UK. <a class="reference external" href="https://www.oxfordahsn.org/wp-content/uploads/2022/02/Mechanical-Thrombectomy-for-Ischaemic-Stroke-February-2022.pdf">link</a></p>
 </section>
@@ -524,11 +554,10 @@ document.write(`
 
               
               
-                <footer class="bd-footer-article">
+              
+              
+                <footer class="prev-next-footer">
                   
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="samuel_1.html"
@@ -548,10 +577,7 @@ document.write(`
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
@@ -559,6 +585,7 @@ document.write(`
             
               
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
 
   <div class="sidebar-secondary-item">
   <div class="page-toc tocsection onthispage">
@@ -615,9 +642,10 @@ By PenCHORD
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2023.
       <br/>
     
   </p>
@@ -641,8 +669,8 @@ By PenCHORD
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
 
   <footer class="bd-footer">
   </footer>

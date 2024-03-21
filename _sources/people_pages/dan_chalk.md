@@ -1,6 +1,9 @@
 # Dan Chalk
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4165--4364-brightgreen)](https://orcid.org/0000-0002-4165-4364)
+```{include} ../badges/dan_chalk_badges.txt
+```
+
+> Senior Research Fellow in Applied Healthcare Modelling and Analysis
 
 ## Publications
 
