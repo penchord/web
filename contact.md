@@ -4,6 +4,8 @@ Email: **penchord@exeter.ac.uk**
 
 Address: **South Cloisters, University of Exeter, St Luke's Campus, Heavitree Road, Exeter, EX1 2LU, UK**
 
+![South Cloisters photograph](images/south_cloisters_amys_photo.jpg)
+
 ## Contributing to this site
 
 We welcome contributions to this book. In each case credit will be given. Please do not feel you need to be an expert to contribute all views and feedback are greatly appreciated. You can contribute in the following ways:
