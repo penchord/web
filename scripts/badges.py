@@ -104,6 +104,8 @@ def create_badges(full_name, orcid_id=None, linkedin_link=None,
     txt_file.close()
 
 
+# PenCHORD Core Team
+
 create_badges(
     full_name="Amy Heather",
     orcid_id="0000-0002-6596-3479",
@@ -111,43 +113,56 @@ create_badges(
     github_username="amyheather")
 
 create_badges(
-    orcid_id="0000-0002-2145-0487",
     full_name="Anna Laws",
+    orcid_id="0000-0002-2145-0487",
     github_username="aselaws")
 
 create_badges(
-    orcid_id="0000-0002-7933-1501",
     full_name="Chrissie Walker",
+    orcid_id="0000-0002-7933-1501",
     linkedin_link="https://www.linkedin.com/in/chrisssiewalker/")
 
 create_badges(
-    orcid_id="0000-0002-4165-4364",
     full_name="Dan Chalk",
+    orcid_id="0000-0002-4165-4364",
     github_username="hsma-chief-elf")
 
 create_badges(
-    orcid_id="0000-0003-2786-4426",
     full_name="Kerry Pearn",
+    orcid_id="0000-0003-2786-4426",
     github_username="KerryPearn")
 
 create_badges(
-    orcid_id="0000-0003-4026-8346",
     full_name="Martin Pitt",
+    orcid_id="0000-0003-4026-8346",
     linkedin_link="https://www.linkedin.com/in/martin-pitt-735625a/")
 
 create_badges(
-    orcid_id="0000-0002-8746-9957",
     full_name="Mike Allen",
+    orcid_id="0000-0002-8746-9957",
     github_username="MichaelAllen1966")
 
 create_badges(
-    orcid_id="0000-0002-9552-8988",
     full_name="Sammi Rosser",
+    orcid_id="0000-0002-9552-8988",
     linkedin_link="https://www.linkedin.com/in/sammijaderosser/",
     github_username="Bergam0t")
 
 create_badges(
-    orcid_id="0000-0003-2631-4481",
     full_name="Tom Monks",
+    orcid_id="0000-0003-2631-4481",
     linkedin_link="https://www.linkedin.com/in/thomas-monks-a24aa22/",
     github_username="TomMonks")
+
+# Honorary Associates
+
+create_badges(
+    full_name="Andy Mayne",
+    orcid_id="0000-0003-1263-2286",
+    linkedin_link="https://www.linkedin.com/in/andy-mayne/")
+
+create_badges(
+    full_name="Rob Challen",
+    orcid_id="0000-0002-5504-7768",
+    linkedin_link="https://www.linkedin.com/in/robchallen/",
+    github_username="robchallen")
