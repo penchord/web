@@ -4,3 +4,12 @@
 ```
 
 > Postdoctoral Research Fellow
+
+## Current projects
+
+`````{grid} 2
+````{grid-item-card}
+
+[![HSMA logo](../images/hsma_logo.png)](../project_pages/hsma.md)
+````
+`````
