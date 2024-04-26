@@ -10,7 +10,7 @@ The key aim of the SAMueL work is to understand between-hospital variation in pr
 
 The figure below shows the pathway we are looking at, and the questions we are are asking. We use *clinical pathway simulation* to model the flow of patients through the emergency stroke pathway, so we can ask questions about what improvement in outcomes could be achieved by improving patient flow. We use machine learning to understand variation in decision to treat, so we can ask questions about what improvement in outcomes could be achieved by improving consistency around clinical decision-making.
 
-![](../images/samuel_pathway.png)
+![](./images/samuel_pathway.png)
 
 We tailor our modelling to process-speeds and decisions-to-treat at each hospital, and also base the models on hospital's own patient populations. This allows us to provide a realistic idea of what thrombolysis or thrombectomy use could be at each hospital, rather than providing the same target to all hospitals regardless of local patient population demographics.
 
