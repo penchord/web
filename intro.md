@@ -6,7 +6,7 @@ PenCHORD was established in 2011 by Prof. Martin Pitt in order to bridge the imp
 
 PenCHORD works with, and teaches, exclusively open source tools (such as Python, R, Julia) and promotes Open Science. In 2024, PenCHORD won two HDR-UK Reproducibility Recognition awards for our open and accessible work, one for our [Health Service Modelling Associates (HSMA) programme](https://arc-swp.nihr.ac.uk/training-type/health-service-modelling-associates-programme-hsma/), and the other for our [Stroke Audit Machine Learning (SAMueL)](https://penchord.github.io/web/project_pages/samuel_1.html) work.
 
-PenCHORD is supported by the National Institute for Health Research Applied Research Collaboration South West Peninsula ('PenARC').
+PenCHORD is the [NIHR Applied Research Collaboration South West Peninsula's (PenARC's)](https://arc-swp.nihr.ac.uk/about-penarc/) Operational Research and Data Science Team.
 
 ![](./images/PenCHORD_team.jpg)
 

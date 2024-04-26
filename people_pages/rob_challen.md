@@ -1,6 +1,8 @@
 # Rob Challen
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5504--7768-brightgreen)](https://orcid.org/0000-0002-5504-7768)
+```{include} ../badges/rob_challen_badges.txt
+```
+> Senior Research Associate with University of Bristol, PenCHORD Honorary Associate Research Fellow
 
 ## Publications
 

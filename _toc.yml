@@ -1,12 +1,19 @@
 format: jb-book
 root: intro
 parts:
+- chapters:
+  - file: contact
 - caption: Projects
   chapters:
-  - file: project_pages/project_summaries
-  - file: project_pages/samuel_1
-  - file: project_pages/stroke_geograpgy
-  - file: project_pages/kailo
+  - file: project_pages/hsma
+  - file: project_pages/open_science
+  - file: project_pages/stroke_maternity
+    sections:
+    - file: project_pages/samuel_1
+    - file: project_pages/stroke_geography
+  - file: project_pages/other
+    sections:
+    - file: project_pages/kailo
 - caption: Publications & funding
   chapters:
   - file: publications/publications
@@ -21,3 +28,7 @@ parts:
   - file: people_pages/mike_allen
   - file: people_pages/sammi_rosser
   - file: people_pages/tom_monks
+  - file: people_pages/honorary
+    sections:
+    - file: people_pages/andy_mayne
+    - file: people_pages/rob_challen

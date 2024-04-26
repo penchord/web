@@ -1,7 +1,8 @@
 """
 Create badges for profile and save to text file
 """
-from IPython.display import Markdown
+from pathlib import Path
+import os
 
 
 def orcid(orcid_id):
@@ -22,7 +23,7 @@ def orcid(orcid_id):
     id_dash = orcid_id.replace("-", "--")
     badge = (f"[![ORCID](https://img.shields.io/badge/ORCID-{id_dash}-" +
              f"brightgreen)](https://orcid.org/{orcid_id})")
-    return Markdown(badge)
+    return badge
 
 
 def linkedin(name, link):
@@ -44,7 +45,7 @@ def linkedin(name, link):
     name = name.replace(" ", "_")
     badge = ("[![LinkedIn](https://img.shields.io/badge/LinkedIn-" +
              f"{name}-0A66C2)]({link})")
-    return Markdown(badge)
+    return badge
 
 
 def github(username):
@@ -61,11 +62,107 @@ def github(username):
     badge : str
         String of markdown that will produce the GitHub badge
     """
-    badge = (f"[![GitHub](https://img.shields.io/badge/GitHub-{username}" +
+    # For the badge, will need to replace any '-' with '--' else error
+    badge_name = username.replace("-", "--")
+    badge = (f"[![GitHub](https://img.shields.io/badge/GitHub-{badge_name}" +
              f"-DCD0FF)](https://github.com/{username})")
-    return Markdown(badge)
+    return badge
 
 
-orcid("0000-0002-6596-3479")
-linkedin("Amy Heather", "https://www.linkedin.com/in/amyheather/")
-github("amyheather")
+def create_badges(full_name, orcid_id=None, linkedin_link=None,
+                  github_username=None):
+    """
+    Generate markdown to produce ORCID, LinkedIn and GitHub badges
+
+    Parameters
+    ----------
+    full_name : str
+        Full name
+    orcid_id: str
+        Researcher 16-digit ORCID digital identifier, eg. "0000-0000-0000-0000"
+    linkedin_link: str
+        Link to LinkedIn profile
+    github_username : str
+        GitHub username
+    """
+    # Get badges (depending on information provided)
+    content = ""
+    if orcid_id is not None:
+        content += str(orcid(orcid_id) + "   ")
+    if linkedin_link is not None:
+        content += str(linkedin(full_name, linkedin_link) + "   ")
+    if github_username is not None:
+        content += str(github(github_username))
+
+    # Get path and name for text file produced
+    path = f"{Path(__file__).parent.parent}/badges"
+    name_lower = full_name.lower().replace(" ", "_")
+
+    # Write badges to text file
+    txt_file = open(os.path.join(path, f"{name_lower}_badges.txt"), "w")
+    txt_file.write(content)
+    txt_file.close()
+
+
+# PenCHORD Core Team
+
+create_badges(
+    full_name="Amy Heather",
+    orcid_id="0000-0002-6596-3479",
+    linkedin_link="https://www.linkedin.com/in/amyheather/",
+    github_username="amyheather")
+
+create_badges(
+    full_name="Anna Laws",
+    orcid_id="0000-0002-2145-0487",
+    github_username="aselaws")
+
+create_badges(
+    full_name="Chrissie Walker",
+    orcid_id="0000-0002-7933-1501",
+    linkedin_link="https://www.linkedin.com/in/chrisssiewalker/")
+
+create_badges(
+    full_name="Dan Chalk",
+    orcid_id="0000-0002-4165-4364",
+    github_username="hsma-chief-elf")
+
+create_badges(
+    full_name="Kerry Pearn",
+    orcid_id="0000-0003-2786-4426",
+    github_username="KerryPearn")
+
+create_badges(
+    full_name="Martin Pitt",
+    orcid_id="0000-0003-4026-8346",
+    linkedin_link="https://www.linkedin.com/in/martin-pitt-735625a/")
+
+create_badges(
+    full_name="Mike Allen",
+    orcid_id="0000-0002-8746-9957",
+    github_username="MichaelAllen1966")
+
+create_badges(
+    full_name="Sammi Rosser",
+    orcid_id="0000-0002-9552-8988",
+    linkedin_link="https://www.linkedin.com/in/sammijaderosser/",
+    github_username="Bergam0t")
+
+create_badges(
+    full_name="Tom Monks",
+    orcid_id="0000-0003-2631-4481",
+    linkedin_link="https://www.linkedin.com/in/thomas-monks-a24aa22/",
+    github_username="TomMonks")
+
+# Honorary Associates
+
+create_badges(
+    full_name="Andy Mayne",
+    orcid_id="0000-0003-1263-2286",
+    linkedin_link="https://www.linkedin.com/in/andy-mayne/")
+
+create_badges(
+    full_name="Rob Challen",
+    orcid_id="0000-0002-5504-7768",
+    linkedin_link="https://www.linkedin.com/in/robchallen/",
+    github_username="robchallen")

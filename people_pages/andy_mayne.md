@@ -1,8 +1,9 @@
 # Andy Mayne
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1263--2286-brightgreen)](https://orcid.org/0000-0003-1263-2286) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy_Mayne-0A66C2)](https://www.linkedin.com/in/andy-mayne/)
+```{include} ../badges/andy_mayne_badges.txt
+```
 
-> Chief Analytical Scientist, PenCHORD Associate Research Fellow & GW-SDE Chief Technology Officer
+> Chief Analytical Scientist, PenCHORD Honorary Associate Research Fellow & GW-SDE Chief Technology Officer
 
 ## Current projects
 

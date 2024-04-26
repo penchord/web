@@ -1,3 +1,15 @@
 # Sammi Rosser
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sammi_Rosser-0A66C2)](https://www.linkedin.com/in/sammijaderosser/?originalSubdomain=uk)
+```{include} ../badges/sammi_rosser_badges.txt
+```
+
+> Postdoctoral Research Fellow
+
+## Current projects
+
+`````{grid} 2
+````{grid-item-card}
+
+[![HSMA logo](../images/hsma_logo.png)](../project_pages/hsma.md)
+````
+`````

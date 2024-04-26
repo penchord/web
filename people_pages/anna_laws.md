@@ -1,6 +1,38 @@
 # Anna Laws
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2145--0487-brightgreen)](https://orcid.org/0000-0002-2145-0487)
+```{include} ../badges/anna_laws_badges.txt
+```
+
+> Research Associate at the University of Exeter
+
+## Current projects
+
+`````{grid} 2
+````{grid-item-card}
+
+[SAMueL-2](../project_pages/stroke_maternity.md)
+````
+````{grid-item-card}
+
+[OPTIMIST](../project_pages/stroke_maternity.md)
+````
+`````
+
+`````{grid} 2
+````{grid-item-card}
+
+[MUSTER](../project_pages/stroke_maternity.md)
+````
+`````
+
+## Previous projects
+
+`````{grid} 2
+````{grid-item-card}
+
+[SAMueL-1](../project_pages/stroke_maternity.md)
+````
+`````
 
 ## Publications
 
