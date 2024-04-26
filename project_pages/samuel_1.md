@@ -77,7 +77,13 @@ Dr. Richard Francis, Head of Research, Stroke Association:
 
 Prof. Chris Price, Professor of Stroke and Applied Research, Newcastle University: 
 
+On SAMueL-1:
+
 > 'These results are relevant both to individual clinicians and to systems. For instance, clinicians may focus more on establishing stroke onset time to make better treatment decisions. Services could set the target rate for thrombolysis at a level based upon evidence.The research could lead to changes in local service assessments and targets. It will also feed into other research I am supporting about emergency pathways of care for stroke.'
+
+And, on SAMueL-2 (where analysis was provided for their hospital):
+
+> 'The modelling outputs and comparison between different scenarios has enabled real insights into whether the emergency stroke care our service provides is as expected for the population served, particularly in relation to the delivery of intravenous thrombolysis. This is vital for understanding which components of our local emergency stroke care pathway should be prioritised for improvement, and how we should interpret our service performance against national targets.'
 
 Dr. Jehath Syed, Clinical Pharmacist and Researcher, JSS Academy of Higher Education & Research, Mysuru: 
 
