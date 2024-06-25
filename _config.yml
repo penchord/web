@@ -19,3 +19,9 @@ parse:
     # don't forget to list any other extensions you want enabled,
     # including those that are enabled by default!
     - html_image
+
+# Add link to repository
+repository:
+  url: https://github.com/penchord/web
+html:
+  use_repository_button: true
