@@ -10,7 +10,7 @@ The key aim of the SAMueL work is to understand between-hospital variation in pr
 
 The figure below shows the pathway we are looking at, and the questions we are are asking. We use *clinical pathway simulation* to model the flow of patients through the emergency stroke pathway, so we can ask questions about what improvement in outcomes could be achieved by improving patient flow. We use machine learning to understand variation in decision to treat, so we can ask questions about what improvement in outcomes could be achieved by improving consistency around clinical decision-making.
 
-![](../images/samuel_pathway.png)
+![](./images/samuel_pathway.png)
 
 We tailor our modelling to process-speeds and decisions-to-treat at each hospital, and also base the models on hospital's own patient populations. This allows us to provide a realistic idea of what thrombolysis or thrombectomy use could be at each hospital, rather than providing the same target to all hospitals regardless of local patient population demographics.
 
@@ -77,7 +77,13 @@ Dr. Richard Francis, Head of Research, Stroke Association:
 
 Prof. Chris Price, Professor of Stroke and Applied Research, Newcastle University: 
 
+On SAMueL-1:
+
 > 'These results are relevant both to individual clinicians and to systems. For instance, clinicians may focus more on establishing stroke onset time to make better treatment decisions. Services could set the target rate for thrombolysis at a level based upon evidence.The research could lead to changes in local service assessments and targets. It will also feed into other research I am supporting about emergency pathways of care for stroke.'
+
+And, on SAMueL-2 (where analysis was provided for their hospital):
+
+> 'The modelling outputs and comparison between different scenarios has enabled real insights into whether the emergency stroke care our service provides is as expected for the population served, particularly in relation to the delivery of intravenous thrombolysis. This is vital for understanding which components of our local emergency stroke care pathway should be prioritised for improvement, and how we should interpret our service performance against national targets.'
 
 Dr. Jehath Syed, Clinical Pharmacist and Researcher, JSS Academy of Higher Education & Research, Mysuru: 
 
