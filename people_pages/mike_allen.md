@@ -7,7 +7,7 @@
 
 ## Publications
 
-```{include} ../publications/mike_allen_publications.txt
+```{include} ../publications/michael_allen_publications.txt
 ```
 
 ## Funding
