@@ -45,6 +45,16 @@ We have a very engaged patient and carer involvement group. They have helped sha
 
 ## Publications
 
+### SAMueL-2 preprints (due for final publication 2024/2025)
+
+Allen, M., Pearn, K., Jarvie, R., Laws, A., Frost, J., Farmer, L., McMeekin, P., Pope, C., Lang, I., Pratt-Boyden, K., Everson, R., & James, M. (2024). Stroke Audit Machine Learning (SAMueL-2). Zenodo. https://doi.org/10.5281/zenodo.12798409
+
+Pearn, K., Allen, M., Laws, A., & James, M. (2024). Are the patients who would benefit from thrombolysis the same ones as those receiving it? A machine learning study of the UK stroke registry. Zenodo. https://doi.org/10.5281/zenodo.12798299
+
+Pearn, K., Allen, M., Laws, A., & James, M. (2024). Thrombolysis: Are the results from the clinical trial meta-analysis seen in real life outcomes?  A machine learning study of the UK stroke registry. Zenodo. https://doi.org/10.5281/zenodo.12798319
+
+Pearn, K., Allen, M., Laws, A., McMeekin, P., & James, M. (2024). Identifying levers for improving thrombolysis use and outcomes – combining clinical pathway simulation and machine learning applied to the UK stroke registry. Zenodo. https://doi.org/10.5281/zenodo.13252978
+
 ### Peer reviewed papers
 
 Pearn, K, Allen, M., Laws, A., Monks, T., Everson, R. and James, M. (2023). What Would Other Emergency Stroke Teams Do? Using Explainable Machine Learning to Understand Variation in Thrombolysis Practice. European Stroke Journal 8 (4): 956–65. [link](https://doi.org/10.1177/23969873231189040)
