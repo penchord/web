@@ -1,5 +1,15 @@
 # PenCHORD publications
 
+## Stroke preprints (due for publication 2024/25)
+
+Allen, M., Pearn, K., Jarvie, R., Laws, A., Frost, J., Farmer, L., McMeekin, P., Pope, C., Lang, I., Pratt-Boyden, K., Everson, R., & James, M. (2024). Stroke Audit Machine Learning (SAMueL-2). Zenodo. https://doi.org/10.5281/zenodo.12798409
+
+Pearn, K., Allen, M., Laws, A., & James, M. (2024). Are the patients who would benefit from thrombolysis the same ones as those receiving it? A machine learning study of the UK stroke registry. Zenodo. https://doi.org/10.5281/zenodo.12798299
+
+Pearn, K., Allen, M., Laws, A., & James, M. (2024). Thrombolysis: Are the results from the clinical trial meta-analysis seen in real life outcomes?  A machine learning study of the UK stroke registry. Zenodo. https://doi.org/10.5281/zenodo.12798319
+
+Pearn, K., Allen, M., Laws, A., McMeekin, P., & James, M. (2024). Identifying levers for improving thrombolysis use and outcomes – combining clinical pathway simulation and machine learning applied to the UK stroke registry. Zenodo. https://doi.org/10.5281/zenodo.13252978
+
 ## Stroke (peer-reviewed papers)
 
 Alton, A., Flynn, D., Burgess, D., Ford, G.A., Price, C., James, M., McMeekin, P., Allen, M., Shaw, L., White, P. (2024) Stroke Survivor Views on Ambulance Redirection as a Strategy to Increase Access to Thrombectomy in England. British Paramedic Journal (in press).
