@@ -7,7 +7,7 @@
 
 ## Publications
 
-```{include} ../publications/kerry_pearn_publications.txt
+```{include} ../publications/mike_allen_publications.txt
 ```
 
 ## Funding
