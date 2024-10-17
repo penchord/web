@@ -111,6 +111,10 @@ David Hargroves, National Clinical Director for Stroke Medicine – NHS England
 
 > 'Dear Martin, thank you so much for your excellent talk and contribution to the whole 'Thrombolysis in Acute Stroke Collaborate' (TASC) day yesterday.  We are delighted with the collaboration with you and your colleagues from the SAMuel research group. I have real hopes that we will be able to start to make significant inroads to improving thombolysis rates.'
 
+Matt Tite, Director NHS Elect (NHS quality improvement organisation)
+
+> NHS hospitals delivering stroke services have joined a stroke network (Thrombolysis in Acute Stroke Pathway Collaborative) aimed at improving thrombolysis rates.  The sites work with us (NHS Elect) for a year.  It is essential at the beginning of the year to use data to identify opportunities.  The SAMueL online tool has become a corner stone tool regarding engagement with sites. The tool identifies with the local population what percentage of thrombolysis is realistic, but then goes on to help get sites to realise that opportunity.  We do a 10 patient review to understand missed thrombolysis opportunities.  This was a manual process, and now the SAMueL tool is used to give an independent view of opportunity.
+
 
 ## Web App
 
