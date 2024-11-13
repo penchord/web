@@ -133,8 +133,6 @@ David Hargroves, National Clinical Director for Stroke, NHS England:
 
 > 'The Newcastle and Exeter research groups have been pivotal in the planning of mechanical thrombectomy to the population of England. Their work has allowed us to plan, deliver and sustain and fund the 24 neuroscience centres in this country and also map the requirement for 2 additional non-neuroscience centres delivering mechanical thrombectomy. We are now able to deliver 4,500 procedures per year, which mean 1,000 patients are less disabled. Their work has been critical to our ability to deliver this to the NHS' 
 
-David Hargroves, NHS England National Clinical Director of Stroke.
-
 Martin Dennis, Stroke Specialty advisor to the Chief Medical Officer (NHS Scotland):
  
 > 'The modelling of hyperacute stroke care in Scotland was an important part of the Scottish Government’s programme to plan and implement a Scotland wide thrombectomy service. The modelling was commissioned by the Thrombectomy Advisory Group (TAG) and was based on data from the Scottish Stroke Care Audit. It provided estimates of the likely thrombolysis and thrombectomy volumes, their distributions across centres, and the likely gains in patient outcomes. The results of the modelling were important to the decisions by TAG to
