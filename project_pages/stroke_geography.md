@@ -129,11 +129,9 @@ Professor Tony Rudd, National Clinical Director for Stroke, NHS England:
 
 > 'The modelling work undertaken by PenCHORD has been invaluable in helping the NHS decide how and where services for thrombectomy for stroke should be organised. It has also raised critical questions about the organisation of the whole of acute stroke care in way that will influence the new National Stroke Plan for England'
 
-David Hargroves, National Clinical Director for Stroke, NHS England:
+Dr David Hargroves, National Clinical Director for Stroke, NHS England:
 
-> 'The Newcastle and Exeter research groups have been pivotal in the planning of mechanical thrombectomy to the population of England. Their work has allowed us to plan, deliver and sustain and fund the 24 neuroscience centres in this country and also map the requirement for 2 additional non-neuroscience centres delivering mechanical thrombectomy. We are now able to deliver 4,500 procedures per year, which mean 1,000 patients are less disabled. Their work has been critical to our ability to deliver this to the NHS' 
-
-David Hargroves, NHS England National Clinical Director of Stroke.
+> 'The Newcastle and Exeter research groups have been pivotal in the planning for the delivery of mechanical thrombectomy to the population of England. Their work has enabled us to plan, deliver, sustain and fund the 24 neuroscience centres in this country and also map the requirement for 2 additional non-neuroscience centres delivering mechanical thrombectomy. We are now able to deliver 4,500 procedures per year, which means 1,000 patients are less disabled. Their work has been critical to our ability to deliver this to the NHS' 
 
 Martin Dennis, Stroke Specialty advisor to the Chief Medical Officer (NHS Scotland):
  
