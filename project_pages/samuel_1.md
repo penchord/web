@@ -77,6 +77,10 @@ Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). WHAT WOULD OTHER
 
 ## Quotes
 
+David Hargroves, NHS England National Clinical director of stroke, on use of the SAMueL team as part of the NHS England / NHS Elect "Thrombolysis in acute stroke collaborative":
+
+> 'The program’s success supports the wider use of machine learning to support clinically driven quality improvement'
+
 Noreen Kamal, editor of *Stroke*:
 
 > 'Both machine learning and simulation modeling provide an exciting new frontier for acute stroke research. These SAMueL approaches can provide insight for process improvements that will result in better patient outcomes'
