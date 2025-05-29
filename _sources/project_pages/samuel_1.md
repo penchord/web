@@ -86,12 +86,12 @@ Based on treatment rates and treatment efficacy estimated by SAMueL, the followi
 
 |                                                                  | Pre-Tasc | TASC | Difference |
 |------------------------------------------------------------------|----------|------|------------|
-| Patients receiving thrombolysis (9.7% pre-TASC, 14.5% post-TASC) | 406      | 607  | 201        |
-| Deaths avoided                                                   | 13       | 20   | 6          |
-| Death or severe disability avoided                               | 21       | 32   | 10         |
-| Independent living                                               | 30       | 45   | 15         |
-| Disability-free living                                           | 26       | 38   | 13         |
-| Some level of improved outcome (weighted mRS shift >=  0.25)     | 92       | 137  | 45         |
+| Patients receiving thrombolysis (9.7% pre-TASC, 14.5% post-TASC) | 406      | 607  | + 201      |
+| Deaths avoided                                                   | 13       | 20   | + 6        |
+| Death or severe disability avoided                               | 21       | 32   | + 10       |
+| Independent living                                               | 30       | 45   | + 15       |
+| Disability-free living                                           | 26       | 38   | + 13       |
+| Some level of improved outcome (weighted mRS shift >=  0.25)     | 92       | 137  | + 45       |
 
 ## Quotes
 
