@@ -8,8 +8,6 @@ PenCHORD works with, and teaches, exclusively open source tools (such as Python,
 
 PenCHORD is the [NIHR Applied Research Collaboration South West Peninsula's (PenARC's)](https://arc-swp.nihr.ac.uk/about-penarc/) Operational Research and Data Science Team.
 
-![](./images/PenCHORD_team.jpg)
-
 ## Vision
 > We develop, use, share, and teach innovative applied open data science and modelling methods to help NHS healthcare providers deliver higher quality healthcare to more patients.
 
