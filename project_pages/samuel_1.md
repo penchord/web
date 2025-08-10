@@ -75,6 +75,24 @@ Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). What would other
 
 Pearn, K., Allen, M., Laws, A., Everson, R. & James, M. (2023). WHAT WOULD OTHER EMERGENCY STROKE TEAMS DO? Using explainable machine learning to understand variation in thrombolysis (clot-busting) practice. AI UK 2023 (Turing Institute), London, UK. Zenodo. [https://doi.org/10.5281/zenodo.7759059](https://doi.org/10.5281/zenodo.7759059)
 
+
+## TASC (Thrombolysis in acute stroke collaborative)
+
+SAMueL was part of the NHS-England sponsored Thrombolysis in acute stroke collaborative (TASC) group. TASC involved the SAMueL project, SSNAP, GIRFT and NHS Elect. Six stroke units in phase I, who had statistically low IVT rates enrolled in 2023. This clinically lead programme used a unique machine learning and clinical pathway simulation tool (SAMueL – Stroke Audit Machine Learning) of past use of IVT, identifying the most meaningful areas contributing to lower thrombolysis rates / opportunities for improvements. TASC offered diverse support, including data analysis, QI mentoring, and clinical workshops over a 12-month period. All six units demonstrated progressive and sustained improvement in IV lysis rates (14.4% April – Dec 2024 from 9.7% Jan – September 2023) equating to a >50% improvement. Key themes from the program: ascertaining symptom onset time, speeding up in hospital processes, increasing the treatment rates of the “less than ideal” IVT patients.
+
+Based on treatment rates and treatment efficacy estimated by SAMueL, the following benefits are expected.
+
+*Change in thrombolysis and expected outcomes from pre-TASC (Jan – September 2023) to post-TASC (April – Dec 2024)*
+
+|                                                                  | Pre-Tasc | TASC | Difference |
+|------------------------------------------------------------------|----------|------|------------|
+| Patients receiving thrombolysis (9.7% pre-TASC, 14.5% post-TASC) | 406      | 607  | + 201      |
+| Deaths avoided                                                   | 13       | 20   | + 6        |
+| Death or severe disability avoided                               | 21       | 32   | + 10       |
+| Independent living                                               | 30       | 45   | + 15       |
+| Disability-free living                                           | 26       | 38   | + 13       |
+| Some level of improved outcome (weighted mRS shift >=  0.25)     | 92       | 137  | + 45       |
+
 ## Quotes
 
 David Hargroves, NHS England National Clinical director of stroke, on use of the SAMueL team as part of the NHS England / NHS Elect "Thrombolysis in acute stroke collaborative":
